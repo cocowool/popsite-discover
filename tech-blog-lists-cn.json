@@ -286,5 +286,13 @@
         "rss": "http://feeds.feedburner.com/tualatrix",
         "status": "active",
         "added_date": "2026-06-12"
+    },
+    {
+        "name": "kok的笔记本",
+        "url": "https://wocai.de/",
+        "description": "分享知识和经验，让世界更美好一些",
+        "rss": "https://wocai.de/index.xml",
+        "status": "active",
+        "added_date": "2026-06-15"
     }
 ]
