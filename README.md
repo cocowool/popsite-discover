@@ -1,15 +1,13 @@
 # popsite.cn - 独立博客发现计划
 
-这个仓库用来发现并收录那些持续原创、持续更新的个人博客。在AI大模型越来越发达的时代，坚持自主书写、原创输出的博客越为珍贵。
-
-> 今天看到朋友发的一个内容：AI模型越先进，公众号等平台上越是太多的注水内容，没把AI用来生产优质内容，全是自动化生成文章，味同嚼蜡。
+这个仓库用来发现并收录那些持续原创、持续更新的个人博客。
 
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**37** 个
-- 活跃博客：**25** 个
-- 最后更新：**2026-06-15 20:54:14**
+- 收录博客数量：**40** 个
+- 活跃博客：**28** 个
+- 最后更新：**2026-06-16 15:44:37**
 
 ## 收录的博客列表 / Blog 
 
@@ -21,6 +19,7 @@
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
+| ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
@@ -30,6 +29,7 @@
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
@@ -45,6 +45,7 @@
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |

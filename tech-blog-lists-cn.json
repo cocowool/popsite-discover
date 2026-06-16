@@ -310,5 +310,13 @@
         "rss": "https://youngxhui.top/index.xml",
         "status": "active",
         "added_date": "2026-06-16"
-    }    
+    },
+    {
+        "name": "林中阴影",
+        "url": "https://blog.heysh.xyz/",
+        "description": "",
+        "rss": "https://blog.heysh.xyz/feed.xml",
+        "status": "active",
+        "added_date": "2026-06-16"
+    }
 ]
