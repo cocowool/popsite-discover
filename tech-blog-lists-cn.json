@@ -294,5 +294,21 @@
         "rss": "https://wocai.de/index.xml",
         "status": "active",
         "added_date": "2026-06-15"
-    }
+    },
+    {
+        "name": "WUJINGQUAN",
+        "url": "https://www.wujingquan.com/",
+        "description": "",
+        "rss": "https://www.wujingquan.com/feed",
+        "status": "active",
+        "added_date": "2026-06-15"
+    },
+    {
+        "name": "ISLAND",
+        "url": "https://youngxhui.top/",
+        "description": "youngxhui blog,🌟追求成为一名 indie hack，🚀创造属于自己的编码魔法。专注技术，喜欢探索新鲜事物，对于 golang, neovim 等会做一些分享。",
+        "rss": "https://youngxhui.top/index.xml",
+        "status": "active",
+        "added_date": "2026-06-16"
+    }    
 ]

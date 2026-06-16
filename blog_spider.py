@@ -9,6 +9,32 @@ import pypinyin
 import chardet
 from urllib.parse import urljoin
 
+# 部分网页响应没指定 encoding，或用了与内容编码不一致的编码，需要探测并修正
+def get_encoding(response):
+    content_type = response.headers.get('Content-Type', '')
+    header_encoding = None
+    if 'charset=' in content_type.lower():
+        # 提取 chaarset= 后面的的值，并去掉可能存在的引号
+        match = re.search(r'charset=([^;]+)', content_type, re.IGNORECASE)
+        if match:
+            header_encoding = match.group(1).strip().strip('"\'')
+
+    if header_encoding:
+        return header_encoding
+    
+    # 尝试使用 chardet 库检测编码
+    apparent_encoding = response.apparent_encoding
+    if apparent_encoding:
+        try:
+            html_text = response.content.decode(apparent_encoding, errors='ignore')
+            meta_match = re.search(r'charset=["\']?([^"\'\s;>]+)', html_text, re.IGNORECASE)
+            if meta_match:
+                return meta_match.group(1)
+        except Exception as e:
+            print(f"Error decoding with {apparent_encoding}: {e}")
+            return None
+
+    return apparent_encoding
 
 # 读取中文博客列表清单，生成 Markdown 格式的列表
 def get_blog_info(url, method = "requests"):
@@ -30,16 +56,9 @@ def get_blog_info(url, method = "requests"):
         response.raise_for_status()  # 如果响应状态码不是 200，会抛出 HTTPError 异常
 
         # 判断网页编码
-        charset_data = chardet.detect( response.content )
-        if charset_data['encoding'].lower() != response.encoding.lower():
-            if charset_data['confidence'] > 0.9:
-                # Reference : https://blog.csdn.net/weixin_45975639/article/details/123737275
-                response.encoding = charset_data['encoding']
-            else:
-                charset = re.search(r'charset=["|\'](.*?)["|\']', response.text ).group(1).strip()
-                # print(charset)
-                if charset:
-                    response.encoding = charset
+        html_encoding = get_encoding(response)
+        if html_encoding:
+            response.encoding = html_encoding
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -47,7 +66,22 @@ def get_blog_info(url, method = "requests"):
         blog_title = soup.title.get_text(strip=True) if soup.title else ''
         
         # 获取 Description
-        tag_description = soup.find('meta', attrs={'name': 'description'})
+        blog_description = ''
+
+        tag_description = soup.find('meta', attrs={'name': re.compile(r'^description$',re.IGNORECASE)})
+        if tag_description and tag_description.get('content'):
+            blog_description = tag_description['content'].strip()
+
+        if not blog_description:
+            og_description = soup.find('meta', attrs={'property': 'og:description'})
+            if og_description and og_description.get('content'):
+                blog_description = og_description['content'].strip()
+
+        if not blog_description:
+            tw_description = soup.find('meta', attrs={'name': 'twitter:description'})
+            if tw_description and tw_description.get('content'):
+                blog_description = tw_description['content'].strip()
+
         # print(tag_description['content'])
         blog_description = tag_description['content'].strip() if tag_description and tag_description.get('content') else ''
         # print("Blog Description:" + blog_description)
