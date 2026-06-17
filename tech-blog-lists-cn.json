@@ -318,5 +318,29 @@
         "rss": "https://blog.heysh.xyz/feed.xml",
         "status": "active",
         "added_date": "2026-06-16"
+    },
+    {
+        "name": "Jiajun的技术笔记",
+        "url": "https://jiajunhuang.com/",
+        "description": "享受技术带来的快乐~分布式系统/高并发处理/Golang/Python/Haskell/C/微服务/Android/安卓/Kotlin/软件工程/源码阅读与分析",
+        "rss": "https://jiajunhuang.com/rss",
+        "status": "active",
+        "added_date": "2026-06-16"
+    },
+    {
+        "name": "白宦成",
+        "url": "https://www.ixiqin.com/",
+        "description": "Just Keep Shipping",
+        "rss": "https://www.ixiqin.com/feed/",
+        "status": "active",
+        "added_date": "2026-06-17"
+    },
+    {
+        "name": "Yihui Xie | 谢益辉",
+        "url": "https://yihui.org/",
+        "description": "Personal website of Yihui Xie; 谢益辉的个人网站",
+        "rss": "https://yihui.org/index.xml",
+        "status": "active",
+        "added_date": "2026-06-17"
     }
 ]
