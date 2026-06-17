@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**40** 个
-- 活跃博客：**28** 个
-- 最后更新：**2026-06-16 20:49:29**
+- 收录博客数量：**43** 个
+- 活跃博客：**31** 个
+- 最后更新：**2026-06-17 20:11:02**
 
 ## 收录的博客列表 / Blog 
 
@@ -22,6 +22,7 @@
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
+| Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
@@ -32,6 +33,7 @@
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
+| Yihui Xie | 谢益辉 | [🔗](https://yihui.org/) | 2026-06-17 | ✅ 活跃 |
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
@@ -49,6 +51,7 @@
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
+| 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
 | 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
