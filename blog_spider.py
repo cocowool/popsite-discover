@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 import time
-import cgi
+import random
 import json
 import pypinyin
 import chardet
@@ -44,7 +44,16 @@ def get_blog_info(url, method = "requests"):
         my_cookie = ''
 
         my_headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/605.1.15',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1'
         }
 
         # if config['cookie']:
@@ -53,6 +62,11 @@ def get_blog_info(url, method = "requests"):
         s = requests.session()
         s.keep_alive = False
         response = s.get(url, headers = my_headers, timeout = 10)
+
+        if response.status_code == 429:
+            print("Error fetching blog info for {url}: 429 Too Many Requests.")
+            return
+        
         response.raise_for_status()  # 如果响应状态码不是 200，会抛出 HTTPError 异常
 
         # 判断网页编码
@@ -96,8 +110,16 @@ def get_blog_info(url, method = "requests"):
             common_paths = ['/feed', '/atom.xml', '/rss.xml', '/feed.xml', '/index.xml', '/?feed=rss2']
             for path in common_paths:
                 try:
+                    # 增加随机延时，避免被触发限流
+                    time.sleep(random.uniform(1.0, 2.5))
+
                     test_url = url.rstrip('/') + path
                     test_res = requests.get(test_url, headers=my_headers, timeout=5)
+
+                    if test_res.status_code == 429:
+                        print("探测RSS时被限流，停止继续探测。")
+                        break  # 如果被限流了，就不继续测试了
+
                     if test_res.status_code == 200:
                         content_type = test_res.headers.get('Content-Type', '')
                         text_head = test_res.text[:200].strip()
