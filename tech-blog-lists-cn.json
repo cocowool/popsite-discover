@@ -342,5 +342,21 @@
         "rss": "https://yihui.org/index.xml",
         "status": "active",
         "added_date": "2026-06-17"
+    },
+    {
+        "name": "Usubeni Fantasy",
+        "url": "https://ssshooter.com/",
+        "description": "Welcome to Usubeni Fantasy.",
+        "rss": "https://ssshooter.com/rss.xml",
+        "status": "active",
+        "added_date": "2026-06-17"
+    },
+    {
+        "name": "KAIX.IN",
+        "url": "https://kaix.in/",
+        "description": "写作作为一种思考",
+        "rss": "https://kaix.in/feed/",
+        "status": "active",
+        "added_date": "2026-06-17"
     }
 ]
