@@ -366,5 +366,13 @@
         "rss": "https://igaojin.me/atom.xml",
         "status": "active",
         "added_date": "2026-06-22"
+    },
+    {
+        "name": "谢乾坤",
+        "url": "https://kingname.info/",
+        "description": "高级数据挖掘工程师，《Python 爬虫开发 从入门到实战》、《左手 MongoDB 右手 Redis——从入门到商业实战》作者。 微软最有价值专家 MVP，Python, Scrapy, MongoDB, Redis, Pandas, Golang。",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-06-22"
     }
 ]
