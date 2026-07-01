@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**43** 个
-- 活跃博客：**31** 个
-- 最后更新：**2026-06-21 19:27:50**
+- 收录博客数量：**46** 个
+- 活跃博客：**34** 个
+- 最后更新：**2026-06-30 19:54:32**
 
 ## 收录的博客列表 / Blog 
 
@@ -23,6 +23,7 @@
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
+| KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
@@ -32,6 +33,7 @@
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
 | Yihui Xie | 谢益辉 | [🔗](https://yihui.org/) | 2026-06-17 | ✅ 活跃 |
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
@@ -57,6 +59,7 @@
 | 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
 | 阮一峰的网络日志 | [🔗](https://www.ruanyifeng.com/blog/) | 2026-06-05 | ✅ 活跃 |
 | 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
+| 高金的博客 | [🔗](https://igaojin.me/) | 2026-06-22 | ✅ 活跃 |
 | 鸟窝 | [🔗](https://colobu.com/) | 2026-06-11 | ✅ 活跃 |
 
 ## 如何提交你的博客
