@@ -374,5 +374,29 @@
         "rss": "",
         "status": "no_rss",
         "added_date": "2026-06-22"
+    },
+    {
+        "name": "高金的博客",
+        "url": "https://igaojin.me/",
+        "description": "高金的个人博客，记录一些关于爬虫、学习python、区块链、薅羊毛以及瞎折腾的一些东西",
+        "rss": "https://igaojin.me/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-03"
+    },
+    {
+        "name": "臨池不輟",
+        "url": "https://keelii.com/",
+        "description": "芝兰生于深林，不以无人而不芳，君子修道立德，不为穷困而败节。",
+        "rss": "https://keelii.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-03"
+    },
+    {
+        "name": "见字如面",
+        "url": "https://hiwannz.com",
+        "description": "",
+        "rss": "https://hiwannz.com/feed",
+        "status": "active",
+        "added_date": "2026-07-03"
     }
 ]
