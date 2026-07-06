@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**46** 个
+- 收录博客数量：**47** 个
 - 活跃博客：**34** 个
-- 最后更新：**2026-06-30 19:54:32**
+- 最后更新：**2026-07-05 19:15:31**
 
 ## 收录的博客列表 / Blog 
 
@@ -56,6 +56,7 @@
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
+| 谢乾坤 | [🔗](https://kingname.info/) | 2026-06-22 | ⚠️ 无RSS |
 | 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
 | 阮一峰的网络日志 | [🔗](https://www.ruanyifeng.com/blog/) | 2026-06-05 | ✅ 活跃 |
 | 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
