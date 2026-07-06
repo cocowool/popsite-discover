@@ -406,5 +406,13 @@
         "rss": "https://102no.com/atom.xml",
         "status": "active",
         "added_date": "2026-07-06"
+    },
+    {
+        "name": "江边的旱鸭子",
+        "url": "https://joouis.com/",
+        "description": "Stand high, think different.",
+        "rss": "https://joouis.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-06"
     }
 ]
