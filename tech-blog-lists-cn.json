@@ -398,5 +398,13 @@
         "rss": "https://hiwannz.com/feed",
         "status": "active",
         "added_date": "2026-07-03"
+    },
+    {
+        "name": "把酒诗代码",
+        "url": "https://102no.com/",
+        "description": "是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）",
+        "rss": "https://102no.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-06"
     }
 ]
