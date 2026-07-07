@@ -430,5 +430,13 @@
         "rss": "https://jyzhu.top/feed.xml",
         "status": "active",
         "added_date": "2026-07-07"
+    },
+    {
+        "name": "范叶亮",
+        "url": "https://leovan.me/",
+        "description": "范叶亮的个人网站 | Leo Van's Personal Website",
+        "rss": "https://leovan.me/feed",
+        "status": "active",
+        "added_date": "2026-07-07"
     }
 ]
