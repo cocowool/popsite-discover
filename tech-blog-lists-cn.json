@@ -422,5 +422,13 @@
         "rss": "https://www.ioiox.com/feed/",
         "status": "active",
         "added_date": "2026-07-07"
+    },
+    {
+        "name": "Jiayin Zhu",
+        "url": "https://jyzhu.top/",
+        "description": "",
+        "rss": "https://jyzhu.top/feed.xml",
+        "status": "active",
+        "added_date": "2026-07-07"
     }
 ]
