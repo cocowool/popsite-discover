@@ -414,5 +414,13 @@
         "rss": "https://joouis.com/atom.xml",
         "status": "active",
         "added_date": "2026-07-06"
+    },
+    {
+        "name": "思有云",
+        "url": "https://www.ioiox.com/",
+        "description": "IOIOX 个人博客 生活记录 原创文章 技术分享 资源分享 群晖技巧 群晖教程 免费frp 免费内网穿透",
+        "rss": "https://www.ioiox.com/feed/",
+        "status": "active",
+        "added_date": "2026-07-07"
     }
 ]
