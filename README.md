@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**50** 个
-- 活跃博客：**37** 个
-- 最后更新：**2026-07-06 19:53:44**
+- 收录博客数量：**54** 个
+- 活跃博客：**41** 个
+- 最后更新：**2026-07-08 19:22:48**
 
 ## 收录的博客列表 / Blog 
 
@@ -23,6 +23,7 @@
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
+| Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ✅ 活跃 |
 | KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
@@ -49,9 +50,12 @@
 | 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
+| 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
+| 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
+| 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
