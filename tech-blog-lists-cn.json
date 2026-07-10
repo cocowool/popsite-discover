@@ -438,5 +438,13 @@
         "rss": "https://leovan.me/feed",
         "status": "active",
         "added_date": "2026-07-07"
+    },
+    {
+        "name": "CodeSky 代码天空",
+        "url": "https://www.codesky.me/",
+        "description": "随手记录自己的学习过程",
+        "rss": "https://www.codesky.me/feed",
+        "status": "active",
+        "added_date": "2026-07-09"
     }
 ]
