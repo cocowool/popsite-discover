@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**56** 个
-- 活跃博客：**43** 个
-- 最后更新：**2026-07-12 19:03:08**
+- 收录博客数量：**57** 个
+- 活跃博客：**44** 个
+- 最后更新：**2026-07-13 19:21:05**
 
 ## 收录的博客列表 / Blog 
 
@@ -25,6 +25,7 @@
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ✅ 活跃 |
+| Just lepture | [🔗](https://lepture.com/) | 2026-07-13 | ✅ 活跃 |
 | KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
