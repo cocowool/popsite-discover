@@ -446,5 +446,13 @@
         "rss": "https://www.codesky.me/feed",
         "status": "active",
         "added_date": "2026-07-09"
+    },
+    {
+        "name": "Just lepture",
+        "url": "https://lepture.com/",
+        "description": "Love its people, but never trust its government.",
+        "rss": "https://lepture.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-07-13"
     }
 ]
