@@ -454,5 +454,13 @@
         "rss": "https://lepture.com/feed.xml",
         "status": "active",
         "added_date": "2026-07-13"
+    },
+    {
+        "name": "idealclover",
+        "url": "https://idealclover.top/",
+        "description": "翠翠的个人名片👋",
+        "rss": "https://idealclover.top/feed",
+        "status": "active",
+        "added_date": "2026-07-14"
     }
 ]
