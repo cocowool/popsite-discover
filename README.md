@@ -7,9 +7,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**57** 个
-- 活跃博客：**44** 个
-- 最后更新：**2026-07-13 19:21:05**
+- 收录博客数量：**58** 个
+- 活跃博客：**45** 个
+- 最后更新：**2026-07-14 19:16:58**
 
 ## 收录的博客列表 / Blog 
 
@@ -42,6 +42,7 @@
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
+| idealclover | [🔗](https://idealclover.top/) | 2026-07-14 | ✅ 活跃 |
 | kok的笔记本 | [🔗](https://wocai.de/) | 2026-06-15 | ✅ 活跃 |
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
