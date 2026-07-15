@@ -470,5 +470,13 @@
         "rss": "https://kanchuan.com/feed.xml",
         "status": "active",
         "added_date": "2026-07-15"
+    },
+    {
+        "name": "崎径 其镜",
+        "url": "https://www.z16388.top/",
+        "description": "求学道路上的行车记录仪",
+        "rss": "https://www.z16388.top/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-15"
     }
 ]
