@@ -462,5 +462,13 @@
         "rss": "https://idealclover.top/feed",
         "status": "active",
         "added_date": "2026-07-14"
+    },
+    {
+        "name": "陈看川",
+        "url": "https://kanchuan.com/",
+        "description": "分享原创开发技术和服务运营笔记，探索个人开发者成长之道。",
+        "rss": "https://kanchuan.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-07-15"
     }
 ]
