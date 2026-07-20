@@ -478,5 +478,13 @@
         "rss": "https://www.z16388.top/atom.xml",
         "status": "active",
         "added_date": "2026-07-15"
+    },
+    {
+        "name": "加菲猫的创客工坊",
+        "url": "https://www.gaficat.com/",
+        "description": "",
+        "rss": "https://www.gaficat.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-20"
     }
 ]
