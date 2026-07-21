@@ -1,5 +1,7 @@
 # popsite.cn - 独立博客发现计划
 
+This repository is used to discover and collect blogs that continuous original and updated by personal. In the era of AI, these blogs are very preciouse. 
+
 这个仓库用来发现并收录那些持续原创、持续更新的个人博客。在AI大模型越来越发达的时代，坚持自主书写、原创输出的博客越为珍贵。
 
 > 今天看到朋友发的一个内容：AI模型越先进，公众号等平台上越是太多的注水内容，没把AI用来生产优质内容，全是自动化生成文章，味同嚼蜡。
@@ -7,9 +9,9 @@
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**60** 个
-- 活跃博客：**47** 个
-- 最后更新：**2026-07-19 19:03:16**
+- 收录博客数量：**61** 个
+- 活跃博客：**48** 个
+- 最后更新：**2026-07-20 19:41:46**
 
 ## 收录的博客列表 / Blog 
 
@@ -48,6 +50,7 @@
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
+| 加菲猫的创客工坊 | [🔗](https://www.gaficat.com/) | 2026-07-20 | ✅ 活跃 |
 | 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 唐巧的博客 | [🔗](https://blog.devtang.com/) | 2026-06-10 | ✅ 活跃 |
 | 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
