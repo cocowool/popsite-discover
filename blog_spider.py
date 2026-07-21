@@ -11,6 +11,10 @@ from urllib.parse import urljoin
 
 # 部分网页响应没指定 encoding，或用了与内容编码不一致的编码，需要探测并修正
 def get_encoding(response):
+    # print(response.encoding)
+    if response.encoding != 'ISO-8859-1':
+        return response.encoding
+
     content_type = response.headers.get('Content-Type', '')
     header_encoding = None
     if 'charset=' in content_type.lower():
@@ -47,7 +51,7 @@ def get_blog_info(url, method = "requests"):
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/605.1.15',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Encoding': 'gzip, deflate',
             'Connection': 'keep-alive',
             'Upgrade-Insecure-Requests': '1',
             'Sec-Fetch-Dest': 'document',
