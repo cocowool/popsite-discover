@@ -101,7 +101,7 @@ def get_blog_info(url, method = "requests"):
                 blog_description = tw_description['content'].strip()
 
         # print(tag_description['content'])
-        blog_description = tag_description['content'].strip() if tag_description and tag_description.get('content') else ''
+        # blog_description = tag_description['content'].strip() if tag_description and tag_description.get('content') else ''
         # print("Blog Description:" + blog_description)
 
         # 探测RSS
