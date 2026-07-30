@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**61** 个
-- 活跃博客：**48** 个
-- 最后更新：**2026-07-29 19:13:21**
+- 收录博客数量：**62** 个
+- 活跃博客：**49** 个
+- 最后更新：**2026-07-30 19:23:10**
 
 ## 收录的博客列表 / Blog 
 
@@ -66,6 +66,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
+| 胡涂说 | [🔗](https://hutusi.com/) | 2026-07-30 | ✅ 活跃 |
 | 臨池不輟 | [🔗](https://keelii.com/) | 2026-07-03 | ✅ 活跃 |
 | 范叶亮 | [🔗](https://leovan.me/) | 2026-07-07 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
