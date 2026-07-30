@@ -486,5 +486,13 @@
         "rss": "https://www.gaficat.com/atom.xml",
         "status": "active",
         "added_date": "2026-07-20"
+    },
+    {
+        "name": "胡涂说",
+        "url": "https://hutusi.com/",
+        "description": "胡涂说博客/好奇心周刊",
+        "rss": "https://hutusi.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-07-30"
     }
 ]
