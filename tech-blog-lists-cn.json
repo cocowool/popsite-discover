@@ -494,5 +494,21 @@
         "rss": "https://hutusi.com/feed.xml",
         "status": "active",
         "added_date": "2026-07-30"
+    },
+    {
+        "name": "四公子的剑",
+        "url": "https://www.965.one/",
+        "description": "始于俗世，心存善念",
+        "rss": "https://www.965.one/atom.xml",
+        "status": "active",
+        "added_date": "2026-07-30"
+    },
+    {
+        "name": "I‘m Hang",
+        "url": "https://huhuhang.com/",
+        "description": "A hobbyist iOS developer and machine learning enthusiast based in Chengdu. 🐼",
+        "rss": "https://huhuhang.com/feed",
+        "status": "active",
+        "added_date": "2026-07-30"
     }
 ]
