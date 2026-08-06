@@ -510,5 +510,21 @@
         "rss": "https://huhuhang.com/feed",
         "status": "active",
         "added_date": "2026-07-30"
+    },
+    {
+        "name": "晚花行乐",
+        "url": "https://www.lfhacks.com/",
+        "description": "LFhacks.com is a personal blog.",
+        "rss": "https://www.lfhacks.com/index.xml",
+        "status": "active",
+        "added_date": "2026-08-06"
+    },
+    {
+        "name": "oldj",
+        "url": "https://oldj.net/",
+        "description": "oldj's blog",
+        "rss": "https://oldj.net/rss.xml",
+        "status": "active",
+        "added_date": "2026-08-06"
     }
 ]
