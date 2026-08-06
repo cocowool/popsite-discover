@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**62** 个
-- 活跃博客：**49** 个
-- 最后更新：**2026-08-05 19:26:49**
+- 收录博客数量：**66** 个
+- 活跃博客：**53** 个
+- 最后更新：**2026-08-06 23:56:13**
 
 ## 收录的博客列表 / Blog 
 
@@ -25,6 +25,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
+| I‘m Hang | [🔗](https://huhuhang.com/) | 2026-07-30 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ✅ 活跃 |
 | Just lepture | [🔗](https://lepture.com/) | 2026-07-13 | ✅ 活跃 |
@@ -47,12 +48,14 @@ This repository is used to discover and collect blogs that continuous original a
 | idealclover | [🔗](https://idealclover.top/) | 2026-07-14 | ✅ 活跃 |
 | kok的笔记本 | [🔗](https://wocai.de/) | 2026-06-15 | ✅ 活跃 |
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
+| oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
 | 加菲猫的创客工坊 | [🔗](https://www.gaficat.com/) | 2026-07-20 | ✅ 活跃 |
 | 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 唐巧的博客 | [🔗](https://blog.devtang.com/) | 2026-06-10 | ✅ 活跃 |
+| 四公子的剑 | [🔗](https://www.965.one/) | 2026-07-30 | ✅ 活跃 |
 | 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ✅ 活跃 |
@@ -60,6 +63,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
+| 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ✅ 活跃 |
