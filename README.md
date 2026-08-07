@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**66** 个
-- 活跃博客：**53** 个
-- 最后更新：**2026-08-06 23:56:13**
+- 收录博客数量：**67** 个
+- 活跃博客：**54** 个
+- 最后更新：**2026-08-07 18:53:36**
 
 ## 收录的博客列表 / Blog 
 
@@ -51,6 +51,7 @@ This repository is used to discover and collect blogs that continuous original a
 | oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
+| 以梦喂马 | [🔗](https://www.hwdef.org/) | 2026-08-07 | ✅ 活跃 |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
 | 加菲猫的创客工坊 | [🔗](https://www.gaficat.com/) | 2026-07-20 | ✅ 活跃 |
 | 卡片创作实验室 | [🔗](https://www.cnfeat.com/) | 2026-06-08 | ⚠️ 无RSS |
