@@ -526,5 +526,13 @@
         "rss": "https://oldj.net/rss.xml",
         "status": "active",
         "added_date": "2026-08-06"
+    },
+    {
+        "name": "以梦喂马",
+        "url": "https://www.hwdef.org/",
+        "description": "夜晚，能让人呼吸。",
+        "rss": "https://www.hwdef.org/index.xml",
+        "status": "active",
+        "added_date": "2026-08-07"
     }
 ]
