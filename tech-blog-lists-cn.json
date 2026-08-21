@@ -534,5 +534,29 @@
         "rss": "https://www.hwdef.org/index.xml",
         "status": "active",
         "added_date": "2026-08-07"
+    },
+    {
+        "name": "龚成博客",
+        "url": "https://laogongshuo.com/",
+        "description": "",
+        "rss": "https://laogongshuo.com/feed",
+        "status": "active",
+        "added_date": "2026-08-07"
+    },
+    {
+        "name": "Seven's blog",
+        "url": "https://blog.diqigan.cn/",
+        "description": "Seven's Blog",
+        "rss": "https://blog.diqigan.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-07"
+    },
+    {
+        "name": "治部少辅",
+        "url": "https://www.codewoody.com/",
+        "description": "晚来天雨雪，能饮一杯无？",
+        "rss": "https://www.codewoody.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"        
     }
 ]
