@@ -598,5 +598,45 @@
         "rss": "https://scottyeung.top/atom.xml",
         "status": "active",
         "added_date": "2026-08-21"
+    },
+    {
+        "name": "Origin - Singee's Blog",
+        "url": "https://blog.singee.me/",
+        "description": "",
+        "rss": "https://blog.singee.me/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "码志",
+        "url": "https://mazhuang.org/",
+        "description": "马壮的个人博客，公众号：闷骚的程序员",
+        "rss": "https://mazhuang.org/feed.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "北门清燕",
+        "url": "https://bmqy.net/",
+        "description": "北门清燕的个人空间，分享生活、记录点滴，给回忆一个绽放的美丽。",
+        "rss": "https://bmqy.net/feed.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "秋安 | 素生",
+        "url": "https://z.arlmy.me/",
+        "description": "误读人生，化人生活",
+        "rss": "https://z.arlmy.me/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "保罗的小宇宙",
+        "url": "https://paugram.com/",
+        "description": "Still single, still lonely.",
+        "rss": "https://paugram.com/feed/",
+        "status": "active",
+        "added_date": "2026-08-21"
     }
 ]
