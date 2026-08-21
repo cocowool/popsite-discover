@@ -574,5 +574,29 @@
         "rss": "https://www.xiejingyang.com/feed/",
         "status": "active",
         "added_date": "2026-08-21"
+    },
+    {
+        "name": "轶哥 - 火星人",
+        "url": "https://www.wyr.me/",
+        "description": "一个全栈程序员的技术博客。",
+        "rss": "https://www.wyr.me/rss.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "清竹志-(原清竹茶馆)",
+        "url": "https://blog.vadxq.com/",
+        "description": "清竹志,清竹茶馆-博客,vadxq,技术分享,前端开发,生活杂谈",
+        "rss": "https://blog.vadxq.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "YeungYeah's Context",
+        "url": "https://scottyeung.top/",
+        "description": "热爱折腾代码与工具，偶尔在焦虑中寻找平衡。\n这里没有标准答案，只有关于技术、阅读与生活感悟的真实上下文。",
+        "rss": "https://scottyeung.top/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
     }
 ]
