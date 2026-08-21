@@ -558,5 +558,21 @@
         "rss": "https://www.codewoody.com/atom.xml",
         "status": "active",
         "added_date": "2026-08-21"        
+    },
+    {
+        "name": "Dosk 技术站",
+        "url": "https://dosk.win/",
+        "description": "SpringHack 的无名技术小站",
+        "rss": "https://dosk.win/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-21"
+    },
+    {
+        "name": "Xieisabug",
+        "url": "https://www.xiejingyang.com/",
+        "description": "",
+        "rss": "https://www.xiejingyang.com/feed/",
+        "status": "active",
+        "added_date": "2026-08-21"
     }
 ]

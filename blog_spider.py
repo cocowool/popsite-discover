@@ -9,6 +9,8 @@ import pypinyin
 import chardet
 from urllib.parse import urljoin
 
+# @TODO 优化需求，如果输入的是二级域名，自动替换为一级域名获取信息
+
 # 部分网页响应没指定 encoding，或用了与内容编码不一致的编码，需要探测并修正
 def get_encoding(response):
     # print(response.encoding)
