@@ -38,6 +38,15 @@ def get_encoding(response):
         html_text = response.text
 
     # 2026-08-24 查找 meta 标签中的 charset 属性
+    meta_match = False
+    meta_match = re.search(r'<meta\s+charset=["\']?([^"\'\s;>]+)', html_text, re.IGNORECASE)
+    if meta_match:
+        return meta_match.group(1).strip()
+
+    meta_match = False
+    meta_match = re.search(r'<meta[^>]+http-equiv=["\']content-type["\'][^>]+charset=["\']?([^"\'>\s]+)', html_text, re.IGNORECASE)
+    if meta_match:
+        return meta_match.group(1).strip()
 
     # 尝试使用 chardet 库检测编码
     apparent_encoding = response.apparent_encoding
