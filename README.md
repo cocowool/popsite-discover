@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**80** 个
-- 活跃博客：**67** 个
-- 最后更新：**2026-08-23 18:25:55**
+- 收录博客数量：**83** 个
+- 活跃博客：**70** 个
+- 最后更新：**2026-08-24 18:37:02**
 
 ## 收录的博客列表 / Blog 
 
@@ -55,6 +55,7 @@ This repository is used to discover and collect blogs that continuous original a
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
 | oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
+| wuxinhua | [🔗](https://wuxinhua.com/) | 2026-08-24 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 以梦喂马 | [🔗](https://www.hwdef.org/) | 2026-08-07 | ✅ 活跃 |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
@@ -66,6 +67,8 @@ This repository is used to discover and collect blogs that continuous original a
 | 四公子的剑 | [🔗](https://www.965.one/) | 2026-07-30 | ✅ 活跃 |
 | 囧克斯 | [🔗](https://jiongks.name/) | 2026-06-10 | ✅ 活跃 |
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
+| 土木坛子 | [🔗](https://tumutanzi.com/) | 2026-08-24 | ✅ 活跃 |
+| 失眠海峡 - 我要与你坦诚相见 | [🔗](https://blog.imalan.cn/) | 2026-08-24 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
