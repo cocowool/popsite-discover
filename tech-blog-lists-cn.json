@@ -638,5 +638,13 @@
         "rss": "https://paugram.com/feed/",
         "status": "active",
         "added_date": "2026-08-21"
+    },
+    {
+        "name": "失眠海峡 - 我要与你坦诚相见",
+        "url": "https://blog.imalan.cn/",
+        "description": "我要与你坦诚相见",
+        "rss": "https://blog.imalan.cn/feed/index.xml",
+        "status": "active",
+        "added_date": "2026-08-24"
     }
 ]

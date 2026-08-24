@@ -13,10 +13,13 @@ from urllib.parse import urljoin
 
 # 部分网页响应没指定 encoding，或用了与内容编码不一致的编码，需要探测并修正
 def get_encoding(response):
-    # print(response.encoding)
-    if response.encoding != 'ISO-8859-1':
-        return response.encoding
+    
 
+    # print(response.encoding)
+    # if response.encoding != 'ISO-8859-1':
+    #     return response.encoding
+
+    # 2026-08-24 1.优先检查 HTTP 响应头
     content_type = response.headers.get('Content-Type', '')
     header_encoding = None
     if 'charset=' in content_type.lower():
@@ -27,7 +30,15 @@ def get_encoding(response):
 
     if header_encoding:
         return header_encoding
-    
+
+    # 2026-08-24 2.检查 HTML meta 标签
+    try:
+        html_text = response.content.decode('utf-8', errors='ignore')
+    except:
+        html_text = response.text
+
+    # 2026-08-24 查找 meta 标签中的 charset 属性
+
     # 尝试使用 chardet 库检测编码
     apparent_encoding = response.apparent_encoding
     if apparent_encoding:
@@ -40,7 +51,7 @@ def get_encoding(response):
             print(f"Error decoding with {apparent_encoding}: {e}")
             return None
 
-    return apparent_encoding
+    return 'utf-8'
 
 # 读取中文博客列表清单，生成 Markdown 格式的列表
 def get_blog_info(url, method = "requests"):
