@@ -646,5 +646,21 @@
         "rss": "https://blog.imalan.cn/feed/index.xml",
         "status": "active",
         "added_date": "2026-08-24"
+    },
+    {
+        "name": "wuxinhua",
+        "url": "https://wuxinhua.com/",
+        "description": "Blog about Engineering, Start-up Business, Tech trends | wuxinhua.com",
+        "rss": "https://wuxinhua.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-24"
+    },
+    {
+        "name": "土木坛子",
+        "url": "https://tumutanzi.com/",
+        "description": "",
+        "rss": "https://tumutanzi.com/feed",
+        "status": "active",
+        "added_date": "2026-08-24"
     }
 ]
