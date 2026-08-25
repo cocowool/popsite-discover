@@ -670,5 +670,13 @@
         "rss": "https://www.seis-jun.xyz/atom.xml",
         "status": "active",
         "added_date": "2026-08-25"
+    },
+    {
+        "name": "暗无天日",
+        "url": "https://www.lujun9972.win/",
+        "description": "",
+        "rss": "https://www.lujun9972.win/rss.xml",
+        "status": "active",
+        "added_date": "2026-08-25"
     }
 ]
