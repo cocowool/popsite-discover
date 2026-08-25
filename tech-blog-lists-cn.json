@@ -662,5 +662,13 @@
         "rss": "https://tumutanzi.com/feed",
         "status": "active",
         "added_date": "2026-08-24"
+    },
+    {
+        "name": "Jun Xie",
+        "url": "https://www.seis-jun.xyz/",
+        "description": "Jun Xie — Seismologist at Academy of Precision Measurement Science and Technology",
+        "rss": "https://www.seis-jun.xyz/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-25"
     }
 ]
