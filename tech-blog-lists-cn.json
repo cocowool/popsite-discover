@@ -702,12 +702,20 @@
         "rss": "https://wangxin.io/atom.xml",
         "status": "active",
         "added_date": "2026-08-26"
-    }，
+    },
     {
         "name": "Jartto's blog",
         "url": "http://jartto.wang/",
         "description": "最遗憾的不是把梦想丢在路上，而是梦想从未上路",
         "rss": "http://jartto.wang/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-26"
+    },
+    {
+        "name": "披萨盒的赛博日志",
+        "url": "https://blog.pushihao.com/",
+        "description": "披萨盒要统治世界",
+        "rss": "https://blog.pushihao.com/atom.xml",
         "status": "active",
         "added_date": "2026-08-26"
     }
