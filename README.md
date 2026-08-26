@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**83** 个
-- 活跃博客：**70** 个
-- 最后更新：**2026-08-24 18:37:02**
+- 收录博客数量：**85** 个
+- 活跃博客：**72** 个
+- 最后更新：**2026-08-25 18:36:17**
 
 ## 收录的博客列表 / Blog 
 
@@ -29,6 +29,7 @@ This repository is used to discover and collect blogs that continuous original a
 | I‘m Hang | [🔗](https://huhuhang.com/) | 2026-07-30 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ✅ 活跃 |
+| Jun Xie | [🔗](https://www.seis-jun.xyz/) | 2026-08-25 | ✅ 活跃 |
 | Just lepture | [🔗](https://lepture.com/) | 2026-07-13 | ✅ 活跃 |
 | KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
@@ -75,6 +76,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
+| 暗无天日 | [🔗](https://www.lujun9972.win/) | 2026-08-25 | ✅ 活跃 |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ✅ 活跃 |
