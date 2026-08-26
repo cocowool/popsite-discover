@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**85** 个
-- 活跃博客：**72** 个
-- 最后更新：**2026-08-25 18:36:17**
+- 收录博客数量：**90** 个
+- 活跃博客：**77** 个
+- 最后更新：**2026-08-26 19:45:50**
 
 ## 收录的博客列表 / Blog 
 
@@ -27,6 +27,8 @@ This repository is used to discover and collect blogs that continuous original a
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | I‘m Hang | [🔗](https://huhuhang.com/) | 2026-07-30 | ✅ 活跃 |
+| Jacky Wong | [🔗](https://jw1.dev/) | 2026-08-26 | ✅ 活跃 |
+| Jartto's blog | [🔗](http://jartto.wang/) | 2026-08-26 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ✅ 活跃 |
 | Jun Xie | [🔗](https://www.seis-jun.xyz/) | 2026-08-25 | ✅ 活跃 |
@@ -71,9 +73,11 @@ This repository is used to discover and collect blogs that continuous original a
 | 土木坛子 | [🔗](https://tumutanzi.com/) | 2026-08-24 | ✅ 活跃 |
 | 失眠海峡 - 我要与你坦诚相见 | [🔗](https://blog.imalan.cn/) | 2026-08-24 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ✅ 活跃 |
+| 师兄的林间小屋 | [🔗](https://refined-x.com/) | 2026-08-25 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
+| 披萨盒的赛博日志 | [🔗](https://blog.pushihao.com/) | 2026-08-26 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
 | 暗无天日 | [🔗](https://www.lujun9972.win/) | 2026-08-25 | ✅ 活跃 |
@@ -82,6 +86,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ✅ 活跃 |
 | 治部少辅 | [🔗](https://www.codewoody.com/) | 2026-08-21 | ✅ 活跃 |
 | 清竹志-(原清竹茶馆) | [🔗](https://blog.vadxq.com/) | 2026-08-21 | ✅ 活跃 |
+| 王欣说AI | [🔗](https://wangxin.io/) | 2026-08-26 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
