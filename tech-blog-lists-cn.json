@@ -686,5 +686,29 @@
         "rss": "https://refined-x.com/rss.xml",
         "status": "active",
         "added_date": "2026-08-25"
+    },
+    {
+        "name": "Jacky Wong",
+        "url": "https://jw1.dev/",
+        "description": "Front-end Developer / Music Producer",
+        "rss": "https://jw1.dev/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-26"
+    },
+    {
+        "name": "王欣说AI",
+        "url": "https://wangxin.io/",
+        "description": "王欣，AI 技术和产品研究者、创业者。分享大家听得懂、用得上、能赚钱的AI技术。开源项目提交者和推广者： Apache Dubbo项目/PMC、Apache Seata项目PPMC。github：https://github.com/lovepoem email：xin.victorwang@gmail.com",
+        "rss": "https://wangxin.io/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-26"
+    }，
+    {
+        "name": "Jartto's blog",
+        "url": "http://jartto.wang/",
+        "description": "最遗憾的不是把梦想丢在路上，而是梦想从未上路",
+        "rss": "http://jartto.wang/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-26"
     }
 ]
