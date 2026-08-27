@@ -718,5 +718,13 @@
         "rss": "https://blog.pushihao.com/atom.xml",
         "status": "active",
         "added_date": "2026-08-26"
+    },
+    {
+        "name": "阳志平",
+        "url": "https://yangzhiping.com/",
+        "description": "学者、作家与企业家。致力于认知科学的产品开发、课程设计与科学传播。",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-08-27"
     }
 ]
