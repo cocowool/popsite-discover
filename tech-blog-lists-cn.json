@@ -734,5 +734,13 @@
         "rss": "https://www.cyhone.com/feeds/all.xml",
         "status": "active",
         "added_date": "2026-08-28"
+    },
+    {
+        "name": "LiesAuer's Blog",
+        "url": "https://www.liesauer.net/",
+        "description": "",
+        "rss": "https://www.liesauer.net/blog/feed/",
+        "status": "active",
+        "added_date": "2026-08-28"
     }
 ]
