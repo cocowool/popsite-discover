@@ -742,5 +742,13 @@
         "rss": "https://www.liesauer.net/blog/feed/",
         "status": "active",
         "added_date": "2026-08-28"
+    },
+    {
+        "name": "Beyond the void",
+        "url": "https://byvoid.com/",
+        "description": "",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-08-28"
     }
 ]
