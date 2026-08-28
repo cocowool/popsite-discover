@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**90** 个
-- 活跃博客：**77** 个
-- 最后更新：**2026-08-26 19:45:50**
+- 收录博客数量：**92** 个
+- 活跃博客：**78** 个
+- 最后更新：**2026-08-28 02:02:05**
 
 ## 收录的博客列表 / Blog 
 
@@ -91,6 +91,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
 | 秋安 | 素生 | [🔗](https://z.arlmy.me/) | 2026-08-21 | ✅ 活跃 |
+| 编程沉思录 | [🔗](https://www.cyhone.com/) | 2026-08-28 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 胡涂说 | [🔗](https://hutusi.com/) | 2026-07-30 | ✅ 活跃 |
 | 臨池不輟 | [🔗](https://keelii.com/) | 2026-07-03 | ✅ 活跃 |
@@ -101,6 +102,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 轶哥 - 火星人 | [🔗](https://www.wyr.me/) | 2026-08-21 | ✅ 活跃 |
 | 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
 | 阮一峰的网络日志 | [🔗](https://www.ruanyifeng.com/blog/) | 2026-06-05 | ✅ 活跃 |
+| 阳志平 | [🔗](https://yangzhiping.com/) | 2026-08-27 | ⚠️ 无RSS |
 | 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 陈看川 | [🔗](https://kanchuan.com/) | 2026-07-15 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-06-22 | ✅ 活跃 |
