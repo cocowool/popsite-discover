@@ -726,5 +726,13 @@
         "rss": "",
         "status": "no_rss",
         "added_date": "2026-08-27"
+    },
+    {
+        "name": "编程沉思录",
+        "url": "https://www.cyhone.com/",
+        "description": "我们采集的只是石头，却必须始终仰望着未来的大教堂。",
+        "rss": "https://www.cyhone.com/feeds/all.xml",
+        "status": "active",
+        "added_date": "2026-08-28"
     }
 ]
