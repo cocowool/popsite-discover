@@ -9,14 +9,15 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**92** 个
-- 活跃博客：**78** 个
-- 最后更新：**2026-08-28 02:02:05**
+- 收录博客数量：**94** 个
+- 活跃博客：**79** 个
+- 最后更新：**2026-08-29 01:28:03**
 
 ## 收录的博客列表 / Blog 
 
 | 博客名称 | 链接 | 收录时间 | 状态 |
 |---------|------|------|------|
+| Beyond the void | [🔗](https://byvoid.com/) | 2026-08-28 | ⚠️ 无RSS |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
 | CodeSky 代码天空 | [🔗](https://www.codesky.me/) | 2026-07-09 | ✅ 活跃 |
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
@@ -34,6 +35,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Jun Xie | [🔗](https://www.seis-jun.xyz/) | 2026-08-25 | ✅ 活跃 |
 | Just lepture | [🔗](https://lepture.com/) | 2026-07-13 | ✅ 活跃 |
 | KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
+| LiesAuer's Blog | [🔗](https://www.liesauer.net/) | 2026-08-28 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
