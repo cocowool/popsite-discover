@@ -774,5 +774,13 @@
         "rss": "https://61.life/feed.xml",
         "status": "active",
         "added_date": "2026-08-31"
-    }
+    },
+    {
+        "name": "Power's Wiki",
+        "url": "https://wiki-power.com/",
+        "description": "博览万物，融会贯通。",
+        "rss": "https://wiki-power.com/feed_rss_created.xml",
+        "status": "active",
+        "added_date": "2026-08-31"
+    }    
 ]
