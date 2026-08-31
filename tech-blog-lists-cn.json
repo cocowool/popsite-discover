@@ -766,5 +766,13 @@
         "rss": "https://www.bmpi.dev/index.xml",
         "status": "active",
         "added_date": "2026-08-31"
+    },
+    {
+        "name": "61’s life",
+        "url": "https://61.life/",
+        "description": "Real artists ship.",
+        "rss": "https://61.life/feed.xml",
+        "status": "active",
+        "added_date": "2026-08-31"
     }
 ]
