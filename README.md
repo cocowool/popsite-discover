@@ -9,14 +9,17 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**94** 个
-- 活跃博客：**79** 个
-- 最后更新：**2026-08-30 20:34:47**
+- 收录博客数量：**99** 个
+- 活跃博客：**84** 个
+- 最后更新：**2026-08-31 22:27:51**
 
 ## 收录的博客列表 / Blog 
 
 | 博客名称 | 链接 | 收录时间 | 状态 |
 |---------|------|------|------|
+| 0x01 byte | [🔗](https://1byte.io/) | 2026-08-31 | ✅ 活跃 |
+| 61’s life | [🔗](https://61.life/) | 2026-08-31 | ✅ 活跃 |
+| BMPI | [🔗](https://www.bmpi.dev/) | 2026-08-31 | ✅ 活跃 |
 | Beyond the void | [🔗](https://byvoid.com/) | 2026-08-28 | ⚠️ 无RSS |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
 | CodeSky 代码天空 | [🔗](https://www.codesky.me/) | 2026-07-09 | ✅ 活跃 |
@@ -43,10 +46,12 @@ This repository is used to discover and collect blogs that continuous original a
 | Origin - Singee's Blog | [🔗](https://blog.singee.me/) | 2026-08-21 | ✅ 活跃 |
 | Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
 | Piglei | [🔗](https://www.piglei.com/) | 2026-06-05 | ✅ 活跃 |
+| Power's Wiki | [🔗](https://wiki-power.com/) | 2026-08-31 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Seven's blog | [🔗](https://blog.diqigan.cn/) | 2026-08-07 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| Tripper Press | [🔗](https://tripper.press/) | 2026-08-31 | ✅ 活跃 |
 | Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
 | Xieisabug | [🔗](https://www.xiejingyang.com/) | 2026-08-21 | ✅ 活跃 |
