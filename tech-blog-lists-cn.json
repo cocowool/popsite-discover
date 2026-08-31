@@ -782,5 +782,13 @@
         "rss": "https://wiki-power.com/feed_rss_created.xml",
         "status": "active",
         "added_date": "2026-08-31"
-    }    
+    },
+    {
+        "name": "Tripper Press",
+        "url": "https://tripper.press/",
+        "description": "Take Photo, Think Seriously",
+        "rss": "https://tripper.press/atom.xml",
+        "status": "active",
+        "added_date": "2026-08-31"
+    }
 ]
