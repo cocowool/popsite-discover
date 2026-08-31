@@ -750,5 +750,21 @@
         "rss": "",
         "status": "no_rss",
         "added_date": "2026-08-28"
+    },
+    {
+        "name": "0x01 byte",
+        "url": "https://1byte.io/",
+        "description": "Hello.\n我是江宏。这是我的个人博客。\n我通常会写一些我自己的经历以及对感兴趣的各种话题的想法。\n你可以：\n对我了解更多 订阅 RSS 关注我以下平台的账号：",
+        "rss": "https://1byte.io/articles/index.xml",
+        "status": "active",
+        "added_date": "2026-08-31"
+    },
+    {
+        "name": "BMPI",
+        "url": "https://www.bmpi.dev/",
+        "description": "终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）",
+        "rss": "https://www.bmpi.dev/index.xml",
+        "status": "active",
+        "added_date": "2026-08-31"
     }
 ]
