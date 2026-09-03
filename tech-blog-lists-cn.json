@@ -790,5 +790,13 @@
         "rss": "https://tripper.press/atom.xml",
         "status": "active",
         "added_date": "2026-08-31"
+    },
+    {
+        "name": "@Lenciel",
+        "url": "https://lenciel.com/",
+        "description": "lenciel's blog",
+        "rss": "https://lenciel.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-09-03"
     }
 ]
