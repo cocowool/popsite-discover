@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**99** 个
-- 活跃博客：**84** 个
-- 最后更新：**2026-09-02 20:30:53**
+- 收录博客数量：**100** 个
+- 活跃博客：**85** 个
+- 最后更新：**2026-09-03 20:30:57**
 
 ## 收录的博客列表 / Blog 
 
@@ -19,6 +19,7 @@ This repository is used to discover and collect blogs that continuous original a
 |---------|------|------|------|
 | 0x01 byte | [🔗](https://1byte.io/) | 2026-08-31 | ✅ 活跃 |
 | 61’s life | [🔗](https://61.life/) | 2026-08-31 | ✅ 活跃 |
+| @Lenciel | [🔗](https://lenciel.com/) | 2026-09-03 | ✅ 活跃 |
 | BMPI | [🔗](https://www.bmpi.dev/) | 2026-08-31 | ✅ 活跃 |
 | Beyond the void | [🔗](https://byvoid.com/) | 2026-08-28 | ⚠️ 无RSS |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
