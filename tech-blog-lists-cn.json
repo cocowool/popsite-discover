@@ -806,5 +806,13 @@
         "rss": "https://chriszheng.science/atom.xml",
         "status": "active",
         "added_date": "2026-09-04"
+    },
+    {
+        "name": "第七星尘的独立博客",
+        "url": "https://blog.star7th.com/",
+        "description": "第七星尘的独立博客",
+        "rss": "https://blog.star7th.com/feed",
+        "status": "active",
+        "added_date": "2026-09-04"
     }
 ]
