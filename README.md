@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**100** 个
-- 活跃博客：**85** 个
-- 最后更新：**2026-09-03 20:30:57**
+- 收录博客数量：**102** 个
+- 活跃博客：**87** 个
+- 最后更新：**2026-09-04 20:17:17**
 
 ## 收录的博客列表 / Blog 
 
@@ -42,6 +42,7 @@ This repository is used to discover and collect blogs that continuous original a
 | LiesAuer's Blog | [🔗](https://www.liesauer.net/) | 2026-08-28 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
+| M-x Chris-An-Emacser | [🔗](https://chriszheng.science/) | 2026-09-04 | ✅ 活跃 |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
 | OneV's Den | [🔗](https://onevcat.com/) | 2026-06-10 | ✅ 活跃 |
 | Origin - Singee's Blog | [🔗](https://blog.singee.me/) | 2026-08-21 | ✅ 活跃 |
@@ -99,6 +100,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
 | 秋安 | 素生 | [🔗](https://z.arlmy.me/) | 2026-08-21 | ✅ 活跃 |
+| 第七星尘的独立博客 | [🔗](https://blog.star7th.com/) | 2026-09-04 | ✅ 活跃 |
 | 编程沉思录 | [🔗](https://www.cyhone.com/) | 2026-08-28 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 胡涂说 | [🔗](https://hutusi.com/) | 2026-07-30 | ✅ 活跃 |
