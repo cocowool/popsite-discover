@@ -798,5 +798,13 @@
         "rss": "https://lenciel.com/feed.xml",
         "status": "active",
         "added_date": "2026-09-03"
+    },
+    {
+        "name": "M-x Chris-An-Emacser",
+        "url": "https://chriszheng.science/",
+        "description": "一个Emacs爱好者的个人网站.",
+        "rss": "https://chriszheng.science/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-04"
     }
 ]
