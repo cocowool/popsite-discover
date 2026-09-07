@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**102** 个
-- 活跃博客：**87** 个
-- 最后更新：**2026-09-06 20:00:06**
+- 收录博客数量：**103** 个
+- 活跃博客：**88** 个
+- 最后更新：**2026-09-07 21:07:31**
 
 ## 收录的博客列表 / Blog 
 
@@ -49,6 +49,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
 | Piglei | [🔗](https://www.piglei.com/) | 2026-06-05 | ✅ 活跃 |
 | Power's Wiki | [🔗](https://wiki-power.com/) | 2026-08-31 | ✅ 活跃 |
+| Random Thoughts | [🔗](https://blog.joway.io/) | 2026-09-07 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Seven's blog | [🔗](https://blog.diqigan.cn/) | 2026-08-07 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
