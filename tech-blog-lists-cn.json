@@ -814,5 +814,13 @@
         "rss": "https://blog.star7th.com/feed",
         "status": "active",
         "added_date": "2026-09-04"
+    },
+    {
+        "name": "Random Thoughts",
+        "url": "https://blog.joway.io/",
+        "description": "100% human native.",
+        "rss": "https://blog.joway.io/index.xml",
+        "status": "active",
+        "added_date": "2026-09-07"
     }
 ]
