@@ -822,5 +822,13 @@
         "rss": "https://blog.joway.io/index.xml",
         "status": "active",
         "added_date": "2026-09-07"
+    },
+    {
+        "name": "Ground Oddity",
+        "url": "http://idle.systems/",
+        "description": "",
+        "rss": "http://idle.systems/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-09"
     }
 ]
