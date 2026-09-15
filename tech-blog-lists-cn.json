@@ -830,5 +830,13 @@
         "rss": "http://idle.systems/atom.xml",
         "status": "active",
         "added_date": "2026-09-09"
+    },
+    {
+        "name": "iPotato",
+        "url": "https://ipotato.me/",
+        "description": "",
+        "rss": "https://ipotato.me/feed",
+        "status": "active",
+        "added_date": "2026-09-15"
     }
 ]
