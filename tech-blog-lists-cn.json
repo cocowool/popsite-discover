@@ -838,5 +838,13 @@
         "rss": "https://ipotato.me/feed",
         "status": "active",
         "added_date": "2026-09-15"
+    },
+    {
+        "name": "嵌入式工程猫的博客",
+        "url": "https://blog.vvzero.com/",
+        "description": "嵌入式物联网全栈系统工程师",
+        "rss": "https://blog.vvzero.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-15"
     }
 ]
