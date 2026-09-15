@@ -846,5 +846,13 @@
         "rss": "https://blog.vvzero.com/atom.xml",
         "status": "active",
         "added_date": "2026-09-15"
+    },
+    {
+        "name": "HCLonely Blog",
+        "url": "https://blog.hclonely.com/",
+        "description": "懒，是社会发展的动力...",
+        "rss": "https://blog.hclonely.com/rss2.xml",
+        "status": "active",
+        "added_date": "2026-09-15"
     }
 ]
