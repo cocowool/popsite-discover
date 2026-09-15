@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**104** 个
-- 活跃博客：**89** 个
-- 最后更新：**2026-09-14 21:29:46**
+- 收录博客数量：**107** 个
+- 活跃博客：**92** 个
+- 最后更新：**2026-09-15 20:52:35**
 
 ## 收录的博客列表 / Blog 
 
@@ -29,6 +29,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Dosk 技术站 | [🔗](https://dosk.win/) | 2026-08-21 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Ground Oddity | [🔗](http://idle.systems/) | 2026-09-09 | ✅ 活跃 |
+| HCLonely Blog | [🔗](https://blog.hclonely.com/) | 2026-09-15 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
@@ -63,6 +64,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Yihui Xie | 谢益辉 | [🔗](https://yihui.org/) | 2026-06-17 | ✅ 活跃 |
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
+| iPotato | [🔗](https://ipotato.me/) | 2026-09-15 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
 | idealclover | [🔗](https://idealclover.top/) | 2026-07-14 | ✅ 活跃 |
 | kok的笔记本 | [🔗](https://wocai.de/) | 2026-06-15 | ✅ 活跃 |
@@ -84,6 +86,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 土木坛子 | [🔗](https://tumutanzi.com/) | 2026-08-24 | ✅ 活跃 |
 | 失眠海峡 - 我要与你坦诚相见 | [🔗](https://blog.imalan.cn/) | 2026-08-24 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ✅ 活跃 |
+| 嵌入式工程猫的博客 | [🔗](https://blog.vvzero.com/) | 2026-09-15 | ✅ 活跃 |
 | 师兄的林间小屋 | [🔗](https://refined-x.com/) | 2026-08-25 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
