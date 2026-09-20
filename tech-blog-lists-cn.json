@@ -862,5 +862,13 @@
         "rss": "https://sund.site/index.xml",
         "status": "active",
         "added_date": "2026-09-20"
+    },
+    {
+        "name": "SimonAKing",
+        "url": "https://simonaking.com/",
+        "description": "STDIN | Think >> /dev/Mind - SimonAKing",
+        "rss": "https://simonaking.com/blog/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-20"
     }
 ]
