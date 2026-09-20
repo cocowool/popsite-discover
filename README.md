@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**107** 个
-- 活跃博客：**92** 个
-- 最后更新：**2026-09-19 20:03:44**
+- 收录博客数量：**109** 个
+- 活跃博客：**94** 个
+- 最后更新：**2026-09-20 20:20:42**
 
 ## 收录的博客列表 / Blog 
 
@@ -54,7 +54,9 @@ This repository is used to discover and collect blogs that continuous original a
 | Random Thoughts | [🔗](https://blog.joway.io/) | 2026-09-07 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Seven's blog | [🔗](https://blog.diqigan.cn/) | 2026-08-07 | ✅ 活跃 |
+| SimonAKing | [🔗](https://simonaking.com/) | 2026-09-20 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
+| Steve Sun | [🔗](https://sund.site/) | 2026-09-20 | ✅ 活跃 |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
 | Tripper Press | [🔗](https://tripper.press/) | 2026-08-31 | ✅ 活跃 |
 | Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
