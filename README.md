@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**109** 个
-- 活跃博客：**94** 个
-- 最后更新：**2026-09-21 21:42:28**
+- 收录博客数量：**112** 个
+- 活跃博客：**97** 个
+- 最后更新：**2026-09-22 20:53:48**
 
 ## 收录的博客列表 / Blog 
 
@@ -46,6 +46,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | M-x Chris-An-Emacser | [🔗](https://chriszheng.science/) | 2026-09-04 | ✅ 活跃 |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
+| Muyun99 的杂谈 | [🔗](https://muyun.work/) | 2026-09-22 | ✅ 活跃 |
 | OneV's Den | [🔗](https://onevcat.com/) | 2026-06-10 | ✅ 活跃 |
 | Origin - Singee's Blog | [🔗](https://blog.singee.me/) | 2026-08-21 | ✅ 活跃 |
 | Phodal-狼和凤凰 | [🔗](https://www.phodal.com/blog/) | 2026-06-05 | ⚠️ 无RSS |
@@ -58,6 +59,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | Steve Sun | [🔗](https://sund.site/) | 2026-09-20 | ✅ 活跃 |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
+| Tinyfool的个人网站 | [🔗](https://codechina.org/) | 2026-09-22 | ✅ 活跃 |
 | Tripper Press | [🔗](https://tripper.press/) | 2026-08-31 | ✅ 活跃 |
 | Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
@@ -94,6 +96,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
 | 披萨盒的赛博日志 | [🔗](https://blog.pushihao.com/) | 2026-08-26 | ✅ 活跃 |
+| 掘墓人的小铲子 | [🔗](https://juemuren4449.com/) | 2026-09-22 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
 | 暗无天日 | [🔗](https://www.lujun9972.win/) | 2026-08-25 | ✅ 活跃 |
