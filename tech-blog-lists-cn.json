@@ -878,5 +878,13 @@
         "rss": "https://juemuren4449.com/feed",
         "status": "active",
         "added_date": "2026-09-22"
+    },
+    {
+        "name": "Tinyfool的个人网站",
+        "url": "https://codechina.org/",
+        "description": "最新更新 最新更新-> 关于Tinyfool Tinyfool，真名郝培强。1979年生人，自由职业（自 […]",
+        "rss": "https://codechina.org/feed/",
+        "status": "active",
+        "added_date": "2026-09-22"
     }
 ]
