@@ -886,5 +886,13 @@
         "rss": "https://codechina.org/feed/",
         "status": "active",
         "added_date": "2026-09-22"
+    },
+    {
+        "name": "Muyun99 的杂谈",
+        "url": "https://muyun.work/",
+        "description": "Muyun99 的杂谈",
+        "rss": "https://muyun.work/feed/",
+        "status": "active",
+        "added_date": "2026-09-22"
     }
 ]
