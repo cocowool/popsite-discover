@@ -870,5 +870,13 @@
         "rss": "https://simonaking.com/blog/atom.xml",
         "status": "active",
         "added_date": "2026-09-20"
+    },
+    {
+        "name": "掘墓人的小铲子",
+        "url": "https://juemuren4449.com/",
+        "description": "掘墓人的小铲子，记录生活，分析技术~",
+        "rss": "https://juemuren4449.com/feed",
+        "status": "active",
+        "added_date": "2026-09-22"
     }
 ]
