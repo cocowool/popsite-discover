@@ -894,5 +894,21 @@
         "rss": "https://muyun.work/feed/",
         "status": "active",
         "added_date": "2026-09-22"
+    },
+    {
+        "name": "李宇Blog",
+        "url": "https://www.l1yu.com/",
+        "description": "李宇的个人博客，记录产品、技术、摄影与生活的笔记与想法。",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-09-24"
+    },
+    {
+        "name": "不吐不快",
+        "url": "https://mianao.info/",
+        "description": "",
+        "rss": "https://mianao.info/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-24"
     }
 ]
