@@ -926,5 +926,21 @@
         "rss": "https://blog.mk1.io/rss.xml",
         "status": "active",
         "added_date": "2026-09-28"
+    },
+    {
+        "name": "news | news view",
+        "url": "https://zsqk.github.io/news/",
+        "description": "每日新闻.",
+        "rss": "https://zsqk.github.io/news/feed",
+        "status": "active",
+        "added_date": "2026-09-28"
+    },
+    {
+        "name": "伪斜杠青年",
+        "url": "https://i.lckiss.com/",
+        "description": "当你拥有一样东西之后，你对这样东西的评价会高于你没有拥有它时。",
+        "rss": "https://i.lckiss.com/?feed=rss2",
+        "status": "active",
+        "added_date": "2026-09-28"
     }
 ]
