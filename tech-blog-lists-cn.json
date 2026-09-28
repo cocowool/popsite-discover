@@ -910,5 +910,21 @@
         "rss": "https://mianao.info/atom.xml",
         "status": "active",
         "added_date": "2026-09-24"
+    },
+    {
+        "name": "西灵号 - 西灵沉船",
+        "url": "https://blog.feimind.xyz/",
+        "description": "Digital Space",
+        "rss": "https://blog.feimind.xyz/rss.xml",
+        "status": "active",
+        "added_date": "2026-09-28"
+    },
+    {
+        "name": "Ray's Blog",
+        "url": "https://blog.mk1.io",
+        "description": "Never say never.",
+        "rss": "https://blog.mk1.io/rss.xml",
+        "status": "active",
+        "added_date": "2026-09-28"
     }
 ]
