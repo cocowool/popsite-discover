@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**114** 个
-- 活跃博客：**98** 个
-- 最后更新：**2026-09-27 20:53:52**
+- 收录博客数量：**118** 个
+- 活跃博客：**102** 个
+- 最后更新：**2026-09-28 22:56:24**
 
 ## 收录的博客列表 / Blog 
 
@@ -54,6 +54,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Power's Wiki | [🔗](https://wiki-power.com/) | 2026-08-31 | ✅ 活跃 |
 | Random Thoughts | [🔗](https://blog.joway.io/) | 2026-09-07 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
+| Ray's Blog | [🔗](https://blog.mk1.io) | 2026-09-28 | ✅ 活跃 |
 | Seven's blog | [🔗](https://blog.diqigan.cn/) | 2026-08-07 | ✅ 活跃 |
 | SimonAKing | [🔗](https://simonaking.com/) | 2026-09-20 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
@@ -73,12 +74,14 @@ This repository is used to discover and collect blogs that continuous original a
 | idealclover | [🔗](https://idealclover.top/) | 2026-07-14 | ✅ 活跃 |
 | kok的笔记本 | [🔗](https://wocai.de/) | 2026-06-15 | ✅ 活跃 |
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
+| news | news view | [🔗](https://zsqk.github.io/news/) | 2026-09-28 | ✅ 活跃 |
 | oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
 | wuxinhua | [🔗](https://wuxinhua.com/) | 2026-08-24 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 不吐不快 | [🔗](https://mianao.info/) | 2026-09-24 | ✅ 活跃 |
 | 以梦喂马 | [🔗](https://www.hwdef.org/) | 2026-08-07 | ✅ 活跃 |
+| 伪斜杠青年 | [🔗](https://i.lckiss.com/) | 2026-09-28 | ✅ 活跃 |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ✅ 活跃 |
 | 保罗的小宇宙 | [🔗](https://paugram.com/) | 2026-08-21 | ✅ 活跃 |
 | 加菲猫的创客工坊 | [🔗](https://www.gaficat.com/) | 2026-07-20 | ✅ 活跃 |
@@ -119,6 +122,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 臨池不輟 | [🔗](https://keelii.com/) | 2026-07-03 | ✅ 活跃 |
 | 范叶亮 | [🔗](https://leovan.me/) | 2026-07-07 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
+| 西灵号 - 西灵沉船 | [🔗](https://blog.feimind.xyz/) | 2026-09-28 | ✅ 活跃 |
 | 见字如面 | [🔗](https://hiwannz.com) | 2026-07-03 | ✅ 活跃 |
 | 谢乾坤 | [🔗](https://kingname.info/) | 2026-06-22 | ⚠️ 无RSS |
 | 轶哥 - 火星人 | [🔗](https://www.wyr.me/) | 2026-08-21 | ✅ 活跃 |
