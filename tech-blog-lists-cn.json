@@ -942,5 +942,21 @@
         "rss": "https://i.lckiss.com/?feed=rss2",
         "status": "active",
         "added_date": "2026-09-28"
+    },
+    {
+        "name": "双绞麻痹",
+        "url": "https://numb.tech/",
+        "description": "应似飞鸿踏雪泥",
+        "rss": "https://numb.tech/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-29"
+    },
+    {
+        "name": "ZedeX",
+        "url": "https://zedex.cn/",
+        "description": "ZedeX - 分享技术、文化、生活与思考",
+        "rss": "https://zedex.cn/index.xml",
+        "status": "active",
+        "added_date": "2026-09-29"
     }
 ]
