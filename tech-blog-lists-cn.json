@@ -958,5 +958,29 @@
         "rss": "https://zedex.cn/index.xml",
         "status": "active",
         "added_date": "2026-09-29"
+    },
+    {
+        "name": "Louis C Deng's Blog",
+        "url": "https://blog.aeilot.top/",
+        "description": "Essays and notes by Louis C Deng on computer science, machine learning, literature, art, and life, written in English and Traditional Chinese.",
+        "rss": "https://blog.aeilot.top/index.xml",
+        "status": "active",
+        "added_date": "2026-09-29"
+    },
+    {
+        "name": "云游君的小站",
+        "url": "https://www.yunyoujun.cn/",
+        "description": "希望能成为一个有趣的人",
+        "rss": "https://www.yunyoujun.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-09-29"
+    },
+    {
+        "name": "WuSiYu Blog - IT相关各种折腾",
+        "url": "https://wusiyu.me/",
+        "description": "IT相关各种折腾",
+        "rss": "https://wusiyu.me/feed/",
+        "status": "active",
+        "added_date": "2026-09-29"
     }
 ]
