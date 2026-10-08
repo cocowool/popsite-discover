@@ -982,5 +982,13 @@
         "rss": "https://wusiyu.me/feed/",
         "status": "active",
         "added_date": "2026-09-29"
+    },
+    {
+        "name": "祝融说",
+        "url": "https://zhurongshuo.com/",
+        "description": "祝融说：法不净空，觉无性也。",
+        "rss": "https://zhurongshuo.com/index.xml",
+        "status": "active",
+        "added_date": "2026-10-08"
     }
 ]
