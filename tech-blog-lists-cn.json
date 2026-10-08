@@ -1006,5 +1006,21 @@
         "rss": "https://www.feifun.cn/feed.xml",
         "status": "active",
         "added_date": "2026-10-08"
+    },
+    {
+        "name": "xulihang's blog",
+        "url": "https://blog.xulihang.me/",
+        "description": "",
+        "rss": "https://blog.xulihang.me/feed/",
+        "status": "active",
+        "added_date": "2026-10-08"
+    },
+    {
+        "name": "est の 输入 输出和出入",
+        "url": "https://blog.est.im/",
+        "description": "This blog is rated 🔞, viewer discretion is advised",
+        "rss": "https://feeds.feedburner.com/initiative",
+        "status": "active",
+        "added_date": "2026-10-08"
     }
 ]
