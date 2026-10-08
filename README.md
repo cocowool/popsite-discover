@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**123** 个
-- 活跃博客：**107** 个
-- 最后更新：**2026-10-07 22:43:22**
+- 收录博客数量：**128** 个
+- 活跃博客：**112** 个
+- 最后更新：**2026-10-08 22:54:29**
 
 ## 收录的博客列表 / Blog 
 
@@ -20,6 +20,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 0x01 byte | [🔗](https://1byte.io/) | 2026-08-31 | ✅ 活跃 |
 | 61’s life | [🔗](https://61.life/) | 2026-08-31 | ✅ 活跃 |
 | @Lenciel | [🔗](https://lenciel.com/) | 2026-09-03 | ✅ 活跃 |
+| ABB00717's Blog | [🔗](https://blog.abb00717.com/) | 2026-10-08 | ✅ 活跃 |
 | BMPI | [🔗](https://www.bmpi.dev/) | 2026-08-31 | ✅ 活跃 |
 | Beyond the void | [🔗](https://byvoid.com/) | 2026-08-28 | ⚠️ 无RSS |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
@@ -27,6 +28,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
 | Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
 | Dosk 技术站 | [🔗](https://dosk.win/) | 2026-08-21 | ✅ 活跃 |
+| Fei's Tours & Tales | [🔗](https://www.feifun.cn/) | 2026-10-08 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Ground Oddity | [🔗](http://idle.systems/) | 2026-09-09 | ✅ 活跃 |
 | HCLonely Blog | [🔗](https://blog.hclonely.com/) | 2026-09-15 | ✅ 活跃 |
@@ -71,6 +73,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Yihui Xie | 谢益辉 | [🔗](https://yihui.org/) | 2026-06-17 | ✅ 活跃 |
 | ZedeX | [🔗](https://zedex.cn/) | 2026-09-29 | ✅ 活跃 |
 | bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
+| est の 输入 输出和出入 | [🔗](https://blog.est.im/) | 2026-10-08 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | iPotato | [🔗](https://ipotato.me/) | 2026-09-15 | ✅ 活跃 |
 | iTimothy | [🔗](https://xiaozhou.net/) | 2026-06-08 | ⚠️ 无RSS |
@@ -81,6 +84,7 @@ This repository is used to discover and collect blogs that continuous original a
 | oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
 | wuxinhua | [🔗](https://wuxinhua.com/) | 2026-08-24 | ✅ 活跃 |
+| xulihang's blog | [🔗](https://blog.xulihang.me/) | 2026-10-08 | ✅ 活跃 |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 不吐不快 | [🔗](https://mianao.info/) | 2026-09-24 | ✅ 活跃 |
 | 云游君的小站 | [🔗](https://www.yunyoujun.cn/) | 2026-09-29 | ✅ 活跃 |
@@ -119,6 +123,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
+| 祝融说 | [🔗](https://zhurongshuo.com/) | 2026-10-08 | ✅ 活跃 |
 | 秋安 | 素生 | [🔗](https://z.arlmy.me/) | 2026-08-21 | ✅ 活跃 |
 | 第七星尘的独立博客 | [🔗](https://blog.star7th.com/) | 2026-09-04 | ✅ 活跃 |
 | 编程沉思录 | [🔗](https://www.cyhone.com/) | 2026-08-28 | ✅ 活跃 |
