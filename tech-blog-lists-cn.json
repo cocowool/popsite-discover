@@ -990,5 +990,21 @@
         "rss": "https://zhurongshuo.com/index.xml",
         "status": "active",
         "added_date": "2026-10-08"
+    },
+    {
+        "name": "ABB00717's Blog",
+        "url": "https://blog.abb00717.com/",
+        "description": "小提示，展開和收起資料夾請按最左邊的箭頭，點字會直接進入 Index Page。 嗨！這裡是 ABB00717。 我這個人各方面來說都很宅，且很喜歡和電腦打交道。在這裡我會紀錄所見所聞，你看到任何東西都不要意外。不過主題大致上會是： 程式設計（競賽程式、資訊安全、後端等等） 作品（專輯、動漫、漫畫、遊戲等等）評論 閱讀（書籍、文章、貼文等等）筆記 生活感想 你可以去部落格聚集地裡頭看看我覺得很有趣的部落格。我也很愛聽音樂，你可以在音樂那裡偷窺我的品味。我之前每個禮拜都會寫週記，但現在休刊了。之前也會記錄做過的夢，朋友都誇我是下一個藤本樹 x)，但最近醒來都忘了，真不曉得之前怎麼都記得。 我如...",
+        "rss": "https://blog.abb00717.com/index.xml",
+        "status": "active",
+        "added_date": "2026-10-08"
+    },
+    {
+        "name": "Fei's Tours & Tales",
+        "url": "https://www.feifun.cn/",
+        "description": "一个关于亲子环球旅行、汽车文化、科技DIY的个人博客。记录在各大洲房车自驾、F1赛事朝圣、复古计算设备等独特经历。",
+        "rss": "https://www.feifun.cn/feed.xml",
+        "status": "active",
+        "added_date": "2026-10-08"
     }
 ]
