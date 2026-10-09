@@ -1070,5 +1070,29 @@
         "rss": "https://www.liesauer.net/blog/feed/",
         "status": "active",
         "added_date": "2026-10-09"
+    },
+    {
+        "name": "捻墨运营笔记",
+        "url": "https://dyy.nianmo.top/",
+        "description": "专注海外华人商家小红书代运营，5年实战，服务300+企业。分享小红书获客方法、企业号运营、避坑经验，覆盖移民、餐饮、租车、酒店、家政、旅行社等赛道。",
+        "rss": "https://dyy.nianmo.top/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "Haku",
+        "url": "https://re.karlbaey.top/",
+        "description": "Karlbaey's Cardboard Box",
+        "rss": "https://re.karlbaey.top/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "码农明明桑",
+        "url": "https://isming.me/",
+        "description": "一个程序员的生活和技术记录，热爱生活，心向远方。",
+        "rss": "https://isming.me/index.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
     }
 ]
