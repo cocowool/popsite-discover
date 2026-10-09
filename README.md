@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**128** 个
-- 活跃博客：**112** 个
-- 最后更新：**2026-10-08 22:54:29**
+- 收录博客数量：**137** 个
+- 活跃博客：**120** 个
+- 最后更新：**2026-10-09 22:16:04**
 
 ## 收录的博客列表 / Blog 
 
@@ -28,10 +28,12 @@ This repository is used to discover and collect blogs that continuous original a
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
 | Dorad | [🔗](https://blog.cuger.cn/) | 2026-06-05 | ✅ 活跃 |
 | Dosk 技术站 | [🔗](https://dosk.win/) | 2026-08-21 | ✅ 活跃 |
+| EdNovas的小站 | [🔗](https://ednovas.xyz/) | 2026-10-09 | ✅ 活跃 |
 | Fei's Tours & Tales | [🔗](https://www.feifun.cn/) | 2026-10-08 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Ground Oddity | [🔗](http://idle.systems/) | 2026-09-09 | ✅ 活跃 |
 | HCLonely Blog | [🔗](https://blog.hclonely.com/) | 2026-09-15 | ✅ 活跃 |
+| Haku | [🔗](https://re.karlbaey.top/) | 2026-10-09 | ✅ 活跃 |
 | Hope | [🔗](https://leohope.com) | 2026-06-05 | ⚠️ 无RSS |
 | I'm TualatriX | [🔗](https://imtx.me) | 2026-06-12 | ✅ 活跃 |
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
@@ -43,7 +45,9 @@ This repository is used to discover and collect blogs that continuous original a
 | Jun Xie | [🔗](https://www.seis-jun.xyz/) | 2026-08-25 | ✅ 活跃 |
 | Just lepture | [🔗](https://lepture.com/) | 2026-07-13 | ✅ 活跃 |
 | KAIX.IN | [🔗](https://kaix.in/) | 2026-06-17 | ✅ 活跃 |
+| Lex Blog | [🔗](https://dreams.plus/) | 2026-10-09 | ✅ 活跃 |
 | LiesAuer's Blog | [🔗](https://www.liesauer.net/) | 2026-08-28 | ✅ 活跃 |
+| LiesAuer's Blog | [🔗](https://liesauer.net/blog/) | 2026-10-09 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
 | Louis C Deng's Blog | [🔗](https://blog.aeilot.top/) | 2026-09-29 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
@@ -107,8 +111,10 @@ This repository is used to discover and collect blogs that continuous original a
 | 师兄的林间小屋 | [🔗](https://refined-x.com/) | 2026-08-25 | ✅ 活跃 |
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
+| 愆伏 - 互联网杂谈 | [🔗](https://tortorse.com/) | 2026-10-09 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ✅ 活跃 |
 | 披萨盒的赛博日志 | [🔗](https://blog.pushihao.com/) | 2026-08-26 | ✅ 活跃 |
+| 捻墨运营笔记 | [🔗](https://dyy.nianmo.top/) | 2026-10-09 | ✅ 活跃 |
 | 掘墓人的小铲子 | [🔗](https://juemuren4449.com/) | 2026-09-22 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
@@ -122,15 +128,18 @@ This repository is used to discover and collect blogs that continuous original a
 | 王欣说AI | [🔗](https://wangxin.io/) | 2026-08-26 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
+| 码农明明桑 | [🔗](https://isming.me/) | 2026-10-09 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
 | 祝融说 | [🔗](https://zhurongshuo.com/) | 2026-10-08 | ✅ 活跃 |
 | 秋安 | 素生 | [🔗](https://z.arlmy.me/) | 2026-08-21 | ✅ 活跃 |
 | 第七星尘的独立博客 | [🔗](https://blog.star7th.com/) | 2026-09-04 | ✅ 活跃 |
+| 給安 | [🔗](https://giveanornot.com/) | 2026-10-09 | ⚠️ 无RSS |
 | 编程沉思录 | [🔗](https://www.cyhone.com/) | 2026-08-28 | ✅ 活跃 |
 | 罗磊的独立博客 | [🔗](https://luolei.org/luolei-ai) | 2026-06-05 | ✅ 活跃 |
 | 胡涂说 | [🔗](https://hutusi.com/) | 2026-07-30 | ✅ 活跃 |
 | 臨池不輟 | [🔗](https://keelii.com/) | 2026-07-03 | ✅ 活跃 |
 | 范叶亮 | [🔗](https://leovan.me/) | 2026-07-07 | ✅ 活跃 |
+| 菲兹克斯喵 | [🔗](https://physnya.top/) | 2026-10-09 | ✅ 活跃 |
 | 蚊子的前端博客 | [🔗](https://www.xiabingbao.com/) | 2026-06-05 | ⚠️ 无RSS |
 | 西灵号 - 西灵沉船 | [🔗](https://blog.feimind.xyz/) | 2026-09-28 | ✅ 活跃 |
 | 见字如面 | [🔗](https://hiwannz.com) | 2026-07-03 | ✅ 活跃 |
