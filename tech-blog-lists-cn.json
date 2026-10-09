@@ -1022,5 +1022,13 @@
         "rss": "https://feeds.feedburner.com/initiative",
         "status": "active",
         "added_date": "2026-10-08"
+    },
+    {
+        "name": "Lex Blog",
+        "url": "https://dreams.plus/",
+        "description": "A blog about technology, programming, and life.",
+        "rss": "https://dreams.plus/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
     }
 ]
