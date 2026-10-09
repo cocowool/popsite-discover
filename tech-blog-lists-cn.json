@@ -18,7 +18,7 @@
     {
         "name": "lucifer",
         "url": "https://lucifer.ren/blog/",
-        "description": "",
+        "description": "lucifer的个人博客，用来记录LeeCode刷题过程和心得，以及构建大前端知识体系",
         "rss": "https://lucifer.ren/blog/atom.xml",
         "status": "active",
         "added_date": "2026-06-05"
@@ -1060,6 +1060,14 @@
         "url": "https://ednovas.xyz/",
         "description": "",
         "rss": "https://ednovas.xyz/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "LiesAuer's Blog",
+        "url": "https://liesauer.net/blog/",
+        "description": "",
+        "rss": "https://www.liesauer.net/blog/feed/",
         "status": "active",
         "added_date": "2026-10-09"
     }

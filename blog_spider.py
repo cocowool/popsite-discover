@@ -79,10 +79,13 @@ def get_primary_domain(url):
 # 3. 核心抓取逻辑
 # ==========================================
 def get_blog_info(original_url, method="requests"):
-    # 智能处理域名
-    target_url = get_primary_domain(original_url)
-    if target_url != original_url:
-        print(f"[*] 检测到二级域名，已自动尝试替换为一级域名进行抓取: {target_url}\n")
+    
+    target_url = original_url.strip()
+
+    # 自动替换二级域名为一级域名，逻辑还不是很完善
+    # target_url = get_primary_domain(original_url)
+    # if target_url != original_url:
+        # print(f"[*] 检测到二级域名，已自动尝试替换为一级域名进行抓取: {target_url}\n")
 
     try:
         my_headers = {
