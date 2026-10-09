@@ -196,32 +196,32 @@
         "url": "https://blog.forecho.com/",
         "description": "forecho, forecho blog, forecho 独立博客",
         "rss": "https://blog.forecho.com/atom.xml",
-        "status":"active",
+        "status": "active",
         "added_date": "2026-06-09"
     },
     {
-        "name":"GeekPlux",
-        "url":"https://geekplux.com/",
-        "description":"Timothy的技术博客,记录技术以及生活点滴",
-        "rss":"https://geekplux.com/feed.xml",
-        "status":"active",
-        "added_date":"2026-06-09"
+        "name": "GeekPlux",
+        "url": "https://geekplux.com/",
+        "description": "Timothy的技术博客,记录技术以及生活点滴",
+        "rss": "https://geekplux.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-06-09"
     },
     {
-        "name":"方运的博客",
-        "url":"https://hufangyun.com/",
-        "description":"天马行空，爱生活，爱Coding",
-        "rss":"",
-        "status":"no_rss",
-        "added_date":"2026-06-09"
+        "name": "方运的博客",
+        "url": "https://hufangyun.com/",
+        "description": "天马行空，爱生活，爱Coding",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-06-09"
     },
     {
         "name": "囧克斯",
         "url": "https://jiongks.name/",
         "description": "",
         "rss": "",
-        "status":"active",
-        "added_date":"2026-06-10"
+        "status": "active",
+        "added_date": "2026-06-10"
     },
     {
         "name": "Lucifr",
@@ -557,7 +557,7 @@
         "description": "晚来天雨雪，能饮一杯无？",
         "rss": "https://www.codewoody.com/atom.xml",
         "status": "active",
-        "added_date": "2026-08-21"        
+        "added_date": "2026-08-21"
     },
     {
         "name": "Dosk 技术站",
@@ -1028,6 +1028,38 @@
         "url": "https://dreams.plus/",
         "description": "A blog about technology, programming, and life.",
         "rss": "https://dreams.plus/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "菲兹克斯喵",
+        "url": "https://physnya.top/",
+        "description": "This is physnya's personal blog & notebook.",
+        "rss": "https://physnya.top/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "給安",
+        "url": "https://giveanornot.com/",
+        "description": "給安 / JN 與安安Q 的個人入口，收集部落格、社群平台與聯絡方式。",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "愆伏 - 互联网杂谈",
+        "url": "https://tortorse.com/",
+        "description": "一个浸淫互联网行业多年的斜杠中年，通过博客表达自己的所思所想以及所经历的历史进程",
+        "rss": "https://tortorse.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "EdNovas的小站",
+        "url": "https://ednovas.xyz/",
+        "description": "",
+        "rss": "https://ednovas.xyz/atom.xml",
         "status": "active",
         "added_date": "2026-10-09"
     }
