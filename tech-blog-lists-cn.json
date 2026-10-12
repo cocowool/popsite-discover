@@ -1094,5 +1094,45 @@
         "rss": "https://isming.me/index.xml",
         "status": "active",
         "added_date": "2026-10-09"
+    },
+    {
+        "name": "安志合的学习博客",
+        "url": "https://chegva.com/",
+        "description": "linux运维,系统架构，自动化运维，云计算虚拟化，数据库，编程开发，IT技术博客，经验分享，国学以及传统文化",
+        "rss": "https://chegva.com/feed",
+        "status": "active",
+        "added_date": "2026-10-09"
+    },
+    {
+        "name": "SuperGrey 的筆記本",
+        "url": "https://supergrey.bearblog.dev/",
+        "description": "有感而發，忍不住想自己寫點東西——動漫感想、讀書心得，以及各種隨筆。",
+        "rss": "https://supergrey.bearblog.dev/feed/",
+        "status": "active",
+        "added_date": "2026-10-10"
+    },
+    {
+        "name": "Sagasu",
+        "url": "https://www.sagasu.art/",
+        "description": "Practical notes, experiments, and field-tested methods for using AI to build income, make better decisions, and create durable independent work.",
+        "rss": "https://www.sagasu.art/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-10"
+    },
+    {
+        "name": "Sunset 的重构博客",
+        "url": "https://blog.sunmkt.uk/",
+        "description": "Sunset Edu. & Tech. Group 的首席程序员",
+        "rss": "https://blog.sunmkt.uk/feed.xml",
+        "status": "active",
+        "added_date": "2026-10-12"
+    },
+    {
+        "name": "Victor42",
+        "url": "https://victor42.eth.limo/",
+        "description": "科学、纪录片、博物馆爱好者；Excel狂魔；蹩脚开发者；UI/UX设计师；生活观察者",
+        "rss": "https://victor42.eth.limo/index.xml",
+        "status": "active",
+        "added_date": "2026-10-12"
     }
 ]
