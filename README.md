@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**137** 个
-- 活跃博客：**120** 个
-- 最后更新：**2026-10-11 21:29:19**
+- 收录博客数量：**142** 个
+- 活跃博客：**125** 个
+- 最后更新：**2026-10-13 00:09:16**
 
 ## 收录的博客列表 / Blog 
 
@@ -62,14 +62,18 @@ This repository is used to discover and collect blogs that continuous original a
 | Random Thoughts | [🔗](https://blog.joway.io/) | 2026-09-07 | ✅ 活跃 |
 | Randy's Blog | [🔗](https://lutaonan.com/) | 2026-06-08 | ✅ 活跃 |
 | Ray's Blog | [🔗](https://blog.mk1.io) | 2026-09-28 | ✅ 活跃 |
+| Sagasu | [🔗](https://www.sagasu.art/) | 2026-10-10 | ✅ 活跃 |
 | Seven's blog | [🔗](https://blog.diqigan.cn/) | 2026-08-07 | ✅ 活跃 |
 | SimonAKing | [🔗](https://simonaking.com/) | 2026-09-20 | ✅ 活跃 |
 | Skywind Inside | [🔗](https://skywind.me/blog/) | 2026-06-08 | ⚠️ 无RSS |
 | Steve Sun | [🔗](https://sund.site/) | 2026-09-20 | ✅ 活跃 |
+| Sunset 的重构博客 | [🔗](https://blog.sunmkt.uk/) | 2026-10-12 | ✅ 活跃 |
+| SuperGrey 的筆記本 | [🔗](https://supergrey.bearblog.dev/) | 2026-10-10 | ✅ 活跃 |
 | The Will Will Web | [🔗](https://blog.miniasp.com/) | 2026-06-08 | ⚠️ 无RSS |
 | Tinyfool的个人网站 | [🔗](https://codechina.org/) | 2026-09-22 | ✅ 活跃 |
 | Tripper Press | [🔗](https://tripper.press/) | 2026-08-31 | ✅ 活跃 |
 | Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
+| Victor42 | [🔗](https://victor42.eth.limo/) | 2026-10-12 | ✅ 活跃 |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
 | WuSiYu Blog - IT相关各种折腾 | [🔗](https://wusiyu.me/) | 2026-09-29 | ✅ 活跃 |
 | Xieisabug | [🔗](https://www.xiejingyang.com/) | 2026-08-21 | ✅ 活跃 |
@@ -106,6 +110,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 国光 | [🔗](https://www.sqlsec.com/) | 2026-06-05 | ✅ 活跃 |
 | 土木坛子 | [🔗](https://tumutanzi.com/) | 2026-08-24 | ✅ 活跃 |
 | 失眠海峡 - 我要与你坦诚相见 | [🔗](https://blog.imalan.cn/) | 2026-08-24 | ✅ 活跃 |
+| 安志合的学习博客 | [🔗](https://chegva.com/) | 2026-10-09 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ✅ 活跃 |
 | 嵌入式工程猫的博客 | [🔗](https://blog.vvzero.com/) | 2026-09-15 | ✅ 活跃 |
 | 师兄的林间小屋 | [🔗](https://refined-x.com/) | 2026-08-25 | ✅ 活跃 |
