@@ -1182,5 +1182,13 @@
         "rss": "https://mkblog.cn/feed/",
         "status": "active",
         "added_date": "2026-10-16"
+    },
+    {
+        "name": "KEKKJ BLOG",
+        "url": "https://kekkj123.github.io/",
+        "description": "KEKKJ 的个人博客，分享各种技术教程和生活碎碎念。",
+        "rss": "https://kekkj123.github.io/RSS_atom.xml",
+        "status": "active",
+        "added_date": "2026-10-16"
     }
 ]
