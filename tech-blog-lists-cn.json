@@ -1198,5 +1198,13 @@
         "rss": "https://dfine.tech/atom.xml",
         "status": "active",
         "added_date": "2026-10-16"
+    },
+    {
+        "name": "太隐",
+        "url": "https://wangyurui.com/",
+        "description": "一个人的思想发育史就是他的阅读史",
+        "rss": "https://wangyurui.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-10-16"
     }
 ]
