@@ -1190,5 +1190,13 @@
         "rss": "https://kekkj123.github.io/RSS_atom.xml",
         "status": "active",
         "added_date": "2026-10-16"
+    },
+    {
+        "name": "阁子",
+        "url": "https://dfine.tech/",
+        "description": "dfine 的个人博客。写技术笔记与折腾记录——Linux、GStreamer、三维重建、Agent 与 LLM，也写随笔与旧体诗。共 108 篇文章、41 条闲言。",
+        "rss": "https://dfine.tech/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-16"
     }
 ]
