@@ -97,7 +97,7 @@
     },
     {
         "name": "罗磊的独立博客",
-        "url": "https://luolei.org/luolei-ai",
+        "url": "https://luolei.org/",
         "description": "罗磊的独立博客。全栈开发者、ZUOLUOTV 创作者、摄影师和马拉松跑者，分享编程开发、AI 与出海、数码科技、摄影旅行和跑步生活。",
         "rss": "https://luolei.org/rss.xml",
         "status": "active",
@@ -1134,5 +1134,53 @@
         "rss": "https://victor42.eth.limo/index.xml",
         "status": "active",
         "added_date": "2026-10-12"
+    },
+    {
+        "name": "hsfzxjy (Jingyi Xie)",
+        "url": "https://i.hsfzxjy.site/",
+        "description": "",
+        "rss": "https://i.hsfzxjy.site/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-12"
+    },
+    {
+        "name": "尼普学种花",
+        "url": "https://kneep.top/",
+        "description": "种花、旅行、写代码",
+        "rss": "https://kneep.top/index.xml",
+        "status": "active",
+        "added_date": "2026-10-12"
+    },
+    {
+        "name": "x7aNote",
+        "url": "https://xeonzilla.top/",
+        "description": "Yuri is life.",
+        "rss": "https://xeonzilla.top/feed.xml",
+        "status": "active",
+        "added_date": "2026-10-13"
+    },
+    {
+        "name": "王圆圆",
+        "url": "https://www.iconpik.com/",
+        "description": "记录稍纵即逝的观点、灵感与想法。",
+        "rss": "https://www.iconpik.com/rss/",
+        "status": "active",
+        "added_date": "2026-10-13"
+    },
+    {
+        "name": "酥米的小站",
+        "url": "https://www.sumi233.top/",
+        "description": "酥米的技术和生活分享地，这里分享前沿技术文章、开发实践心得，以及科技与日常交织的思考。从代码实现到生活洞察，用简洁的文字记录成长轨迹，搭建起技术与人文之间的桥梁。",
+        "rss": "https://www.sumi233.top/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-16"
+    },
+    {
+        "name": "孟坤博客",
+        "url": "https://mkblog.cn/",
+        "description": "互联网+分享+科技+吐槽=孟坤博客",
+        "rss": "https://mkblog.cn/feed/",
+        "status": "active",
+        "added_date": "2026-10-16"
     }
 ]
