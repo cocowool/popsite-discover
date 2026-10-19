@@ -1206,5 +1206,13 @@
         "rss": "https://wangyurui.com/feed.xml",
         "status": "active",
         "added_date": "2026-10-16"
+    },
+    {
+        "name": "GISerLab",
+        "url": "https://blog.giserlab.cn/",
+        "description": "探索地理信息空间",
+        "rss": "https://blog.giserlab.cn/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-19"
     }
 ]
