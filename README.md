@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**151** 个
-- 活跃博客：**134** 个
-- 最后更新：**2026-10-18 20:06:53**
+- 收录博客数量：**152** 个
+- 活跃博客：**135** 个
+- 最后更新：**2026-10-19 21:59:55**
 
 ## 收录的博客列表 / Blog 
 
@@ -30,6 +30,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Dosk 技术站 | [🔗](https://dosk.win/) | 2026-08-21 | ✅ 活跃 |
 | EdNovas的小站 | [🔗](https://ednovas.xyz/) | 2026-10-09 | ✅ 活跃 |
 | Fei's Tours & Tales | [🔗](https://www.feifun.cn/) | 2026-10-08 | ✅ 活跃 |
+| GISerLab | [🔗](https://blog.giserlab.cn/) | 2026-10-19 | ✅ 活跃 |
 | GeekPlux | [🔗](https://geekplux.com/) | 2026-06-09 | ✅ 活跃 |
 | Ground Oddity | [🔗](http://idle.systems/) | 2026-09-09 | ✅ 活跃 |
 | HCLonely Blog | [🔗](https://blog.hclonely.com/) | 2026-09-15 | ✅ 活跃 |
