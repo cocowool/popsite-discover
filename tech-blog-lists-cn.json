@@ -1214,5 +1214,21 @@
         "rss": "https://blog.giserlab.cn/rss.xml",
         "status": "active",
         "added_date": "2026-10-19"
+    },
+    {
+        "name": "云海札记",
+        "url": "https://www.auvetu.com/",
+        "description": "云海札记是一个基于 Astro 与 Firefly 搭建的个人博客，用来记录故事随笔、阅读札记与日常思考。",
+        "rss": "https://auvetu.com/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-19"
+    },
+    {
+        "name": "TimochanのBlog",
+        "url": "https://www.timochan.cn/",
+        "description": "Let's start learning",
+        "rss": "https://www.timochan.cn/feed",
+        "status": "active",
+        "added_date": "2026-10-21"
     }
 ]
