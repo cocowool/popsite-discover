@@ -28,7 +28,7 @@
         "url": "https://zhangguanzhang.github.io/",
         "description": "",
         "rss": "https://zhangguanzhang.github.io/atom.xml",
-        "status": "no_rss",
+        "status": "archived",
         "added_date": "2026-06-05"
     },
     {
@@ -76,7 +76,7 @@
         "url": "https://www.phodal.com/blog/",
         "description": "Phodal Huang is a geek, creator and author, like to create and share in the real world & virtual world.He like to share software development experiences to help people build better software systems. He has written three books on software development, there are Frontend Architecture: from Basic to Micro-Frontend, Design IoT System and Growth: Thinking in Full Stack. He also was a reviewer of seven books on IoT and frontend development.",
         "rss": "https://www.phodal.com/blog/feeds/atom/",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-06-05"
     },
     {
@@ -116,7 +116,7 @@
         "url": "https://blog.lilydjwg.me/",
         "description": "依云的个人博客",
         "rss": "https://blog.lilydjwg.me/feed",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-06-05"
     },
     {
@@ -132,7 +132,7 @@
         "url": "https://www.cnfeat.com/",
         "description": "卡片创作实验室 - cnfeat的个人网站。专注卡片创作、写作系统、生产力提升，提供《笨方法文化手册》《卡片创作100讲》等课程与手册。",
         "rss": "",
-        "status": "no_rss",
+        "status": "archived",
         "added_date": "2026-06-08"
     },
     {
@@ -220,7 +220,7 @@
         "url": "https://jiongks.name/",
         "description": "",
         "rss": "",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-06-10"
     },
     {
@@ -284,7 +284,7 @@
         "url": "https://imtx.me",
         "description": "图拉鼎（TualatriX）的个人主页，分享围绕着独立产品开发、iOS 开发、Web 开发等心路历程。",
         "rss": "http://feeds.feedburner.com/tualatrix",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-06-12"
     },
     {
@@ -404,7 +404,7 @@
         "url": "https://102no.com/",
         "description": "是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）",
         "rss": "https://102no.com/atom.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-07-06"
     },
     {
@@ -412,7 +412,7 @@
         "url": "https://joouis.com/",
         "description": "Stand high, think different.",
         "rss": "https://joouis.com/atom.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-07-06"
     },
     {
@@ -428,7 +428,7 @@
         "url": "https://jyzhu.top/",
         "description": "",
         "rss": "https://jyzhu.top/feed.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-07-07"
     },
     {
@@ -476,7 +476,7 @@
         "url": "https://www.z16388.top/",
         "description": "求学道路上的行车记录仪",
         "rss": "https://www.z16388.top/atom.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-07-15"
     },
     {
@@ -564,7 +564,7 @@
         "url": "https://dosk.win/",
         "description": "SpringHack 的无名技术小站",
         "rss": "https://dosk.win/atom.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-08-21"
     },
     {
@@ -668,7 +668,7 @@
         "url": "https://www.seis-jun.xyz/",
         "description": "Jun Xie — Seismologist at Academy of Precision Measurement Science and Technology",
         "rss": "https://www.seis-jun.xyz/atom.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-08-25"
     },
     {
@@ -916,7 +916,7 @@
         "url": "https://blog.feimind.xyz/",
         "description": "Digital Space",
         "rss": "https://blog.feimind.xyz/rss.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-09-28"
     },
     {
@@ -1012,7 +1012,7 @@
         "url": "https://blog.xulihang.me/",
         "description": "",
         "rss": "https://blog.xulihang.me/feed/",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-10-08"
     },
     {
@@ -1020,7 +1020,7 @@
         "url": "https://blog.est.im/",
         "description": "This blog is rated 🔞, viewer discretion is advised",
         "rss": "https://feeds.feedburner.com/initiative",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-10-08"
     },
     {
@@ -1108,7 +1108,7 @@
         "url": "https://supergrey.bearblog.dev/",
         "description": "有感而發，忍不住想自己寫點東西——動漫感想、讀書心得，以及各種隨筆。",
         "rss": "https://supergrey.bearblog.dev/feed/",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-10-10"
     },
     {
@@ -1188,7 +1188,7 @@
         "url": "https://kekkj123.github.io/",
         "description": "KEKKJ 的个人博客，分享各种技术教程和生活碎碎念。",
         "rss": "https://kekkj123.github.io/RSS_atom.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-10-16"
     },
     {
@@ -1228,6 +1228,14 @@
         "url": "https://www.timochan.cn/",
         "description": "Let's start learning",
         "rss": "https://www.timochan.cn/feed",
+        "status": "active",
+        "added_date": "2026-10-21"
+    },
+    {
+        "name": "Time Friend",
+        "url": "https://time-friend.com/zh/",
+        "description": "做时间的朋友，长期主义，记录成长与思考",
+        "rss": "https://time-friend.com/zh/index.xml",
         "status": "active",
         "added_date": "2026-10-21"
     }

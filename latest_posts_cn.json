@@ -1,66 +1,731 @@
 [
     {
-        "blog_name": "王登科-DK博客",
-        "blog_url": "https://greatdk.com/",
-        "title": "3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑",
-        "link": "https://greatdk.com/2149.html",
-        "pub_date": "未知时间"
+        "blog_name": "Jiajun的技术笔记",
+        "blog_url": "https://jiajunhuang.com/",
+        "title": "如何写一个 Agent",
+        "link": "https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html",
+        "pub_date": "2026-10-20"
     },
     {
-        "blog_name": "Debug客栈",
-        "blog_url": "https://blog.debuginn.com/",
-        "title": "做了一款家庭资产管理 App — 知盈 iAssets",
-        "link": "https://blog.debuginn.com/p/iassets-app/",
-        "pub_date": "2026-06-08"
+        "blog_name": "秋安 | 素生",
+        "blog_url": "https://z.arlmy.me/",
+        "title": "入蜀记 day512 刚需与服从性",
+        "link": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/",
+        "pub_date": "2026-10-20"
     },
     {
-        "blog_name": "MacTalk-池建强的 Blog",
-        "blog_url": "https://macshuo.com/",
-        "title": "谁说 ChatGTP 和 Codex 合体了？",
-        "link": "https://macshuo.com/?p=2063",
-        "pub_date": "2026-06-06"
+        "blog_name": "伪斜杠青年",
+        "blog_url": "https://i.lckiss.com/",
+        "title": "又是一年双 11 ，又是一次淘宝欺诈，阿里系烂透了",
+        "link": "https://i.lckiss.com/?p=9934",
+        "pub_date": "2026-10-20"
+    },
+    {
+        "blog_name": "菲兹克斯喵",
+        "blog_url": "https://physnya.top/",
+        "title": "恒星结构",
+        "link": "https://physnya.top/astro-physics/lesson-4-star-structure/",
+        "pub_date": "2026-10-19"
+    },
+    {
+        "blog_name": "EdNovas的小站",
+        "blog_url": "https://ednovas.xyz/",
+        "title": "博客评论系统迁移记：Valine → Waline → Twikoo（附评论系统对比与 Cloudflare Workers + D1 部署教程）",
+        "link": "https://ednovas.xyz/2026/10/19/comment-system-migration/",
+        "pub_date": "2026-10-19"
+    },
+    {
+        "blog_name": "Sagasu",
+        "blog_url": "https://www.sagasu.art/",
+        "title": "用 Grok Bot 自动化提交外链：一天跑完 4000 多个站的完整流程",
+        "link": "https://www.sagasu.art/posts/automated-backlink-submission-grok-bot",
+        "pub_date": "2026-10-19"
+    },
+    {
+        "blog_name": "x7aNote",
+        "blog_url": "https://xeonzilla.top/",
+        "title": "观影小结 2026年夏",
+        "link": "https://xeonzilla.top/anime-impressions-summer2026/",
+        "pub_date": "2026-10-19"
+    },
+    {
+        "blog_name": "@Lenciel",
+        "blog_url": "https://lenciel.com/",
+        "title": "Fragments 0x0015",
+        "link": "https://lenciel.com/2026/10/fragments-0x0015/",
+        "pub_date": "2026-10-18"
+    },
+    {
+        "blog_name": "Louis C Deng's Blog",
+        "blog_url": "https://blog.aeilot.top/",
+        "title": "質疑莊子",
+        "link": "https://blog.aeilot.top/2026/10/18/asking-chuangzi/",
+        "pub_date": "2026-10-18"
+    },
+    {
+        "blog_name": "Sunset 的重构博客",
+        "blog_url": "https://blog.sunmkt.uk/",
+        "title": "使用 GenP (Community) 盗版 Adobe Creative Cloud",
+        "link": "https://blog.sunmkt.uk/post/genp-adobe/",
+        "pub_date": "2026-10-18"
+    },
+    {
+        "blog_name": "KAIX.IN",
+        "blog_url": "https://kaix.in/",
+        "title": "AI 为什么总是惹人议论",
+        "link": "https://kaix.in/2026/1017/",
+        "pub_date": "2026-10-17"
+    },
+    {
+        "blog_name": "土木坛子",
+        "blog_url": "https://tumutanzi.com/",
+        "title": "Starryblu：跨境资金管理平台Wise的平替？",
+        "link": "https://tumutanzi.com/archives/17648",
+        "pub_date": "2026-10-17"
     },
     {
         "blog_name": "阮一峰的网络日志",
         "blog_url": "https://www.ruanyifeng.com/blog/",
-        "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
-        "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
-        "pub_date": "2026-06-05"
+        "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+        "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "Usubeni Fantasy",
+        "blog_url": "https://ssshooter.com/",
+        "title": "激荡 2026",
+        "link": "https://ssshooter.com/turbulent-2026/",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "祝融说",
+        "blog_url": "https://zhurongshuo.com/",
+        "title": "浮屠江湖",
+        "link": "https://zhurongshuo.com/posts/2026/10/1602/",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "Lex Blog",
+        "blog_url": "https://dreams.plus/",
+        "title": "f-散度族及其推论",
+        "link": "https://dreams.plus/blog/2026/0011-about-the-f-divergence",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "码农明明桑",
+        "blog_url": "https://isming.me/",
+        "title": "小城广德徒步逛吃游",
+        "link": "https://isming.me/2026-10-02-guangde/?utm_source=rss",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "太隐",
+        "blog_url": "https://wangyurui.com/",
+        "title": "孤岛上的现代人",
+        "link": "https://wangyurui.com/posts/gu-dao-shang-de-xian-dai-ren-91d2389f",
+        "pub_date": "2026-10-16"
+    },
+    {
+        "blog_name": "GISerLab",
+        "blog_url": "https://blog.giserlab.cn/",
+        "title": "GIS每周信息 · 25",
+        "link": "http://127.0.0.1:5201/post/25",
+        "pub_date": "2026-10-15"
+    },
+    {
+        "blog_name": "Seven's blog",
+        "blog_url": "https://blog.diqigan.cn/",
+        "title": "我做了一个浏览器扩展：把网页生词一键收进「不背单词」",
+        "link": "https://blog.diqigan.cn/posts/independent-develop/word-radar-introduce.html",
+        "pub_date": "2026-10-14"
+    },
+    {
+        "blog_name": "YeungYeah's Context",
+        "blog_url": "https://scottyeung.top/",
+        "title": "共享记忆，最后还是落回了文档",
+        "link": "https://scottyeung.top/2026/doc-based-ai-memory/",
+        "pub_date": "2026-10-14"
+    },
+    {
+        "blog_name": "双绞麻痹",
+        "blog_url": "https://numb.tech/",
+        "title": "算法之外——我的墨水屏RSS方案",
+        "link": "https://numb.tech/2026/10/14/algorithm-inkRss/",
+        "pub_date": "2026-10-14"
+    },
+    {
+        "blog_name": "愆伏 - 互联网杂谈",
+        "blog_url": "https://tortorse.com/",
+        "title": "2006，带着手册去装服务器",
+        "link": "https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/",
+        "pub_date": "2026-10-14"
+    },
+    {
+        "blog_name": "Xieisabug",
+        "blog_url": "https://www.xiejingyang.com/",
+        "title": "How I AI Coding in 2026.10",
+        "link": "https://www.xiejingyang.com/2026/10/13/how-i-ai-coding-in-2026-10/",
+        "pub_date": "2026-10-13"
+    },
+    {
+        "blog_name": "保罗的小宇宙",
+        "blog_url": "https://paugram.com/",
+        "title": "做两年漫展摄影的一些感想",
+        "link": "https://paugram.com/essay/two-years-cos-photography-thoughts.html",
+        "pub_date": "2026-10-13"
+    },
+    {
+        "blog_name": "不吐不快",
+        "blog_url": "https://mianao.info/",
+        "title": "又用AI做了个鸡肋-桌面单词日历墨水屏",
+        "link": "https://mianao.info/ai-ink-word-esp32-s3/",
+        "pub_date": "2026-10-13"
+    },
+    {
+        "blog_name": "Just lepture",
+        "blog_url": "https://lepture.com/",
+        "title": "Building Prosefly",
+        "link": "https://lepture.com/blog/building-prosefly",
+        "pub_date": "2026-10-11"
+    },
+    {
+        "blog_name": "捻墨运营笔记",
+        "blog_url": "https://dyy.nianmo.top/",
+        "title": "为什么建议做小红书的博主，每次复盘只针对性改一个变量？",
+        "link": "https://dyy.nianmo.top/archives/xhs-danbianliang-fupan",
+        "pub_date": "2026-10-11"
+    },
+    {
+        "blog_name": "安志合的学习博客",
+        "blog_url": "https://chegva.com/",
+        "title": "《庄子》内七篇完整解读",
+        "link": "https://chegva.com/6821.html",
+        "pub_date": "2026-10-11"
+    },
+    {
+        "blog_name": "Debug客栈",
+        "blog_url": "https://blog.debuginn.com/",
+        "title": "知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒",
+        "link": "https://blog.debuginn.com/p/iassets-share/",
+        "pub_date": "2026-10-10"
+    },
+    {
+        "blog_name": "Ray's Blog",
+        "blog_url": "https://blog.mk1.io",
+        "title": "在宿舍组建一个即插即走的迷你工作站",
+        "link": "https://blog.mk1.io/posts/%E6%8A%98%E8%85%BE/plug-and-go-dorm-workstation.html",
+        "pub_date": "2026-10-10"
+    },
+    {
+        "blog_name": "白宦成",
+        "blog_url": "https://www.ixiqin.com/",
+        "title": "我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备",
+        "link": "https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/",
+        "pub_date": "2026-10-09"
+    },
+    {
+        "blog_name": "ABB00717's Blog",
+        "blog_url": "https://blog.abb00717.com/",
+        "title": "工具",
+        "link": "https://blog.abb00717.com/%E7%AD%86%E8%A8%98/%E5%B7%A5%E5%85%B7/",
+        "pub_date": "2026-10-09"
+    },
+    {
+        "blog_name": "唐巧的博客",
+        "blog_url": "https://blog.devtang.com/",
+        "title": "对抗衰老 - 读《抗衰大脑》",
+        "link": "https://blog.devtang.com/2026/10/07/anti-aging-brain/",
+        "pub_date": "2026-10-07"
+    },
+    {
+        "blog_name": "编程沉思录",
+        "blog_url": "https://www.cyhone.com/",
+        "title": "环石岩湖骑行",
+        "link": "https://cyhone.com/posts/shiyan-lake-ride/",
+        "pub_date": "2026-10-06"
+    },
+    {
+        "blog_name": "BMPI",
+        "blog_url": "https://www.bmpi.dev/",
+        "title": "一个抖音遥控器的开发小记",
+        "link": "https://www.bmpi.dev/dev/free4chat-task-app-development-notes/",
+        "pub_date": "2026-10-06"
+    },
+    {
+        "blog_name": "OneV's Den",
+        "blog_url": "https://onevcat.com/",
+        "title": "一些关于开发的杂谈话题 - 代码审核",
+        "link": "https://onevcat.com/2026/10/agent-review/",
+        "pub_date": "2026-10-04"
+    },
+    {
+        "blog_name": "M-x Chris-An-Emacser",
+        "blog_url": "https://chriszheng.science/",
+        "title": "近思录 2026-10-02",
+        "link": "https://chriszheng.science/2026/10/02/Recent-thoughts-2026-10-02/",
+        "pub_date": "2026-10-01"
+    },
+    {
+        "blog_name": "WuSiYu Blog - IT相关各种折腾",
+        "blog_url": "https://wusiyu.me/",
+        "title": "singbox-multipath：用于异质多路径的类MPTCP智能择优聚合L4转发器PoC",
+        "link": "https://wusiyu.me/singbox-multipath/",
+        "pub_date": "2026-10-01"
+    },
+    {
+        "blog_name": "lucifer",
+        "blog_url": "https://lucifer.ren/blog/",
+        "title": "蜡烛图技术分析",
+        "link": "https://lucifer.ren/blog/2026/10/01/japan-k-line/",
+        "pub_date": "2026-09-30"
+    },
+    {
+        "blog_name": "LiesAuer's Blog",
+        "blog_url": "https://www.liesauer.net/",
+        "title": "解决 Codex 无法访问 rg.exe 的问题",
+        "link": "https://www.liesauer.net/blog/post/1046.html",
+        "pub_date": "2026-09-30"
+    },
+    {
+        "blog_name": "LiesAuer's Blog",
+        "blog_url": "https://liesauer.net/blog/",
+        "title": "解决 Codex 无法访问 rg.exe 的问题",
+        "link": "https://www.liesauer.net/blog/post/1046.html",
+        "pub_date": "2026-09-30"
+    },
+    {
+        "blog_name": "Haku",
+        "blog_url": "https://re.karlbaey.top/",
+        "title": "Wake Me Up When September Ends",
+        "link": "https://re.karlbaey.top/articles/wake-me-up-when-september-ends/",
+        "pub_date": "2026-09-30"
+    },
+    {
+        "blog_name": "罗磊的独立博客",
+        "blog_url": "https://luolei.org/",
+        "title": "我的网络方案：2026 年的折腾记录",
+        "link": "https://luolei.org/my-network-2026",
+        "pub_date": "2026-09-29"
+    },
+    {
+        "blog_name": "Victor42",
+        "blog_url": "https://victor42.eth.limo/",
+        "title": "A Toy Port for My Daughter",
+        "link": "https://victor42.eth.limo/post-en/daughter-toy-port/",
+        "pub_date": "2026-09-29"
+    },
+    {
+        "blog_name": "hsfzxjy (Jingyi Xie)",
+        "blog_url": "https://i.hsfzxjy.site/",
+        "title": "关于意识 - 假如 AI 觉醒了",
+        "link": "https://i.hsfzxjy.site/on-consciousness-with-chatgpt-1/",
+        "pub_date": "2026-09-29"
+    },
+    {
+        "blog_name": "尼普学种花",
+        "blog_url": "https://kneep.top/",
+        "title": "英国 15 天自驾路线：牛津、曼彻斯特、湖区、苏格兰高地、NC500 与伦敦",
+        "link": "https://kneep.top/posts/uk-2026/summary/",
+        "pub_date": "2026-09-29"
+    },
+    {
+        "blog_name": "王圆圆",
+        "blog_url": "https://www.iconpik.com/",
+        "title": "为了平凡的生活",
+        "link": "https://www.iconpik.com/baraye/",
+        "pub_date": "2026-09-29"
+    },
+    {
+        "blog_name": "酥米的小站",
+        "blog_url": "https://www.sumi233.top/",
+        "title": "酥米的碎碎念（17），中秋节快乐",
+        "link": "https://www.sumi233.top/posts/mouthtalk/sumi-thoughts-17/",
+        "pub_date": "2026-09-28"
+    },
+    {
+        "blog_name": "孟坤博客",
+        "blog_url": "https://mkblog.cn/",
+        "title": "AI 时代的焦虑程序员",
+        "link": "https://mkblog.cn/2601/",
+        "pub_date": "2026-09-28"
+    },
+    {
+        "blog_name": "阁子",
+        "blog_url": "https://dfine.tech/",
+        "title": "keepane，AI 时代的终端多路复用",
+        "link": "https://dfine.tech/posts/626063bd/",
+        "pub_date": "2026-09-27"
+    },
+    {
+        "blog_name": "云海札记",
+        "blog_url": "https://www.auvetu.com/",
+        "title": "有时候我觉得我是你：从星瞳谈起",
+        "link": "https://auvetu.com/posts/virtual-streamer-xingtong/",
+        "pub_date": "2026-09-27"
+    },
+    {
+        "blog_name": "Steve Sun",
+        "blog_url": "https://sund.site/",
+        "title": "【译文】当 AI 什么都能生成，如何建立品味",
+        "link": "https://sund.site/posts/2026/how-to-build-taste/",
+        "pub_date": "2026-09-25"
+    },
+    {
+        "blog_name": "TimochanのBlog",
+        "blog_url": "https://www.timochan.cn/",
+        "title": "AI时代，我们如何与AI同行（二）",
+        "link": "https://www.timochan.cn/notes/49",
+        "pub_date": "2026-09-25"
+    },
+    {
+        "blog_name": "Random Thoughts",
+        "blog_url": "https://blog.joway.io/",
+        "title": "聊天或许并不是个人 Agent 的正确打开方式",
+        "link": "https://blog.joway.io/posts/ai-personal-agent/",
+        "pub_date": "2026-09-24"
+    },
+    {
+        "blog_name": "Time Friend",
+        "blog_url": "https://time-friend.com/zh/",
+        "title": "骁龙 8 Gen 2 掌机跑 Switch 模拟器: 内存布局越大越不稳, 以及显存优化实测",
+        "link": "https://time-friend.com/zh/archive/switch-emulation-snapdragon-tuning/",
+        "pub_date": "2026-09-24"
+    },
+    {
+        "blog_name": "Yihui Xie | 谢益辉",
+        "blog_url": "https://yihui.org/",
+        "title": "Three New Debugging Aids in knitr",
+        "link": "https://yihui.org/en/2026/09/knitr-debugging/",
+        "pub_date": "2026-09-21"
+    },
+    {
+        "blog_name": "oldj",
+        "blog_url": "https://oldj.net/",
+        "title": "从网文看独立开发",
+        "link": "https://oldj.net/posts/what-web-fiction-can-teach-us-about-indie-development",
+        "pub_date": "2026-09-21"
+    },
+    {
+        "blog_name": "鸟窝",
+        "blog_url": "https://colobu.com/",
+        "title": "jev 兼容",
+        "link": "https://colobu.com/2026/09/21/jev-compatibility/",
+        "pub_date": "2026-09-20"
+    },
+    {
+        "blog_name": "陈看川",
+        "blog_url": "https://kanchuan.com/",
+        "title": "个人申请计算机软件著作权证书耗时",
+        "link": "https://kanchuan.com/blog/244-software-copyright",
+        "pub_date": "2026-09-20"
+    },
+    {
+        "blog_name": "forecho's Blog",
+        "blog_url": "https://blog.forecho.com/",
+        "title": "Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）",
+        "link": "https://blog.forecho.com/10-best-price-action-trading-patterns.html",
+        "pub_date": "2026-09-18"
+    },
+    {
+        "blog_name": "HCLonely Blog",
+        "blog_url": "https://blog.hclonely.com/",
+        "title": "TrayPilot：隐藏 Windows 托盘图标，让托盘清爽起来",
+        "link": "https://blog.hclonely.com/posts/45f48035/",
+        "pub_date": "2026-09-18"
+    },
+    {
+        "blog_name": "MacTalk-池建强的 Blog",
+        "blog_url": "https://macshuo.com/",
+        "title": "墨问发布第一款 Mac App：CatBar，极简 Mac 菜单栏图标管理工具",
+        "link": "https://macshuo.com/?p=2078",
+        "pub_date": "2026-09-16"
+    },
+    {
+        "blog_name": "云游君的小站",
+        "blog_url": "https://www.yunyoujun.cn/",
+        "title": "小云梦工坊 #01：用 AI 复活七年前的 ak-ui",
+        "link": "https://www.yunyoujun.cn/posts/xiaoyun-studio-01-ak-ui",
+        "pub_date": "2026-09-12"
     },
     {
         "blog_name": "追梦人物",
         "blog_url": "https://www.zmrenwu.com/",
-        "title": "0x05：Merkle Tree & Patricia Trie",
-        "link": "https://zmrenwu.com/columns/ethereum-design-and-implementation/articles/6/",
-        "pub_date": "2026-05-26"
+        "title": "小度智能设备接入 Home Assistant，支持小爱同学语音控制",
+        "link": "https://zmrenwu.com/posts/48/",
+        "pub_date": "2026-09-09"
     },
     {
-        "blog_name": "依云's Blog",
-        "blog_url": "https://blog.lilydjwg.me/",
-        "title": "自定义系统默认中文字体",
-        "link": "https://blog.lilydjwg.me/posts/217026.html",
-        "pub_date": "2026-05-11"
-    },
-    {
-        "blog_name": "开源实验室",
-        "blog_url": "https://kymjs.com/",
-        "title": "01",
-        "link": "https://www.kymjs.com/2026/04/01/01/",
-        "pub_date": "2026-04-01"
-    },
-    {
-        "blog_name": "winliang",
-        "blog_url": "https://windliang.wang/",
-        "title": "杀死那个写代码的人",
-        "link": "https://windliang.wang/2026/03/31/%E6%9D%80%E6%AD%BB%E9%82%A3%E4%B8%AA%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA/",
-        "pub_date": "2026-03-31"
+        "blog_name": "第七星尘的独立博客",
+        "blog_url": "https://blog.star7th.com/",
+        "title": "我的又一个C端工具，幕映电视投屏工具",
+        "link": "https://blog.star7th.com/2026/09/2635.html",
+        "pub_date": "2026-09-08"
     },
     {
         "blog_name": "Piglei",
         "blog_url": "https://www.piglei.com/",
-        "title": "一份关于 AI 编程的简明行为指南",
-        "link": "https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/",
-        "pub_date": "2026-03-20"
+        "title": "开发软件，或建造迷宫",
+        "link": "https://www.piglei.com/articles/software-dev-as-dungeon-building/",
+        "pub_date": "2026-09-05"
+    },
+    {
+        "blog_name": "ISLAND",
+        "blog_url": "https://youngxhui.top/",
+        "title": "轻糖的 KMP 实战：一次冷启动 3 秒必现崩溃，与 viewModelScope 异常逃逸的代价",
+        "link": "https://youngxhui.top/2026/09/sugarlite-kmp-exception/",
+        "pub_date": "2026-09-05"
+    },
+    {
+        "blog_name": "winliang",
+        "blog_url": "https://windliang.wang/",
+        "title": "Agent Loop 的 while 循环什么时候开始不够用",
+        "link": "https://windliang.wang/2026/09/03/Agent-Loop-%E7%9A%84-while-%E5%BE%AA%E7%8E%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%9F%E7%94%A8/",
+        "pub_date": "2026-09-03"
+    },
+    {
+        "blog_name": "61’s life",
+        "blog_url": "https://61.life/",
+        "title": "20260901",
+        "link": "https://61.life/2026/0901",
+        "pub_date": "2026-09-01"
+    },
+    {
+        "blog_name": "Phodal-狼和凤凰",
+        "blog_url": "https://www.phodal.com/blog/",
+        "title": "从生成动画到可编程产物：在 Harness 中构建 Lottie 创作运行时",
+        "link": "http://www.phodal.com/blog/agentic-programming-artifact/",
+        "pub_date": "2026-08-30"
+    },
+    {
+        "blog_name": "胡涂说",
+        "blog_url": "https://hutusi.com/",
+        "title": "AI Naive: 用 AI 做“无用之用”的独立软件作品集",
+        "link": "https://hutusi.com/flows/2026/08/30",
+        "pub_date": "2026-08-30"
+    },
+    {
+        "blog_name": "Jacky Wong",
+        "blog_url": "https://jw1.dev/",
+        "title": "Dear Ms. Green",
+        "link": "https://jw1.dev/dear-ms-green",
+        "pub_date": "2026-08-30"
+    },
+    {
+        "blog_name": "Tripper Press",
+        "blog_url": "https://tripper.press/",
+        "title": "跑迹",
+        "link": "https://tripper.press/heatmap",
+        "pub_date": "2026-08-29"
+    },
+    {
+        "blog_name": "师兄的林间小屋",
+        "blog_url": "https://refined-x.com/",
+        "title": "了解 Openclaw 的模型上下文",
+        "link": "https://refined-x.com/2026/08/28/openclaw-model-context/",
+        "pub_date": "2026-08-28"
+    },
+    {
+        "blog_name": "轶哥 - 火星人",
+        "blog_url": "https://www.wyr.me/",
+        "title": "企业业务本体与AI落地",
+        "link": "https://www.wyr.me/post/769",
+        "pub_date": "2026-08-26"
+    },
+    {
+        "blog_name": "暗无天日",
+        "blog_url": "https://www.lujun9972.win/",
+        "title": "Emacs 31.1 发布速览：没有大功能，但你的配置可以变短了",
+        "link": "https://lujun9972.github.io/blog/2026/08/25/emacs-31.1-发布速览：没有大功能，但你的配置可以变短了/index.html",
+        "pub_date": "2026-08-26"
+    },
+    {
+        "blog_name": "Tinyfool的个人网站",
+        "blog_url": "https://codechina.org/",
+        "title": "AI时代人人都能做产品，但是独立开发却更难生存了",
+        "link": "https://codechina.org/2026/08/31302",
+        "pub_date": "2026-08-25"
+    },
+    {
+        "blog_name": "开源实验室",
+        "blog_url": "https://kymjs.com/",
+        "title": "DeepSeek Harness源码分析：给非 AI 开发者的 Agent 架构长文",
+        "link": "https://www.kymjs.com/code/2026/08/24/01/",
+        "pub_date": "2026-08-24"
+    },
+    {
+        "blog_name": "见字如面",
+        "blog_url": "https://hiwannz.com",
+        "title": "当答案比问题更早出现",
+        "link": "https://hiwannz.com/archives/1285.html",
+        "pub_date": "2026-08-20"
+    },
+    {
+        "blog_name": "Limboy's HQ",
+        "blog_url": "https://limboy.me/",
+        "title": "捷径",
+        "link": "https://limboy.me/posts/shortcut",
+        "pub_date": "2026-08-12"
+    },
+    {
+        "blog_name": "北门清燕",
+        "blog_url": "https://bmqy.net/",
+        "title": "DBeaver WebDAV 备份插件",
+        "link": "https://bmqy.net/2915.html",
+        "pub_date": "2026-07-31"
+    },
+    {
+        "blog_name": "WUJINGQUAN",
+        "blog_url": "https://www.wujingquan.com/",
+        "title": "鼻炎患者自我救赎之DIY环境监测系统（一）",
+        "link": "https://www.wujingquan.com/1414.html",
+        "pub_date": "2026-07-19"
+    },
+    {
+        "blog_name": "kok的笔记本",
+        "blog_url": "https://wocai.de/",
+        "title": "macOS 里 神秘的 kernel_task ，为什么一直在写入硬盘？",
+        "link": "https://wocai.de/post/2026/07/macos-kernel-task-disk-write/",
+        "pub_date": "2026-07-14"
+    },
+    {
+        "blog_name": "Origin - Singee's Blog",
+        "blog_url": "https://blog.singee.me/",
+        "title": "Agent 安全：环境变量泄露",
+        "link": "https://blog.singee.me/2026/07/06/395f4bee3ed780dd9246fbf1e2507b5f/",
+        "pub_date": "2026-07-06"
+    },
+    {
+        "blog_name": "SimonAKing",
+        "blog_url": "https://simonaking.com/",
+        "title": "模型适配权：Anthropic 藏得最深的垄断",
+        "link": "https://simonaking.com/blog/anthropic-model-adaptation-monopoly/",
+        "pub_date": "2026-07-05"
+    },
+    {
+        "blog_name": "Fei's Tours & Tales",
+        "blog_url": "https://www.feifun.cn/",
+        "title": "Universities, Labs and Science Museums",
+        "link": "https://www.feifun.cn/lists/universities-labs-and-science-museums/",
+        "pub_date": "2026-07-04"
+    },
+    {
+        "blog_name": "王登科-DK博客",
+        "blog_url": "https://greatdk.com/",
+        "title": "庄子不会喜欢 AI：效率，机心，伯乐之罪",
+        "link": "https://greatdk.com/2144.html",
+        "pub_date": "2026-07-02"
+    },
+    {
+        "blog_name": "CodeSky 代码天空",
+        "blog_url": "https://www.codesky.me/",
+        "title": "如何让 AI 成为 24 小时牛马：我的个人项目实践",
+        "link": "https://www.codesky.me/archives/ai-newmor.wind",
+        "pub_date": "2026-06-27"
+    },
+    {
+        "blog_name": "范叶亮",
+        "blog_url": "https://leovan.me/",
+        "title": "多智能体系统",
+        "link": "https://leovan.me/cn/2026/06/multi-agent-system/",
+        "pub_date": "2026-06-20"
+    },
+    {
+        "blog_name": "Randy's Blog",
+        "blog_url": "https://lutaonan.com/",
+        "title": "高考随想",
+        "link": "https://lutaonan.com/blog/undefined",
+        "pub_date": "2026-06-10"
+    },
+    {
+        "blog_name": "ZedeX",
+        "blog_url": "https://zedex.cn/",
+        "title": "ETF拯救世界投资智慧总结报告",
+        "link": "https://zedex.cn/posts/2026/06/etf%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C%E6%8A%95%E8%B5%84%E6%99%BA%E6%85%A7%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/",
+        "pub_date": "2026-06-01"
+    },
+    {
+        "blog_name": "披萨盒的赛博日志",
+        "blog_url": "https://blog.pushihao.com/",
+        "title": "谈谈工作了半年的感受",
+        "link": "https://blog.pushihao.com/article/32ca8c25.html",
+        "pub_date": "2026-05-31"
+    },
+    {
+        "blog_name": "失眠海峡 - 我要与你坦诚相见",
+        "blog_url": "https://blog.imalan.cn/",
+        "title": "熊猫小A: 人生呐，就是关关难过关关过！",
+        "link": "https://blog.imalan.cn/archives/memo-20260528-0000/",
+        "pub_date": "2026-05-27"
+    },
+    {
+        "blog_name": "ChrAlpha's Blog",
+        "blog_url": "https://blog.ichr.me/",
+        "title": "嵌套 Devcontainer：放心 dangerously skip permissions 无看管 Agent Coding",
+        "link": "https://blog.ichr.me/post/nested-devcontainer-agent-coding/",
+        "pub_date": "2026-05-22"
+    },
+    {
+        "blog_name": "嵌入式工程猫的博客",
+        "blog_url": "https://blog.vvzero.com/",
+        "title": "使用树莓派 4 和 Moonlight 串流游戏的实践",
+        "link": "https://blog.vvzero.com/2026/05/20/The-best-practice-for-game-streaming-via-moonlight-raspberry-pi/",
+        "pub_date": "2026-05-20"
+    },
+    {
+        "blog_name": "idealclover",
+        "blog_url": "https://idealclover.top/",
+        "title": "【27岁生贺】1，6，8，10，27，10000",
+        "link": "https://idealclover.top/archives/649/",
+        "pub_date": "2026-05-18"
+    },
+    {
+        "blog_name": "Muyun99 的杂谈",
+        "blog_url": "https://muyun.work/",
+        "title": "27 岁生日快乐｜银河里才是你灵魂的徜徉地",
+        "link": "https://muyun.work/age27.html",
+        "pub_date": "2026-05-18"
+    },
+    {
+        "blog_name": "王欣说AI",
+        "blog_url": "https://wangxin.io/",
+        "title": "第6章：工具篇——使用 RunningHub（ComfyUI）生成短剧",
+        "link": "https://wangxin.io/makeshortdrama/06_make_drama_by_runninghub_comfyui/",
+        "pub_date": "2026-04-29"
+    },
+    {
+        "blog_name": "清竹志-(原清竹茶馆)",
+        "blog_url": "https://blog.vadxq.com/",
+        "title": "读完 DeepSeek-V4 技术报告：这次最值得看的，不是“更大”，而是“更省”",
+        "link": "https://blog.vadxq.com/article/deepseek-v4-report-read/",
+        "pub_date": "2026-04-24"
+    },
+    {
+        "blog_name": "I‘m Hang",
+        "blog_url": "https://huhuhang.com/",
+        "title": "Agents 当道，我们都可以被蒸馏成 Skills",
+        "link": "https://huhuhang.com/post/thinking/20260421",
+        "pub_date": "2026-04-21"
+    },
+    {
+        "blog_name": "高金的博客",
+        "blog_url": "https://igaojin.me/",
+        "title": "人机协作逆向：用 AI + Frida 打通微信 4.1.8 macOS 数据库密钥提取",
+        "link": "https://igaojin.me/2026/04/18/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E9%80%86%E5%90%91%EF%BC%9A%E7%94%A8-AI-Frida-%E6%89%93%E9%80%9A%E5%BE%AE%E4%BF%A1-4-1-8-macOS-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%86%E9%92%A5%E6%8F%90%E5%8F%96/",
+        "pub_date": "2026-04-18"
+    },
+    {
+        "blog_name": "高金的博客",
+        "blog_url": "https://igaojin.me/",
+        "title": "人机协作逆向：用 AI + Frida 打通微信 4.1.8 macOS 数据库密钥提取",
+        "link": "https://igaojin.me/2026/04/18/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E9%80%86%E5%90%91%EF%BC%9A%E7%94%A8-AI-Frida-%E6%89%93%E9%80%9A%E5%BE%AE%E4%BF%A1-4-1-8-macOS-%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%86%E9%92%A5%E6%8F%90%E5%8F%96/",
+        "pub_date": "2026-04-18"
+    },
+    {
+        "blog_name": "林中阴影",
+        "blog_url": "https://blog.heysh.xyz/",
+        "title": "关于蓝光刻录的一些调查",
+        "link": "https://blog.heysh.xyz/2026/04/06/info-about-bluray-r/",
+        "pub_date": "2026-04-06"
     },
     {
         "blog_name": "国光",
@@ -70,31 +735,143 @@
         "pub_date": "2026-03-13"
     },
     {
-        "blog_name": "罗磊的独立博客",
-        "blog_url": "https://luolei.org/luolei-ai",
-        "title": "开启我的「人生 AI」计划",
-        "link": "https://luolei.org/life-ai",
-        "pub_date": "2026-03-10"
+        "blog_name": "iPotato",
+        "blog_url": "https://ipotato.me/",
+        "title": "Intention Is All You Need",
+        "link": "https://ipotato.me/article/intention-is-all-you-need",
+        "pub_date": "2026-03-09"
     },
     {
-        "blog_name": "lucifer",
-        "blog_url": "https://lucifer.ren/blog/",
-        "title": "Claude Code 高级指南：驾驭上下文的艺术",
-        "link": "https://lucifer.ren/blog/2026/01/25/ai-claude-code-advanced-skills/",
-        "pub_date": "2026-01-24"
+        "blog_name": "0x01 byte",
+        "blog_url": "https://1byte.io/",
+        "title": "我在 2025 年看完的书",
+        "link": "https://1byte.io/articles/2025-books/",
+        "pub_date": "2026-01-14"
+    },
+    {
+        "blog_name": "bang's blog",
+        "blog_url": "https://blog.cnbang.net/",
+        "title": "Agent 模型的思维链是什么",
+        "link": "https://blog.cnbang.net/uncategorized/4279/",
+        "pub_date": "2026-01-12"
+    },
+    {
+        "blog_name": "四公子的剑",
+        "blog_url": "https://www.965.one/",
+        "title": "WebKit 内核架构深度分析",
+        "link": "https://www.965.one/2026/01/12/WebKit%E6%9E%B6%E6%9E%84%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90/",
+        "pub_date": "2026-01-12"
     },
     {
         "blog_name": "Dorad",
         "blog_url": "https://blog.cuger.cn/",
-        "title": "2026第一场日出日落-黄山",
-        "link": "https://blog.cuger.cn/p/fdcc/",
+        "title": "First Sunrise and Sunset of 2026 in Huangshan",
+        "link": "https://blog.cuger.cn/en/p/fdcc/",
         "pub_date": "2026-01-07"
     },
     {
-        "blog_name": "Randy's Blog",
-        "blog_url": "https://lutaonan.com/",
-        "title": "让 AI 戴着镣铐跳舞",
-        "link": "https://lutaonan.com/blog/ai-coding-principle",
-        "pub_date": "2025-12-27"
+        "blog_name": "掘墓人的小铲子",
+        "blog_url": "https://juemuren4449.com/",
+        "title": "新玩意：一加 15",
+        "link": "https://juemuren4449.com/archives/oneplus-15",
+        "pub_date": "2025-12-31"
+    },
+    {
+        "blog_name": "码志",
+        "blog_url": "https://mazhuang.org/",
+        "title": "如何在 IT 运维中节省开支",
+        "link": "https://mazhuang.org/2025/12/09/how-to-save-money-in-devops/",
+        "pub_date": "2025-12-08"
+    },
+    {
+        "blog_name": "Ground Oddity",
+        "blog_url": "http://idle.systems/",
+        "title": "我在Google的前三个月",
+        "link": "http://jujuba.me/posts/my-first-three-months-at-google.html",
+        "pub_date": "2025-11-30"
+    },
+    {
+        "blog_name": "加菲猫的创客工坊",
+        "blog_url": "https://www.gaficat.com/",
+        "title": "\"天命\"几何",
+        "link": "https://www.gaficat.com/posts/halo-tian-ming-ji-he.html",
+        "pub_date": "2025-11-07"
+    },
+    {
+        "blog_name": "news | news view",
+        "blog_url": "https://zsqk.github.io/news/",
+        "title": "Cloudflare Workers 处理函数计算中的 CPU 性能问题",
+        "link": "https://zsqk.github.io/2025-10-16-cf-worker-cpu.html",
+        "pub_date": "2025-10-16"
+    },
+    {
+        "blog_name": "臨池不輟",
+        "blog_url": "https://keelii.com/",
+        "title": "Node.JS 作者 Ryan Dahl 的故事",
+        "link": "https://keelii.com/story-of-creator-of-nodejs-ry",
+        "pub_date": "2025-10-02"
+    },
+    {
+        "blog_name": "Jartto's blog",
+        "blog_url": "http://jartto.wang/",
+        "title": "好久不见，我想和你聊聊！",
+        "link": "http://jartto.wang/2025/08/31/recent-summary/",
+        "pub_date": "2025-08-31"
+    },
+    {
+        "blog_name": "治部少辅",
+        "blog_url": "https://www.codewoody.com/",
+        "title": "Emscripten Fetch 接口的一个潜在内存泄漏问题",
+        "link": "https://www.codewoody.com/posts/45916/",
+        "pub_date": "2025-05-07"
+    },
+    {
+        "blog_name": "以梦喂马",
+        "blog_url": "https://www.hwdef.org/",
+        "title": "fedora安装视频解码器",
+        "link": "https://www.hwdef.org/post/fedora-install-video-codecs/",
+        "pub_date": "2025-05-02"
+    },
+    {
+        "blog_name": "思有云",
+        "blog_url": "https://www.ioiox.com/",
+        "title": "分享个人的二手 iPhone 验机流程 2025",
+        "link": "https://www.ioiox.com/archives/173.html",
+        "pub_date": "2025-02-21"
+    },
+    {
+        "blog_name": "wuxinhua",
+        "blog_url": "https://wuxinhua.com/",
+        "title": "写作者与不写作者：AI 时代的思考分水岭",
+        "link": "https://wuxinhua.com/posts/Paul-Graham-writes-and-write-nots",
+        "pub_date": "2024-11-22"
+    },
+    {
+        "blog_name": "晚花行乐",
+        "blog_url": "https://www.lfhacks.com/",
+        "title": "解决 Debian 12 关机失败问题",
+        "link": "https://www.lfhacks.com/tech/debian-shutdown-failure/",
+        "pub_date": "2024-09-04"
+    },
+    {
+        "blog_name": "Power's Wiki",
+        "blog_url": "https://wiki-power.com/",
+        "title": "机器学习入门 - 模型评估指标",
+        "link": "https://wiki-power.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8-%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+        "pub_date": "2024-04-07"
+    },
+    {
+        "blog_name": "龚成博客",
+        "blog_url": "https://laogongshuo.com/",
+        "title": "2020-07-02-培养渴望",
+        "link": "https://laogongshuo.com/archives/420",
+        "pub_date": "2020-07-01"
+    },
+    {
+        "blog_name": "GeekPlux",
+        "blog_url": "https://geekplux.com/",
+        "title": "2019 柳暗花明",
+        "link": "https://geekplux.com/posts/2019-summary",
+        "pub_date": "2020-01-06"
     }
 ]
