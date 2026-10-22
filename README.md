@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**155** 个
-- 活跃博客：**125** 个
-- 最后更新：**2026-10-21 21:15:43**
+- 收录博客数量：**159** 个
+- 活跃博客：**128** 个
+- 最后更新：**2026-10-22 21:12:05**
 
 ## 收录的博客列表 / Blog 
 
@@ -55,6 +55,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
 | M-x Chris-An-Emacser | [🔗](https://chriszheng.science/) | 2026-09-04 | ✅ 活跃 |
 | MacTalk-池建强的 Blog | [🔗](https://macshuo.com/) | 2026-06-05 | ✅ 活跃 |
+| Mingnify | [🔗](https://mingnify.com/) | 2026-10-21 | ⚠️ 无RSS |
 | Muyun99 的杂谈 | [🔗](https://muyun.work/) | 2026-09-22 | ✅ 活跃 |
 | OneV's Den | [🔗](https://onevcat.com/) | 2026-06-10 | ✅ 活跃 |
 | Origin - Singee's Blog | [🔗](https://blog.singee.me/) | 2026-08-21 | ✅ 活跃 |
@@ -118,8 +119,10 @@ This repository is used to discover and collect blogs that continuous original a
 | 土木坛子 | [🔗](https://tumutanzi.com/) | 2026-08-24 | ✅ 活跃 |
 | 太隐 | [🔗](https://wangyurui.com/) | 2026-10-16 | ✅ 活跃 |
 | 失眠海峡 - 我要与你坦诚相见 | [🔗](https://blog.imalan.cn/) | 2026-08-24 | ✅ 活跃 |
+| 子舒的博客 | [🔗](https://zishu.me/) | 2026-10-22 | ✅ 活跃 |
 | 孟坤博客 | [🔗](https://mkblog.cn/) | 2026-10-16 | ✅ 活跃 |
 | 安志合的学习博客 | [🔗](https://chegva.com/) | 2026-10-09 | ✅ 活跃 |
+| 宗宗酱 | [🔗](https://ygz.ink/) | 2026-10-21 | ✅ 活跃 |
 | 尼普学种花 | [🔗](https://kneep.top/) | 2026-10-12 | ✅ 活跃 |
 | 崎径 其镜 | [🔗](https://www.z16388.top/) | 2026-07-15 | ⚠️ 无RSS |
 | 嵌入式工程猫的博客 | [🔗](https://blog.vvzero.com/) | 2026-09-15 | ✅ 活跃 |
@@ -137,6 +140,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 李宇Blog | [🔗](https://www.l1yu.com/) | 2026-09-24 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
+| 柴郡猫 | [🔗](https://www.cheshirex.com/) | 2026-10-22 | ✅ 活跃 |
 | 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ⚠️ 无RSS |
 | 治部少辅 | [🔗](https://www.codewoody.com/) | 2026-08-21 | ✅ 活跃 |
 | 清竹志-(原清竹茶馆) | [🔗](https://blog.vadxq.com/) | 2026-08-21 | ✅ 活跃 |
