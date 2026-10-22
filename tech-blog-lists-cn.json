@@ -1238,5 +1238,37 @@
         "rss": "https://time-friend.com/zh/index.xml",
         "status": "active",
         "added_date": "2026-10-21"
+    },
+    {
+        "name": "宗宗酱",
+        "url": "https://ygz.ink/",
+        "description": "用文字和图片记录工作和学习生活，主要用来写点零零碎碎的东西，记录我学习和工作生活当中的一些琐事。",
+        "rss": "https://ygz.ink/feed",
+        "status": "active",
+        "added_date": "2026-10-21"
+    },
+    {
+        "name": "Mingnify",
+        "url": "https://mingnify.com/",
+        "description": "",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-10-21"
+    },
+    {
+        "name": "柴郡猫",
+        "url": "https://www.cheshirex.com/",
+        "description": "",
+        "rss": "https://www.cheshirex.com/feed",
+        "status": "active",
+        "added_date": "2026-10-22"
+    },
+    {
+        "name": "子舒的博客",
+        "url": "https://zishu.me/",
+        "description": "想留下点什么，证明我来过。",
+        "rss": "https://zishu.me/index.xml",
+        "status": "active",
+        "added_date": "2026-10-22"
     }
 ]
