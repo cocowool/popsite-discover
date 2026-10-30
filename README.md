@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**159** 个
-- 活跃博客：**128** 个
-- 最后更新：**2026-10-29 22:26:35**
+- 收录博客数量：**167** 个
+- 活跃博客：**136** 个
+- 最后更新：**2026-10-30 21:56:27**
 
 ## 收录的博客列表 / Blog 
 
@@ -23,6 +23,7 @@ This repository is used to discover and collect blogs that continuous original a
 | ABB00717's Blog | [🔗](https://blog.abb00717.com/) | 2026-10-08 | ✅ 活跃 |
 | BMPI | [🔗](https://www.bmpi.dev/) | 2026-08-31 | ✅ 活跃 |
 | Beyond the void | [🔗](https://byvoid.com/) | 2026-08-28 | ⚠️ 无RSS |
+| CatCoding | [🔗](https://catcoding.me/) | 2026-10-26 | ✅ 活跃 |
 | ChrAlpha's Blog | [🔗](https://blog.ichr.me/) | 2026-06-10 | ✅ 活跃 |
 | CodeSky 代码天空 | [🔗](https://www.codesky.me/) | 2026-07-09 | ✅ 活跃 |
 | Debug客栈 | [🔗](https://blog.debuginn.com/) | 2026-06-08 | ✅ 活跃 |
@@ -40,6 +41,7 @@ This repository is used to discover and collect blogs that continuous original a
 | ISLAND | [🔗](https://youngxhui.top/) | 2026-06-16 | ✅ 活跃 |
 | I‘m Hang | [🔗](https://huhuhang.com/) | 2026-07-30 | ✅ 活跃 |
 | Jacky Wong | [🔗](https://jw1.dev/) | 2026-08-26 | ✅ 活跃 |
+| Jake Tao | [🔗](https://jaketao.com/) | 2026-10-30 | ✅ 活跃 |
 | Jartto's blog | [🔗](http://jartto.wang/) | 2026-08-26 | ✅ 活跃 |
 | Jiajun的技术笔记 | [🔗](https://jiajunhuang.com/) | 2026-06-16 | ✅ 活跃 |
 | Jiayin Zhu | [🔗](https://jyzhu.top/) | 2026-07-07 | ⚠️ 无RSS |
@@ -105,6 +107,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 云海札记 | [🔗](https://www.auvetu.com/) | 2026-10-19 | ✅ 活跃 |
 | 云游君的小站 | [🔗](https://www.yunyoujun.cn/) | 2026-09-29 | ✅ 活跃 |
 | 以梦喂马 | [🔗](https://www.hwdef.org/) | 2026-08-07 | ✅ 活跃 |
+| 任霏博 | [🔗](https://blog.renfei.net/) | 2026-10-30 | ✅ 活跃 |
 | 伪斜杠青年 | [🔗](https://i.lckiss.com/) | 2026-09-28 | ✅ 活跃 |
 | 依云's Blog | [🔗](https://blog.lilydjwg.me/) | 2026-06-05 | ⚠️ 无RSS |
 | 保罗的小宇宙 | [🔗](https://paugram.com/) | 2026-08-21 | ✅ 活跃 |
@@ -135,12 +138,14 @@ This repository is used to discover and collect blogs that continuous original a
 | 捻墨运营笔记 | [🔗](https://dyy.nianmo.top/) | 2026-10-09 | ✅ 活跃 |
 | 掘墓人的小铲子 | [🔗](https://juemuren4449.com/) | 2026-09-22 | ✅ 活跃 |
 | 方运的博客 | [🔗](https://hufangyun.com/) | 2026-06-09 | ⚠️ 无RSS |
+| 晚晴幽草轩 | [🔗](https://www.jeffjade.com) | 2026-10-28 | ✅ 活跃 |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
 | 暗无天日 | [🔗](https://www.lujun9972.win/) | 2026-08-25 | ✅ 活跃 |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 李宇Blog | [🔗](https://www.l1yu.com/) | 2026-09-24 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 柴郡猫 | [🔗](https://www.cheshirex.com/) | 2026-10-22 | ✅ 活跃 |
+| 橙树志 ｜ citydatum - 过已过，来未来，唯当下 | [🔗](https://citydatum.cn/) | 2026-10-28 | ✅ 活跃 |
 | 江边的旱鸭子 | [🔗](https://joouis.com/) | 2026-07-06 | ⚠️ 无RSS |
 | 治部少辅 | [🔗](https://www.codewoody.com/) | 2026-08-21 | ✅ 活跃 |
 | 清竹志-(原清竹茶馆) | [🔗](https://blog.vadxq.com/) | 2026-08-21 | ✅ 活跃 |
@@ -148,6 +153,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 王欣说AI | [🔗](https://wangxin.io/) | 2026-08-26 | ✅ 活跃 |
 | 王登科-DK博客 | [🔗](https://greatdk.com/) | 2026-06-05 | ✅ 活跃 |
 | 白宦成 | [🔗](https://www.ixiqin.com/) | 2026-06-17 | ✅ 活跃 |
+| 知行 | [🔗](https://blog.gis2all.top/) | 2026-10-30 | ✅ 活跃 |
 | 码农明明桑 | [🔗](https://isming.me/) | 2026-10-09 | ✅ 活跃 |
 | 码志 | [🔗](https://mazhuang.org/) | 2026-08-21 | ✅ 活跃 |
 | 祝融说 | [🔗](https://zhurongshuo.com/) | 2026-10-08 | ✅ 活跃 |
@@ -166,12 +172,14 @@ This repository is used to discover and collect blogs that continuous original a
 | 谢乾坤 | [🔗](https://kingname.info/) | 2026-06-22 | ⚠️ 无RSS |
 | 轶哥 - 火星人 | [🔗](https://www.wyr.me/) | 2026-08-21 | ✅ 活跃 |
 | 追梦人物 | [🔗](https://www.zmrenwu.com/) | 2026-06-05 | ✅ 活跃 |
+| 逸思杂陈 | [🔗](https://blog.ponder.work/) | 2026-10-30 | ✅ 活跃 |
 | 酥米的小站 | [🔗](https://www.sumi233.top/) | 2026-10-16 | ✅ 活跃 |
 | 阁子 | [🔗](https://dfine.tech/) | 2026-10-16 | ✅ 活跃 |
 | 阮一峰的网络日志 | [🔗](https://www.ruanyifeng.com/blog/) | 2026-06-05 | ✅ 活跃 |
 | 阳志平 | [🔗](https://yangzhiping.com/) | 2026-08-27 | ⚠️ 无RSS |
 | 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 陈看川 | [🔗](https://kanchuan.com/) | 2026-07-15 | ✅ 活跃 |
+| 雪的数字花园 ❄️ | [🔗](https://blog.rnm.gv.uy/) | 2026-10-30 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-06-22 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-07-03 | ✅ 活跃 |
 | 鸟窝 | [🔗](https://colobu.com/) | 2026-06-11 | ✅ 活跃 |
