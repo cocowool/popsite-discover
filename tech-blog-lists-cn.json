@@ -1270,5 +1270,69 @@
         "rss": "https://zishu.me/index.xml",
         "status": "active",
         "added_date": "2026-10-22"
+    },
+    {
+        "name": "CatCoding",
+        "url": "https://catcoding.me/",
+        "description": "All about coding and writing",
+        "rss": "https://catcoding.me/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-26"
+    },
+    {
+        "name": "晚晴幽草轩",
+        "url": "https://www.jeffjade.com",
+        "description": "晚晴幽草轩；名字取自：“天意怜幽草，人间重晚晴”。专注互联网开发（Web 大前端、快应用、小程序），以及分享优质网站、AI 应用、效率工具、心得感悟等内容。",
+        "rss": "https://www.jeffjade.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-28"
+    },
+    {
+        "name": "橙树志 ｜ citydatum - 过已过，来未来，唯当下",
+        "url": "https://citydatum.cn/",
+        "description": "是个人视角的观察记录，是藏在世界尽头的喃喃私语。城市、数据是专业领域，媒体、科技、视觉是兴趣爱好，相遇、相伴、相别是匆匆一生。",
+        "rss": "https://citydatum.cn/feed",
+        "status": "active",
+        "added_date": "2026-10-28"
+    },
+    {
+        "name": "Jake Tao",
+        "url": "https://jaketao.com/",
+        "description": "Jake Tao, Engineering leader with a Master’s degree in Computer Science and over 20 years of experience, including 15 years of hands-on software development and 7 years in leadership roles. Experienced in leading globally distributed teams across startups and enterprises, driving core technical and business strategy. Former Lead for Forecasting Technology at Amazon, Member of the senior leadership team at Shopify (Global Payments) and at Capital One (Anti-Money Laundering Systems), with additional experience at Grab and Oracle. Areas of expertise include AdTech, FinTech, Cloud Services, Data Platforms, and Generative AI.",
+        "rss": "https://jaketao.com/feed",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "任霏博",
+        "url": "https://blog.renfei.net/",
+        "description": "任霏的个人博客，记录技术思考与生活感悟。",
+        "rss": "https://blog.renfei.net/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "知行",
+        "url": "https://blog.gis2all.top/",
+        "description": "记录编程、AI 与工程实践",
+        "rss": "https://blog.gis2all.top/rss.xml",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "雪的数字花园 ❄️",
+        "url": "https://blog.rnm.gv.uy/",
+        "description": "AI工具、Agent玩法、Hermes奇技淫巧、NAS折腾实录、云服务羊毛——用最简单的话讲最硬核的科技",
+        "rss": "https://blog.rnm.gv.uy/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "逸思杂陈",
+        "url": "https://blog.ponder.work/",
+        "description": "学习 思考 行动 Python",
+        "rss": "https://blog.ponder.work/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-30"
     }
 ]
