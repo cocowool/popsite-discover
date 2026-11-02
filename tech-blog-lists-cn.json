@@ -1334,5 +1334,29 @@
         "rss": "https://blog.ponder.work/atom.xml",
         "status": "active",
         "added_date": "2026-10-30"
+    },
+    {
+        "name": "Wayne的博客",
+        "url": "https://blog.michealwayne.cn/",
+        "description": "Wayne 的个人博客，记录前端、工程实践与技术思考。",
+        "rss": "https://blog.michealwayne.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "黑羽的个人博客",
+        "url": "https://blog.thetbw.xyz/",
+        "description": "黑羽的个人博客，日常分享记录",
+        "rss": "https://blog.thetbw.xyz/feed",
+        "status": "active",
+        "added_date": "2026-10-30"
+    },
+    {
+        "name": "luozhiyun`s Blog",
+        "url": "https://www.luozhiyun.com",
+        "description": "我的技术分享",
+        "rss": "https://www.luozhiyun.com/feed",
+        "status": "active",
+        "added_date": "2026-11-02"
     }
 ]
