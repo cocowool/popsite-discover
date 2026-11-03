@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**167** 个
-- 活跃博客：**136** 个
-- 最后更新：**2026-11-01 21:42:23**
+- 收录博客数量：**170** 个
+- 活跃博客：**139** 个
+- 最后更新：**2026-11-03 00:30:47**
 
 ## 收录的博客列表 / Blog 
 
@@ -82,6 +82,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Usubeni Fantasy | [🔗](https://ssshooter.com/) | 2026-06-17 | ✅ 活跃 |
 | Victor42 | [🔗](https://victor42.eth.limo/) | 2026-10-12 | ✅ 活跃 |
 | WUJINGQUAN | [🔗](https://www.wujingquan.com/) | 2026-06-15 | ✅ 活跃 |
+| Wayne的博客 | [🔗](https://blog.michealwayne.cn/) | 2026-10-30 | ✅ 活跃 |
 | WuSiYu Blog - IT相关各种折腾 | [🔗](https://wusiyu.me/) | 2026-09-29 | ✅ 活跃 |
 | Xieisabug | [🔗](https://www.xiejingyang.com/) | 2026-08-21 | ✅ 活跃 |
 | YeungYeah's Context | [🔗](https://scottyeung.top/) | 2026-08-21 | ✅ 活跃 |
@@ -96,6 +97,7 @@ This repository is used to discover and collect blogs that continuous original a
 | idealclover | [🔗](https://idealclover.top/) | 2026-07-14 | ✅ 活跃 |
 | kok的笔记本 | [🔗](https://wocai.de/) | 2026-06-15 | ✅ 活跃 |
 | lucifer | [🔗](https://lucifer.ren/blog/) | 2026-06-05 | ✅ 活跃 |
+| luozhiyun`s Blog | [🔗](https://www.luozhiyun.com) | 2026-11-02 | ✅ 活跃 |
 | news | news view | [🔗](https://zsqk.github.io/news/) | 2026-09-28 | ✅ 活跃 |
 | oldj | [🔗](https://oldj.net/) | 2026-08-06 | ✅ 活跃 |
 | winliang | [🔗](https://windliang.wang/) | 2026-06-05 | ✅ 活跃 |
@@ -183,6 +185,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-06-22 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-07-03 | ✅ 活跃 |
 | 鸟窝 | [🔗](https://colobu.com/) | 2026-06-11 | ✅ 活跃 |
+| 黑羽的个人博客 | [🔗](https://blog.thetbw.xyz/) | 2026-10-30 | ✅ 活跃 |
 | 龚成博客 | [🔗](https://laogongshuo.com/) | 2026-08-07 | ✅ 活跃 |
 
 ## 如何提交你的博客
