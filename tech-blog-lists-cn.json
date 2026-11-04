@@ -1358,5 +1358,69 @@
         "rss": "https://www.luozhiyun.com/feed",
         "status": "active",
         "added_date": "2026-11-02"
+    },
+    {
+        "name": "LoRexxar's Blog",
+        "url": "https://lorexxar.cn/",
+        "description": "",
+        "rss": "https://lorexxar.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-02"
+    },
+    {
+        "name": "泠泫凝的异次元空间",
+        "url": "https://lxnchan.cn/",
+        "description": "科技、Linux、运维、云与虚拟化；研究有趣的新技术，分享运维操作，记录我的运维实战经验、问题和解决方案；敢于探索，勤于记录。",
+        "rss": "https://lxnchan.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "土豆不好吃",
+        "url": "https://dmesg.app/",
+        "description": "Hope is a waking dream.",
+        "rss": "https://dmesg.app/feed",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "Mox的笔记库",
+        "url": "https://mocusez.site/zh-CN/",
+        "description": "",
+        "rss": "https://mocusez.site/zh-CN/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "刘果",
+        "url": "https://www.liu-guo.com/",
+        "description": "看星星，食烟火。",
+        "rss": "https://www.liu-guo.com/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "kn007的个人博客",
+        "url": "https://kn007.net/",
+        "description": "kn007的个人博客，抒发心情，折腾wordpress，偶尔的遐想，音乐骚人，喜欢小动物，爱护自然，西片迷，帮忙折腾",
+        "rss": "https://kn007.net/feed/",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "离别歌",
+        "url": "https://www.leavesongs.com/",
+        "description": "phith0n的小站，长期存在与分享关于网络安全与各种编程的原创文章。",
+        "rss": "https://www.leavesongs.com/feed/",
+        "status": "active",
+        "added_date": "2026-11-03"
+    },
+    {
+        "name": "ChangYo's Blog",
+        "url": "https://changyo.me/",
+        "description": "ChangYo's Blog",
+        "rss": "https://changyo.me/index.xml",
+        "status": "active",
+        "added_date": "2026-11-04"
     }
 ]
