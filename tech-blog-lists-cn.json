@@ -1422,5 +1422,13 @@
         "rss": "https://changyo.me/index.xml",
         "status": "active",
         "added_date": "2026-11-04"
+    },
+    {
+        "name": "月夜Moonlight",
+        "url": "https://moonlites.org/",
+        "description": "見字如面",
+        "rss": "https://moonlites.org/index.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
     }
 ]
