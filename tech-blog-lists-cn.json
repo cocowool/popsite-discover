@@ -1430,5 +1430,77 @@
         "rss": "https://moonlites.org/index.xml",
         "status": "active",
         "added_date": "2026-11-05"
+    },
+    {
+        "name": "ImCBC",
+        "url": "https://imcbc.cn/",
+        "description": "个人技术博客",
+        "rss": "https://imcbc.cn/index.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "猫涅的秘密结社",
+        "url": "https://www.maonie.top/",
+        "description": "正在思考明天中",
+        "rss": "https://www.maonie.top/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "撕心砸念",
+        "url": "https://www.zanian.vip/",
+        "description": "撕心砸念的个人写作站点，收录文章、随笔与序文，记录阅读、生活与语言中的所见所思。",
+        "rss": "https://www.zanian.vip/feed.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "瓜瓜的博客",
+        "url": "https://blog.twomelon.com/",
+        "description": "“Talk is cheap, show me the Bug.\"",
+        "rss": "https://blog.twomelon.com/feed.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "宝硕博客",
+        "url": "https://blog.baoshuo.ren/",
+        "description": "宝硕博客 —— Baoshuo (@renbaoshuo) 随便写东西的地方，以技术向博文为主，生活向博文为辅。",
+        "rss": "https://blog.baoshuo.ren/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "夜法之书",
+        "url": "https://blog.17lai.site",
+        "description": "~软件驱动世界~个人独立技术博客，关于Linux,开源，Nas，Docker，嵌入式，理财，健身等主题！",
+        "rss": "https://blog.17lai.site/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-05"
+    },
+    {
+        "name": "Samadhi",
+        "url": "https://samadhi.blog/",
+        "description": "關於「我」的領悟，與一路走來的筆記。",
+        "rss": "https://samadhi.blog/feed.xml",
+        "status": "active",
+        "added_date": "2026-11-06"
+    },
+    {
+        "name": "Moe Blog",
+        "url": "https://1loli.link/",
+        "description": "Find anything you like here.",
+        "rss": "https://1loli.link/feed/",
+        "status": "active",
+        "added_date": "2026-11-06"
+    },
+    {
+        "name": "WKLKEN THINKING",
+        "url": "https://wklken.me/",
+        "description": "",
+        "rss": "https://wklken.me/index.xml",
+        "status": "active",
+        "added_date": "2026-11-06"
     }
 ]
