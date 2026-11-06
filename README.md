@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**178** 个
-- 活跃博客：**147** 个
-- 最后更新：**2026-11-04 23:12:31**
+- 收录博客数量：**179** 个
+- 活跃博客：**148** 个
+- 最后更新：**2026-11-05 23:16:20**
 
 ## 收录的博客列表 / Blog 
 
@@ -149,6 +149,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 晚晴幽草轩 | [🔗](https://www.jeffjade.com) | 2026-10-28 | ✅ 活跃 |
 | 晚花行乐 | [🔗](https://www.lfhacks.com/) | 2026-08-06 | ✅ 活跃 |
 | 暗无天日 | [🔗](https://www.lujun9972.win/) | 2026-08-25 | ✅ 活跃 |
+| 月夜Moonlight | [🔗](https://moonlites.org/) | 2026-11-05 | ✅ 活跃 |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 李宇Blog | [🔗](https://www.l1yu.com/) | 2026-09-24 | ⚠️ 无RSS |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
