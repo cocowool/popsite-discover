@@ -1502,5 +1502,29 @@
         "rss": "https://wklken.me/index.xml",
         "status": "active",
         "added_date": "2026-11-06"
+    },
+    {
+        "name": "扯氮集",
+        "url": "http://weiwuhui.com/",
+        "description": "",
+        "rss": "http://weiwuhui.com/feed",
+        "status": "active",
+        "added_date": "2026-11-09"
+    },
+    {
+        "name": "音视频开发进阶",
+        "url": "https://glumes.com/",
+        "description": "关注图形、图像、音视频、FFmpeg、Android、Python、C++等技术。",
+        "rss": "https://glumes.com/index.xml",
+        "status": "active",
+        "added_date": "2026-11-09"
+    },
+    {
+        "name": "LiuShen's Blog",
+        "url": "https://blog.liushen.fun/",
+        "description": "提供建站教程、编程实战笔记、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。",
+        "rss": "https://blog.liushen.fun/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-10"
     }
 ]
