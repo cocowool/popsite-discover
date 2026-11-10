@@ -1526,5 +1526,13 @@
         "rss": "https://blog.liushen.fun/atom.xml",
         "status": "active",
         "added_date": "2026-11-10"
+    },
+    {
+        "name": "龙爪槐守望者",
+        "url": "https://www.ftium4.com/",
+        "description": "一个帮助交互设计师成长的互联网传说。做任何事情都只是因为兴趣罢了",
+        "rss": "https://www.ftium4.com/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-10"
     }
 ]
