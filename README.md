@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**188** 个
-- 活跃博客：**157** 个
-- 最后更新：**2026-11-10 01:11:45**
+- 收录博客数量：**192** 个
+- 活跃博客：**161** 个
+- 最后更新：**2026-11-10 22:51:13**
 
 ## 收录的博客列表 / Blog 
 
@@ -55,6 +55,7 @@ This repository is used to discover and collect blogs that continuous original a
 | LiesAuer's Blog | [🔗](https://www.liesauer.net/) | 2026-08-28 | ✅ 活跃 |
 | LiesAuer's Blog | [🔗](https://liesauer.net/blog/) | 2026-10-09 | ✅ 活跃 |
 | Limboy's HQ | [🔗](https://limboy.me/) | 2026-06-11 | ✅ 活跃 |
+| LiuShen's Blog | [🔗](https://blog.liushen.fun/) | 2026-11-10 | ✅ 活跃 |
 | LoRexxar's Blog | [🔗](https://lorexxar.cn/) | 2026-11-02 | ✅ 活跃 |
 | Louis C Deng's Blog | [🔗](https://blog.aeilot.top/) | 2026-09-29 | ✅ 活跃 |
 | Lucifr | [🔗](https://lucifr.com/) | 2026-06-10 | ⚠️ 无RSS |
@@ -147,6 +148,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 开源实验室 | [🔗](https://kymjs.com/) | 2026-06-05 | ✅ 活跃 |
 | 思有云 | [🔗](https://www.ioiox.com/) | 2026-07-07 | ✅ 活跃 |
 | 愆伏 - 互联网杂谈 | [🔗](https://tortorse.com/) | 2026-10-09 | ✅ 活跃 |
+| 扯氮集 | [🔗](http://weiwuhui.com/) | 2026-11-09 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ⚠️ 无RSS |
 | 披萨盒的赛博日志 | [🔗](https://blog.pushihao.com/) | 2026-08-26 | ✅ 活跃 |
 | 捻墨运营笔记 | [🔗](https://dyy.nianmo.top/) | 2026-10-09 | ✅ 活跃 |
@@ -200,10 +202,12 @@ This repository is used to discover and collect blogs that continuous original a
 | 陈沙克日志 | [🔗](https://chenshake.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 陈看川 | [🔗](https://kanchuan.com/) | 2026-07-15 | ✅ 活跃 |
 | 雪的数字花园 ❄️ | [🔗](https://blog.rnm.gv.uy/) | 2026-10-30 | ✅ 活跃 |
+| 音视频开发进阶 | [🔗](https://glumes.com/) | 2026-11-09 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-06-22 | ✅ 活跃 |
 | 高金的博客 | [🔗](https://igaojin.me/) | 2026-07-03 | ✅ 活跃 |
 | 鸟窝 | [🔗](https://colobu.com/) | 2026-06-11 | ✅ 活跃 |
 | 黑羽的个人博客 | [🔗](https://blog.thetbw.xyz/) | 2026-10-30 | ✅ 活跃 |
+| 龙爪槐守望者 | [🔗](https://www.ftium4.com/) | 2026-11-10 | ✅ 活跃 |
 | 龚成博客 | [🔗](https://laogongshuo.com/) | 2026-08-07 | ✅ 活跃 |
 
 ## 如何提交你的博客
