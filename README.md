@@ -9,9 +9,9 @@ This repository is used to discover and collect blogs that continuous original a
 **网站地址**：https://popsite.cn
 
 ## 统计信息 / Statistics
-- 收录博客数量：**192** 个
-- 活跃博客：**161** 个
-- 最后更新：**2026-11-12 00:03:46**
+- 收录博客数量：**197** 个
+- 活跃博客：**166** 个
+- 最后更新：**2026-11-12 23:13:49**
 
 ## 收录的博客列表 / Blog 
 
@@ -115,6 +115,7 @@ This repository is used to discover and collect blogs that continuous original a
 | xulihang's blog | [🔗](https://blog.xulihang.me/) | 2026-10-08 | ⚠️ 无RSS |
 | zhangguanzhang | [🔗](https://zhangguanzhang.github.io/) | 2026-06-05 | ⚠️ 无RSS |
 | 不吐不快 | [🔗](https://mianao.info/) | 2026-09-24 | ✅ 活跃 |
+| 东东's Blog | [🔗](https://blog.yasking.org/) | 2026-11-12 | ✅ 活跃 |
 | 云海札记 | [🔗](https://www.auvetu.com/) | 2026-10-19 | ✅ 活跃 |
 | 云游君的小站 | [🔗](https://www.yunyoujun.cn/) | 2026-09-29 | ✅ 活跃 |
 | 以梦喂马 | [🔗](https://www.hwdef.org/) | 2026-08-07 | ✅ 活跃 |
@@ -151,6 +152,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 扯氮集 | [🔗](http://weiwuhui.com/) | 2026-11-09 | ✅ 活跃 |
 | 把酒诗代码 | [🔗](https://102no.com/) | 2026-07-06 | ⚠️ 无RSS |
 | 披萨盒的赛博日志 | [🔗](https://blog.pushihao.com/) | 2026-08-26 | ✅ 活跃 |
+| 拾月的博客 | [🔗](https://www.skyue.com/) | 2026-11-11 | ✅ 活跃 |
 | 捻墨运营笔记 | [🔗](https://dyy.nianmo.top/) | 2026-10-09 | ✅ 活跃 |
 | 掘墓人的小铲子 | [🔗](https://juemuren4449.com/) | 2026-09-22 | ✅ 活跃 |
 | 撕心砸念 | [🔗](https://www.zanian.vip/) | 2026-11-05 | ✅ 活跃 |
@@ -161,6 +163,7 @@ This repository is used to discover and collect blogs that continuous original a
 | 月夜Moonlight | [🔗](https://moonlites.org/) | 2026-11-05 | ✅ 活跃 |
 | 木木木木木 | [🔗](https://immmmm.com/) | 2026-06-08 | ⚠️ 无RSS |
 | 李宇Blog | [🔗](https://www.l1yu.com/) | 2026-09-24 | ⚠️ 无RSS |
+| 杜老师说 | [🔗](https://dusays.com/) | 2026-11-10 | ✅ 活跃 |
 | 林中阴影 | [🔗](https://blog.heysh.xyz/) | 2026-06-16 | ✅ 活跃 |
 | 柴郡猫 | [🔗](https://www.cheshirex.com/) | 2026-10-22 | ✅ 活跃 |
 | 橙树志 ｜ citydatum - 过已过，来未来，唯当下 | [🔗](https://citydatum.cn/) | 2026-10-28 | ✅ 活跃 |
@@ -168,6 +171,8 @@ This repository is used to discover and collect blogs that continuous original a
 | 治部少辅 | [🔗](https://www.codewoody.com/) | 2026-08-21 | ✅ 活跃 |
 | 泠泫凝的异次元空间 | [🔗](https://lxnchan.cn/) | 2026-11-03 | ✅ 活跃 |
 | 清竹志-(原清竹茶馆) | [🔗](https://blog.vadxq.com/) | 2026-08-21 | ✅ 活跃 |
+| 潮流周刊 | [🔗](https://weekly.tw93.fun/) | 2026-11-11 | ✅ 活跃 |
+| 犀利豆的博客 | [🔗](https://xilidou.com/) | 2026-11-11 | ✅ 活跃 |
 | 猫涅的秘密结社 | [🔗](https://www.maonie.top/) | 2026-11-05 | ✅ 活跃 |
 | 王圆圆 | [🔗](https://www.iconpik.com/) | 2026-10-13 | ✅ 活跃 |
 | 王欣说AI | [🔗](https://wangxin.io/) | 2026-08-26 | ✅ 活跃 |
