@@ -1534,5 +1534,45 @@
         "rss": "https://www.ftium4.com/rss.xml",
         "status": "active",
         "added_date": "2026-11-10"
+    },
+    {
+        "name": "杜老师说",
+        "url": "https://dusays.com/",
+        "description": "云计算运维讲师杜老师私人技术博客，主要分享一些运维技术、经验；本博客每六天更新，欢迎订阅。",
+        "rss": "https://dusays.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-10"
+    },
+    {
+        "name": "潮流周刊",
+        "url": "https://weekly.tw93.fun/",
+        "description": "记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注",
+        "rss": "https://weekly.tw93.fun/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-11"
+    },
+    {
+        "name": "犀利豆的博客",
+        "url": "https://xilidou.com/",
+        "description": "犀利豆的博客——专注 Java 后端、Redis、Spring、Dubbo、分布式系统源码分析、高可用架构实践，以及 AI Agent Harness、Claude Code、Loop Engineering、Obsidian 作为 LLM IDE 等 AI 编程工程化探索。",
+        "rss": "https://xilidou.com/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-11"
+    },
+    {
+        "name": "拾月的博客",
+        "url": "https://www.skyue.com/",
+        "description": "PC互联网遗民",
+        "rss": "https://www.skyue.com/feed/",
+        "status": "active",
+        "added_date": "2026-11-11"
+    },
+    {
+        "name": "东东's Blog",
+        "url": "https://blog.yasking.org/",
+        "description": "",
+        "rss": "https://blog.yasking.org/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-12"
     }
 ]
