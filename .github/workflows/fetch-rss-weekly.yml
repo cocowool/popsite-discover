@@ -1,6 +1,9 @@
 name: Weekly Fetch RSS and Update latest_posts.json
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0 * * 1'
   workflow_dispatch:

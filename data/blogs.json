@@ -1833,5 +1833,13 @@
         "rss": "https://www.xianrenlife.com/feeds/posts/default",
         "status": "active",
         "added_date": "2026-11-17"
+    },
+    {
+        "name": "人工智障研究所",
+        "url": "https://aizhiz.com/",
+        "description": "A bilingual archive of hands-on work with AI, project practice, and curated artifacts, failures, and observations from the AI era.",
+        "rss": "https://aizhiz.com/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-17"
     }
 ]
