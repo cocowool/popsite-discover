@@ -1574,5 +1574,45 @@
         "rss": "https://blog.yasking.org/atom.xml",
         "status": "active",
         "added_date": "2026-11-12"
+    },
+    {
+        "name": "阿尔的代码屋",
+        "url": "https://blog.algieba12.cn/",
+        "description": "欢迎来到阿尔的代码屋。本站长期系统记录大模型（LLM）微调、RAG 检索增强系统架构、Flutter 跨平台测试工程化、VS Code 效率调优与 Linux 底层避坑实战。坚持零营销、平等交流与深度工程复盘，为开发者提供经过完整实测验证的技术解决方案、排坑指南与开源代码示例。",
+        "rss": "https://blog.algieba12.cn/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-16"
+    },
+    {
+        "name": "俟河清",
+        "url": "https://naive514.top/",
+        "description": "水文与泥沙的学习笔记，计算机与生活的零散记录。",
+        "rss": "https://naive514.top/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-16"
+    },
+    {
+        "name": "Yiran's Blog",
+        "url": "https://blog.zhouyiran.link/",
+        "description": "Yiran Zhou's personal website",
+        "rss": "https://blog.zhouyiran.link/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-16"
+    },
+    {
+        "name": "Indie Dev Weekly",
+        "url": "https://www.shudao.wang/",
+        "description": "Weekly insights for indie developers",
+        "rss": "https://www.shudao.wang/feed.xml",
+        "status": "active",
+        "added_date": "2026-11-16"
+    },
+    {
+        "name": "皓子的小站",
+        "url": "https://howiehz.top/",
+        "description": "互联网是一片海洋，网站犹如一座座孤岛漂浮在其上，唯有超链接将它们联系起来。而此处恰好就是一座小岛，欢迎访问皓子的小站。\n皓子的小站 - HowieHz's Website ~ An Island on the Internet.",
+        "rss": "https://howiehz.top/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-17"
     }
 ]
