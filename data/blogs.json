@@ -310,7 +310,7 @@
         "url": "https://blog.cnbang.net/",
         "description": "",
         "rss": "https://blog.cnbang.net/feed/",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-06-12",
         "lang": "zh"
     },
@@ -319,7 +319,7 @@
         "url": "https://imtx.me",
         "description": "图拉鼎（TualatriX）的个人主页，分享围绕着独立产品开发、iOS 开发、Web 开发等心路历程。",
         "rss": "http://feeds.feedburner.com/tualatrix",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-06-12",
         "lang": "zh"
     },
@@ -454,7 +454,7 @@
         "url": "https://102no.com/",
         "description": "是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）",
         "rss": "https://102no.com/atom.xml",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-07-06",
         "lang": "zh"
     },
@@ -463,7 +463,7 @@
         "url": "https://joouis.com/",
         "description": "Stand high, think different.",
         "rss": "https://joouis.com/atom.xml",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-07-06",
         "lang": "zh"
     },
@@ -481,7 +481,7 @@
         "url": "https://jyzhu.top/",
         "description": "",
         "rss": "https://jyzhu.top/feed.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-07-07",
         "lang": "zh"
     },
@@ -535,7 +535,7 @@
         "url": "https://www.z16388.top/",
         "description": "求学道路上的行车记录仪",
         "rss": "https://www.z16388.top/atom.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-07-15",
         "lang": "zh"
     },
@@ -634,7 +634,7 @@
         "url": "https://dosk.win/",
         "description": "SpringHack 的无名技术小站",
         "rss": "https://dosk.win/atom.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-08-21",
         "lang": "zh"
     },
@@ -706,7 +706,7 @@
         "url": "https://z.arlmy.me/",
         "description": "误读人生，化人生活",
         "rss": "https://z.arlmy.me/atom.xml",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-08-21",
         "lang": "zh"
     },
@@ -733,7 +733,7 @@
         "url": "https://wuxinhua.com/",
         "description": "Blog about Engineering, Start-up Business, Tech trends | wuxinhua.com",
         "rss": "https://wuxinhua.com/atom.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-08-24",
         "lang": "zh"
     },
@@ -751,7 +751,7 @@
         "url": "https://www.seis-jun.xyz/",
         "description": "Jun Xie — Seismologist at Academy of Precision Measurement Science and Technology",
         "rss": "https://www.seis-jun.xyz/atom.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-08-25",
         "lang": "zh"
     },
@@ -949,7 +949,7 @@
         "url": "https://blog.vvzero.com/",
         "description": "嵌入式物联网全栈系统工程师",
         "rss": "https://blog.vvzero.com/atom.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-09-15",
         "lang": "zh"
     },
@@ -1048,7 +1048,7 @@
         "url": "https://zsqk.github.io/news/",
         "description": "每日新闻.",
         "rss": "https://zsqk.github.io/news/feed",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-09-28",
         "lang": "zh"
     },
@@ -1147,7 +1147,7 @@
         "url": "https://blog.est.im/",
         "description": "This blog is rated 🔞, viewer discretion is advised",
         "rss": "https://feeds.feedburner.com/initiative",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-10-08",
         "lang": "zh"
     },
@@ -1246,7 +1246,7 @@
         "url": "https://supergrey.bearblog.dev/",
         "description": "有感而發，忍不住想自己寫點東西——動漫感想、讀書心得，以及各種隨筆。",
         "rss": "https://supergrey.bearblog.dev/feed/",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-10-10",
         "lang": "zh"
     },
@@ -1273,7 +1273,7 @@
         "url": "https://victor42.eth.limo/",
         "description": "科学、纪录片、博物馆爱好者；Excel狂魔；蹩脚开发者；UI/UX设计师；生活观察者",
         "rss": "https://victor42.eth.limo/index.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-10-12",
         "lang": "zh"
     },
@@ -1309,7 +1309,7 @@
         "url": "https://www.iconpik.com/",
         "description": "记录稍纵即逝的观点、灵感与想法。",
         "rss": "https://www.iconpik.com/rss/",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-10-13",
         "lang": "zh"
     },
@@ -1327,7 +1327,7 @@
         "url": "https://mkblog.cn/",
         "description": "互联网+分享+科技+吐槽=孟坤博客",
         "rss": "https://mkblog.cn/feed/",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-10-16",
         "lang": "zh"
     },
@@ -1372,7 +1372,7 @@
         "url": "https://www.auvetu.com/",
         "description": "云海札记是一个基于 Astro 与 Firefly 搭建的个人博客，用来记录故事随笔、阅读札记与日常思考。",
         "rss": "https://auvetu.com/rss.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-10-19",
         "lang": "zh"
     },
@@ -1507,7 +1507,7 @@
         "url": "https://blog.michealwayne.cn/",
         "description": "Wayne 的个人博客，记录前端、工程实践与技术思考。",
         "rss": "https://blog.michealwayne.cn/atom.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-10-30",
         "lang": "zh"
     },
@@ -1687,7 +1687,7 @@
         "url": "https://wklken.me/",
         "description": "",
         "rss": "https://wklken.me/index.xml",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-11-06",
         "lang": "zh"
     },
@@ -1832,7 +1832,8 @@
         "description": "我是孙李，一名「野生网络作家」。「闲人LIFE」是我的个人文学博客，主要内容为小说、随笔和文艺评论。",
         "rss": "https://www.xianrenlife.com/feeds/posts/default",
         "status": "active",
-        "added_date": "2026-11-17"
+        "added_date": "2026-11-17",
+        "lang": "zh"
     },
     {
         "name": "人工智障研究所",
@@ -1840,6 +1841,7 @@
         "description": "A bilingual archive of hands-on work with AI, project practice, and curated artifacts, failures, and observations from the AI era.",
         "rss": "https://aizhiz.com/rss.xml",
         "status": "active",
-        "added_date": "2026-11-17"
+        "added_date": "2026-11-17",
+        "lang": "zh"
     }
 ]
