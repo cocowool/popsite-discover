@@ -4,8 +4,9 @@
         "url": "https://www.sqlsec.com/",
         "description": "",
         "rss": "https://www.sqlsec.com/atom.xml",
-        "status": "active",
-        "added_date": "2026-06-05"
+        "status": "no_rss",
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "winliang",
@@ -13,7 +14,8 @@
         "description": "",
         "rss": "https://windliang.wang/atom.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "lucifer",
@@ -21,15 +23,17 @@
         "description": "lucifer的个人博客，用来记录LeeCode刷题过程和心得，以及构建大前端知识体系",
         "rss": "https://lucifer.ren/blog/atom.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "zhangguanzhang",
         "url": "https://zhangguanzhang.github.io/",
         "description": "",
         "rss": "https://zhangguanzhang.github.io/atom.xml",
-        "status": "archived",
-        "added_date": "2026-06-05"
+        "status": "active",
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "Dorad",
@@ -37,7 +41,8 @@
         "description": "",
         "rss": "https://blog.cuger.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "Hope",
@@ -45,7 +50,8 @@
         "description": "",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "阮一峰的网络日志",
@@ -53,7 +59,8 @@
         "description": "阮一峰的个人博客，分享技术、生活和思考。",
         "rss": "https://www.ruanyifeng.com/blog/atom.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "蚊子的前端博客",
@@ -61,7 +68,8 @@
         "description": "分享前端技术、生活和思考。",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "MacTalk-池建强的 Blog",
@@ -69,7 +77,8 @@
         "description": "池建强的个人博客，分享技术、生活和思考。",
         "rss": "https://macshuo.com/?feed=rss2",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "Phodal-狼和凤凰",
@@ -77,7 +86,8 @@
         "description": "Phodal Huang is a geek, creator and author, like to create and share in the real world & virtual world.He like to share software development experiences to help people build better software systems. He has written three books on software development, there are Frontend Architecture: from Basic to Micro-Frontend, Design IoT System and Growth: Thinking in Full Stack. He also was a reviewer of seven books on IoT and frontend development.",
         "rss": "https://www.phodal.com/blog/feeds/atom/",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "追梦人物",
@@ -85,7 +95,8 @@
         "description": "",
         "rss": "https://www.zmrenwu.com/rss.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "Piglei",
@@ -93,7 +104,8 @@
         "description": "piglei 的 blog",
         "rss": "https://www.piglei.com/feeds/latest/",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "罗磊的独立博客",
@@ -101,15 +113,17 @@
         "description": "罗磊的独立博客。全栈开发者、ZUOLUOTV 创作者、摄影师和马拉松跑者，分享编程开发、AI 与出海、数码科技、摄影旅行和跑步生活。",
         "rss": "https://luolei.org/rss.xml",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "开源实验室",
         "url": "https://kymjs.com/",
         "description": "张涛的开源实验室博客,为你讲述 android,kotlin,协程,闭包,lambda,sdk,studio,等优质开发技术",
         "rss": "https://kymjs.com/feed.xml",
-        "status": "active",
-        "added_date": "2026-06-05"
+        "status": "no_rss",
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "依云's Blog",
@@ -117,7 +131,8 @@
         "description": "依云的个人博客",
         "rss": "https://blog.lilydjwg.me/feed",
         "status": "archived",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "王登科-DK博客",
@@ -125,23 +140,26 @@
         "description": "",
         "rss": "https://greatdk.com/rss",
         "status": "active",
-        "added_date": "2026-06-05"
+        "added_date": "2026-06-05",
+        "lang": "zh"
     },
     {
         "name": "卡片创作实验室",
         "url": "https://www.cnfeat.com/",
         "description": "卡片创作实验室 - cnfeat的个人网站。专注卡片创作、写作系统、生产力提升，提供《笨方法文化手册》《卡片创作100讲》等课程与手册。",
         "rss": "",
-        "status": "archived",
-        "added_date": "2026-06-08"
+        "status": "no_rss",
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "Skywind Inside",
         "url": "https://skywind.me/blog/",
         "description": "写自己的代码，让别人猜去吧",
         "rss": "",
-        "status": "archived",
-        "added_date": "2026-06-08"
+        "status": "no_rss",
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "陈沙克日志",
@@ -149,7 +167,8 @@
         "description": "用git来记录生活",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "Randy's Blog",
@@ -157,7 +176,8 @@
         "description": "About life, technology and reading",
         "rss": "https://lutaonan.com/rss.xml",
         "status": "active",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "iTimothy",
@@ -165,7 +185,8 @@
         "description": "Timothy的技术博客,记录技术以及生活点滴",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "The Will Will Web",
@@ -173,7 +194,8 @@
         "description": "記載著 Will 在網路世界的學習心得與技術分享 - 記載著 Will 在網路世界的學習心得與技術分享 - The Will Will Web",
         "rss": "https://feeds.feedburner.com/TheWillWillWeb",
         "status": "no_rss",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "木木木木木",
@@ -181,7 +203,8 @@
         "description": "",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "Debug客栈",
@@ -189,7 +212,8 @@
         "description": "永远相信美好的事情即将发生",
         "rss": "https://blog.debuginn.com/index.xml",
         "status": "active",
-        "added_date": "2026-06-08"
+        "added_date": "2026-06-08",
+        "lang": "zh"
     },
     {
         "name": "forecho's Blog",
@@ -197,7 +221,8 @@
         "description": "forecho, forecho blog, forecho 独立博客",
         "rss": "https://blog.forecho.com/atom.xml",
         "status": "active",
-        "added_date": "2026-06-09"
+        "added_date": "2026-06-09",
+        "lang": "zh"
     },
     {
         "name": "GeekPlux",
@@ -205,7 +230,8 @@
         "description": "Timothy的技术博客,记录技术以及生活点滴",
         "rss": "https://geekplux.com/feed.xml",
         "status": "active",
-        "added_date": "2026-06-09"
+        "added_date": "2026-06-09",
+        "lang": "zh"
     },
     {
         "name": "方运的博客",
@@ -213,7 +239,8 @@
         "description": "天马行空，爱生活，爱Coding",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-09"
+        "added_date": "2026-06-09",
+        "lang": "zh"
     },
     {
         "name": "囧克斯",
@@ -221,7 +248,8 @@
         "description": "",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-10"
+        "added_date": "2026-06-10",
+        "lang": "zh"
     },
     {
         "name": "Lucifr",
@@ -229,7 +257,8 @@
         "description": "Thoughts, stories and ideas.",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-10"
+        "added_date": "2026-06-10",
+        "lang": "zh"
     },
     {
         "name": "ChrAlpha's Blog",
@@ -237,7 +266,8 @@
         "description": "ChrAlpha's Blog —— 技术向，记录着我的折腾小结；没事发些笔记、随笔、见闻；也愿能承载更多有态度有看法的文章 - Chrys (@ChrAlpha)",
         "rss": "https://blog.ichr.me/atom.xml",
         "status": "active",
-        "added_date": "2026-06-10"
+        "added_date": "2026-06-10",
+        "lang": "zh"
     },
     {
         "name": "唐巧的博客",
@@ -245,7 +275,8 @@
         "description": "希望通过这个博客，能够将自己的学习成果总结出来，与大家分享交流。",
         "rss": "https://blog.devtang.com/atom.xml",
         "status": "active",
-        "added_date": "2026-06-10"
+        "added_date": "2026-06-10",
+        "lang": "zh"
     },
     {
         "name": "OneV's Den",
@@ -253,7 +284,8 @@
         "description": "上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。",
         "rss": "https://onevcat.com/feed",
         "status": "active",
-        "added_date": "2026-06-10"
+        "added_date": "2026-06-10",
+        "lang": "zh"
     },
     {
         "name": "鸟窝",
@@ -261,15 +293,17 @@
         "description": "万物之始，大道至简，衍化至繁",
         "rss": "https://colobu.com/atom.xml",
         "status": "active",
-        "added_date": "2026-06-11"
+        "added_date": "2026-06-11",
+        "lang": "zh"
     },
     {
         "name": "Limboy's HQ",
         "url": "https://limboy.me/",
         "description": "Limboy's HQ",
         "rss": "https://limboy.me/index.xml",
-        "status": "active",
-        "added_date": "2026-06-11"
+        "status": "no_rss",
+        "added_date": "2026-06-11",
+        "lang": "zh"
     },
     {
         "name": "bang's blog",
@@ -277,7 +311,8 @@
         "description": "",
         "rss": "https://blog.cnbang.net/feed/",
         "status": "active",
-        "added_date": "2026-06-12"
+        "added_date": "2026-06-12",
+        "lang": "zh"
     },
     {
         "name": "I'm TualatriX",
@@ -285,7 +320,8 @@
         "description": "图拉鼎（TualatriX）的个人主页，分享围绕着独立产品开发、iOS 开发、Web 开发等心路历程。",
         "rss": "http://feeds.feedburner.com/tualatrix",
         "status": "no_rss",
-        "added_date": "2026-06-12"
+        "added_date": "2026-06-12",
+        "lang": "zh"
     },
     {
         "name": "kok的笔记本",
@@ -293,7 +329,8 @@
         "description": "分享知识和经验，让世界更美好一些",
         "rss": "https://wocai.de/index.xml",
         "status": "active",
-        "added_date": "2026-06-15"
+        "added_date": "2026-06-15",
+        "lang": "zh"
     },
     {
         "name": "WUJINGQUAN",
@@ -301,7 +338,8 @@
         "description": "",
         "rss": "https://www.wujingquan.com/feed",
         "status": "active",
-        "added_date": "2026-06-15"
+        "added_date": "2026-06-15",
+        "lang": "zh"
     },
     {
         "name": "ISLAND",
@@ -309,7 +347,8 @@
         "description": "youngxhui blog,🌟追求成为一名 indie hack，🚀创造属于自己的编码魔法。专注技术，喜欢探索新鲜事物，对于 golang, neovim 等会做一些分享。",
         "rss": "https://youngxhui.top/index.xml",
         "status": "active",
-        "added_date": "2026-06-16"
+        "added_date": "2026-06-16",
+        "lang": "zh"
     },
     {
         "name": "林中阴影",
@@ -317,7 +356,8 @@
         "description": "",
         "rss": "https://blog.heysh.xyz/feed.xml",
         "status": "active",
-        "added_date": "2026-06-16"
+        "added_date": "2026-06-16",
+        "lang": "zh"
     },
     {
         "name": "Jiajun的技术笔记",
@@ -325,7 +365,8 @@
         "description": "享受技术带来的快乐~分布式系统/高并发处理/Golang/Python/Haskell/C/微服务/Android/安卓/Kotlin/软件工程/源码阅读与分析",
         "rss": "https://jiajunhuang.com/rss",
         "status": "active",
-        "added_date": "2026-06-16"
+        "added_date": "2026-06-16",
+        "lang": "zh"
     },
     {
         "name": "白宦成",
@@ -333,7 +374,8 @@
         "description": "Just Keep Shipping",
         "rss": "https://www.ixiqin.com/feed/",
         "status": "active",
-        "added_date": "2026-06-17"
+        "added_date": "2026-06-17",
+        "lang": "zh"
     },
     {
         "name": "Yihui Xie | 谢益辉",
@@ -341,7 +383,8 @@
         "description": "Personal website of Yihui Xie; 谢益辉的个人网站",
         "rss": "https://yihui.org/index.xml",
         "status": "active",
-        "added_date": "2026-06-17"
+        "added_date": "2026-06-17",
+        "lang": "zh"
     },
     {
         "name": "Usubeni Fantasy",
@@ -349,7 +392,8 @@
         "description": "Welcome to Usubeni Fantasy.",
         "rss": "https://ssshooter.com/rss.xml",
         "status": "active",
-        "added_date": "2026-06-17"
+        "added_date": "2026-06-17",
+        "lang": "zh"
     },
     {
         "name": "KAIX.IN",
@@ -357,7 +401,8 @@
         "description": "写作作为一种思考",
         "rss": "https://kaix.in/feed/",
         "status": "active",
-        "added_date": "2026-06-17"
+        "added_date": "2026-06-17",
+        "lang": "zh"
     },
     {
         "name": "高金的博客",
@@ -365,7 +410,8 @@
         "description": "高金的个人博客，记录一些关于爬虫、学习python、区块链、薅羊毛以及瞎折腾的一些东西",
         "rss": "https://igaojin.me/atom.xml",
         "status": "active",
-        "added_date": "2026-06-22"
+        "added_date": "2026-06-22",
+        "lang": "zh"
     },
     {
         "name": "谢乾坤",
@@ -373,7 +419,8 @@
         "description": "高级数据挖掘工程师，《Python 爬虫开发 从入门到实战》、《左手 MongoDB 右手 Redis——从入门到商业实战》作者。 微软最有价值专家 MVP，Python, Scrapy, MongoDB, Redis, Pandas, Golang。",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-06-22"
+        "added_date": "2026-06-22",
+        "lang": "zh"
     },
     {
         "name": "高金的博客",
@@ -381,7 +428,8 @@
         "description": "高金的个人博客，记录一些关于爬虫、学习python、区块链、薅羊毛以及瞎折腾的一些东西",
         "rss": "https://igaojin.me/atom.xml",
         "status": "active",
-        "added_date": "2026-07-03"
+        "added_date": "2026-07-03",
+        "lang": "zh"
     },
     {
         "name": "臨池不輟",
@@ -389,7 +437,8 @@
         "description": "芝兰生于深林，不以无人而不芳，君子修道立德，不为穷困而败节。",
         "rss": "https://keelii.com/atom.xml",
         "status": "active",
-        "added_date": "2026-07-03"
+        "added_date": "2026-07-03",
+        "lang": "zh"
     },
     {
         "name": "见字如面",
@@ -397,7 +446,8 @@
         "description": "",
         "rss": "https://hiwannz.com/feed",
         "status": "active",
-        "added_date": "2026-07-03"
+        "added_date": "2026-07-03",
+        "lang": "zh"
     },
     {
         "name": "把酒诗代码",
@@ -405,7 +455,8 @@
         "description": "是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（上述语言博主一概不会。）",
         "rss": "https://102no.com/atom.xml",
         "status": "archived",
-        "added_date": "2026-07-06"
+        "added_date": "2026-07-06",
+        "lang": "zh"
     },
     {
         "name": "江边的旱鸭子",
@@ -413,7 +464,8 @@
         "description": "Stand high, think different.",
         "rss": "https://joouis.com/atom.xml",
         "status": "archived",
-        "added_date": "2026-07-06"
+        "added_date": "2026-07-06",
+        "lang": "zh"
     },
     {
         "name": "思有云",
@@ -421,15 +473,17 @@
         "description": "IOIOX 个人博客 生活记录 原创文章 技术分享 资源分享 群晖技巧 群晖教程 免费frp 免费内网穿透",
         "rss": "https://www.ioiox.com/feed/",
         "status": "active",
-        "added_date": "2026-07-07"
+        "added_date": "2026-07-07",
+        "lang": "zh"
     },
     {
         "name": "Jiayin Zhu",
         "url": "https://jyzhu.top/",
         "description": "",
         "rss": "https://jyzhu.top/feed.xml",
-        "status": "archived",
-        "added_date": "2026-07-07"
+        "status": "no_rss",
+        "added_date": "2026-07-07",
+        "lang": "zh"
     },
     {
         "name": "范叶亮",
@@ -437,7 +491,8 @@
         "description": "范叶亮的个人网站 | Leo Van's Personal Website",
         "rss": "https://leovan.me/feed",
         "status": "active",
-        "added_date": "2026-07-07"
+        "added_date": "2026-07-07",
+        "lang": "zh"
     },
     {
         "name": "CodeSky 代码天空",
@@ -445,7 +500,8 @@
         "description": "随手记录自己的学习过程",
         "rss": "https://www.codesky.me/feed",
         "status": "active",
-        "added_date": "2026-07-09"
+        "added_date": "2026-07-09",
+        "lang": "zh"
     },
     {
         "name": "Just lepture",
@@ -453,7 +509,8 @@
         "description": "Love its people, but never trust its government.",
         "rss": "https://lepture.com/feed.xml",
         "status": "active",
-        "added_date": "2026-07-13"
+        "added_date": "2026-07-13",
+        "lang": "zh"
     },
     {
         "name": "idealclover",
@@ -461,23 +518,26 @@
         "description": "翠翠的个人名片👋",
         "rss": "https://idealclover.top/feed",
         "status": "active",
-        "added_date": "2026-07-14"
+        "added_date": "2026-07-14",
+        "lang": "zh"
     },
     {
         "name": "陈看川",
         "url": "https://kanchuan.com/",
         "description": "分享原创开发技术和服务运营笔记，探索个人开发者成长之道。",
         "rss": "https://kanchuan.com/feed.xml",
-        "status": "active",
-        "added_date": "2026-07-15"
+        "status": "no_rss",
+        "added_date": "2026-07-15",
+        "lang": "zh"
     },
     {
         "name": "崎径 其镜",
         "url": "https://www.z16388.top/",
         "description": "求学道路上的行车记录仪",
         "rss": "https://www.z16388.top/atom.xml",
-        "status": "archived",
-        "added_date": "2026-07-15"
+        "status": "no_rss",
+        "added_date": "2026-07-15",
+        "lang": "zh"
     },
     {
         "name": "加菲猫的创客工坊",
@@ -485,15 +545,17 @@
         "description": "",
         "rss": "https://www.gaficat.com/atom.xml",
         "status": "active",
-        "added_date": "2026-07-20"
+        "added_date": "2026-07-20",
+        "lang": "zh"
     },
     {
         "name": "胡涂说",
         "url": "https://hutusi.com/",
         "description": "胡涂说博客/好奇心周刊",
         "rss": "https://hutusi.com/feed.xml",
-        "status": "active",
-        "added_date": "2026-07-30"
+        "status": "no_rss",
+        "added_date": "2026-07-30",
+        "lang": "zh"
     },
     {
         "name": "四公子的剑",
@@ -501,7 +563,8 @@
         "description": "始于俗世，心存善念",
         "rss": "https://www.965.one/atom.xml",
         "status": "active",
-        "added_date": "2026-07-30"
+        "added_date": "2026-07-30",
+        "lang": "zh"
     },
     {
         "name": "I‘m Hang",
@@ -509,15 +572,17 @@
         "description": "A hobbyist iOS developer and machine learning enthusiast based in Chengdu. 🐼",
         "rss": "https://huhuhang.com/feed",
         "status": "active",
-        "added_date": "2026-07-30"
+        "added_date": "2026-07-30",
+        "lang": "zh"
     },
     {
         "name": "晚花行乐",
         "url": "https://www.lfhacks.com/",
         "description": "LFhacks.com is a personal blog.",
         "rss": "https://www.lfhacks.com/index.xml",
-        "status": "active",
-        "added_date": "2026-08-06"
+        "status": "no_rss",
+        "added_date": "2026-08-06",
+        "lang": "zh"
     },
     {
         "name": "oldj",
@@ -525,7 +590,8 @@
         "description": "oldj's blog",
         "rss": "https://oldj.net/rss.xml",
         "status": "active",
-        "added_date": "2026-08-06"
+        "added_date": "2026-08-06",
+        "lang": "zh"
     },
     {
         "name": "以梦喂马",
@@ -533,7 +599,8 @@
         "description": "夜晚，能让人呼吸。",
         "rss": "https://www.hwdef.org/index.xml",
         "status": "active",
-        "added_date": "2026-08-07"
+        "added_date": "2026-08-07",
+        "lang": "zh"
     },
     {
         "name": "龚成博客",
@@ -541,7 +608,8 @@
         "description": "",
         "rss": "https://laogongshuo.com/feed",
         "status": "active",
-        "added_date": "2026-08-07"
+        "added_date": "2026-08-07",
+        "lang": "zh"
     },
     {
         "name": "Seven's blog",
@@ -549,7 +617,8 @@
         "description": "Seven's Blog",
         "rss": "https://blog.diqigan.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-08-07"
+        "added_date": "2026-08-07",
+        "lang": "zh"
     },
     {
         "name": "治部少辅",
@@ -557,23 +626,26 @@
         "description": "晚来天雨雪，能饮一杯无？",
         "rss": "https://www.codewoody.com/atom.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "Dosk 技术站",
         "url": "https://dosk.win/",
         "description": "SpringHack 的无名技术小站",
         "rss": "https://dosk.win/atom.xml",
-        "status": "no_rss",
-        "added_date": "2026-08-21"
+        "status": "active",
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "Xieisabug",
         "url": "https://www.xiejingyang.com/",
         "description": "",
         "rss": "https://www.xiejingyang.com/feed/",
-        "status": "active",
-        "added_date": "2026-08-21"
+        "status": "no_rss",
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "轶哥 - 火星人",
@@ -581,7 +653,8 @@
         "description": "一个全栈程序员的技术博客。",
         "rss": "https://www.wyr.me/rss.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "清竹志-(原清竹茶馆)",
@@ -589,7 +662,8 @@
         "description": "清竹志,清竹茶馆-博客,vadxq,技术分享,前端开发,生活杂谈",
         "rss": "https://blog.vadxq.com/atom.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "YeungYeah's Context",
@@ -597,7 +671,8 @@
         "description": "热爱折腾代码与工具，偶尔在焦虑中寻找平衡。\n这里没有标准答案，只有关于技术、阅读与生活感悟的真实上下文。",
         "rss": "https://scottyeung.top/atom.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "Origin - Singee's Blog",
@@ -605,7 +680,8 @@
         "description": "",
         "rss": "https://blog.singee.me/atom.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "码志",
@@ -613,7 +689,8 @@
         "description": "马壮的个人博客，公众号：闷骚的程序员",
         "rss": "https://mazhuang.org/feed.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "北门清燕",
@@ -621,15 +698,17 @@
         "description": "北门清燕的个人空间，分享生活、记录点滴，给回忆一个绽放的美丽。",
         "rss": "https://bmqy.net/feed.xml",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "秋安 | 素生",
         "url": "https://z.arlmy.me/",
         "description": "误读人生，化人生活",
         "rss": "https://z.arlmy.me/atom.xml",
-        "status": "active",
-        "added_date": "2026-08-21"
+        "status": "archived",
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "保罗的小宇宙",
@@ -637,15 +716,17 @@
         "description": "Still single, still lonely.",
         "rss": "https://paugram.com/feed/",
         "status": "active",
-        "added_date": "2026-08-21"
+        "added_date": "2026-08-21",
+        "lang": "zh"
     },
     {
         "name": "失眠海峡 - 我要与你坦诚相见",
         "url": "https://blog.imalan.cn/",
         "description": "我要与你坦诚相见",
         "rss": "https://blog.imalan.cn/feed/index.xml",
-        "status": "active",
-        "added_date": "2026-08-24"
+        "status": "no_rss",
+        "added_date": "2026-08-24",
+        "lang": "zh"
     },
     {
         "name": "wuxinhua",
@@ -653,7 +734,8 @@
         "description": "Blog about Engineering, Start-up Business, Tech trends | wuxinhua.com",
         "rss": "https://wuxinhua.com/atom.xml",
         "status": "active",
-        "added_date": "2026-08-24"
+        "added_date": "2026-08-24",
+        "lang": "zh"
     },
     {
         "name": "土木坛子",
@@ -661,7 +743,8 @@
         "description": "",
         "rss": "https://tumutanzi.com/feed",
         "status": "active",
-        "added_date": "2026-08-24"
+        "added_date": "2026-08-24",
+        "lang": "zh"
     },
     {
         "name": "Jun Xie",
@@ -669,7 +752,8 @@
         "description": "Jun Xie — Seismologist at Academy of Precision Measurement Science and Technology",
         "rss": "https://www.seis-jun.xyz/atom.xml",
         "status": "no_rss",
-        "added_date": "2026-08-25"
+        "added_date": "2026-08-25",
+        "lang": "zh"
     },
     {
         "name": "暗无天日",
@@ -677,7 +761,8 @@
         "description": "",
         "rss": "https://www.lujun9972.win/rss.xml",
         "status": "active",
-        "added_date": "2026-08-25"
+        "added_date": "2026-08-25",
+        "lang": "zh"
     },
     {
         "name": "师兄的林间小屋",
@@ -685,7 +770,8 @@
         "description": "欢迎访问师兄的林间小屋（Refined-X）。在这里，我全面记录了过去十余年在前端架构设计、复杂项目工程化落地方面的实战经验，同时深入分享在 AI 辅助研发、Agent 人机协作模式探索以及职业生涯发展过程中的深度思考与复盘。致力于将技术沉淀转化为高价值认知，与你共同在技术演进的大潮中保持敏锐洞察并实现持续成长。",
         "rss": "https://refined-x.com/rss.xml",
         "status": "active",
-        "added_date": "2026-08-25"
+        "added_date": "2026-08-25",
+        "lang": "zh"
     },
     {
         "name": "Jacky Wong",
@@ -693,7 +779,8 @@
         "description": "Front-end Developer / Music Producer",
         "rss": "https://jw1.dev/atom.xml",
         "status": "active",
-        "added_date": "2026-08-26"
+        "added_date": "2026-08-26",
+        "lang": "zh"
     },
     {
         "name": "王欣说AI",
@@ -701,15 +788,17 @@
         "description": "王欣，AI 技术和产品研究者、创业者。分享大家听得懂、用得上、能赚钱的AI技术。开源项目提交者和推广者： Apache Dubbo项目/PMC、Apache Seata项目PPMC。github：https://github.com/lovepoem email：xin.victorwang@gmail.com",
         "rss": "https://wangxin.io/atom.xml",
         "status": "active",
-        "added_date": "2026-08-26"
+        "added_date": "2026-08-26",
+        "lang": "zh"
     },
     {
         "name": "Jartto's blog",
         "url": "http://jartto.wang/",
         "description": "最遗憾的不是把梦想丢在路上，而是梦想从未上路",
         "rss": "http://jartto.wang/atom.xml",
-        "status": "active",
-        "added_date": "2026-08-26"
+        "status": "no_rss",
+        "added_date": "2026-08-26",
+        "lang": "zh"
     },
     {
         "name": "披萨盒的赛博日志",
@@ -717,7 +806,8 @@
         "description": "披萨盒要统治世界",
         "rss": "https://blog.pushihao.com/atom.xml",
         "status": "active",
-        "added_date": "2026-08-26"
+        "added_date": "2026-08-26",
+        "lang": "zh"
     },
     {
         "name": "阳志平",
@@ -725,7 +815,8 @@
         "description": "学者、作家与企业家。致力于认知科学的产品开发、课程设计与科学传播。",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-08-27"
+        "added_date": "2026-08-27",
+        "lang": "zh"
     },
     {
         "name": "编程沉思录",
@@ -733,7 +824,8 @@
         "description": "我们采集的只是石头，却必须始终仰望着未来的大教堂。",
         "rss": "https://www.cyhone.com/feeds/all.xml",
         "status": "active",
-        "added_date": "2026-08-28"
+        "added_date": "2026-08-28",
+        "lang": "zh"
     },
     {
         "name": "LiesAuer's Blog",
@@ -741,7 +833,8 @@
         "description": "",
         "rss": "https://www.liesauer.net/blog/feed/",
         "status": "active",
-        "added_date": "2026-08-28"
+        "added_date": "2026-08-28",
+        "lang": "zh"
     },
     {
         "name": "Beyond the void",
@@ -749,7 +842,8 @@
         "description": "",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-08-28"
+        "added_date": "2026-08-28",
+        "lang": "zh"
     },
     {
         "name": "0x01 byte",
@@ -757,7 +851,8 @@
         "description": "Hello.\n我是江宏。这是我的个人博客。\n我通常会写一些我自己的经历以及对感兴趣的各种话题的想法。\n你可以：\n对我了解更多 订阅 RSS 关注我以下平台的账号：",
         "rss": "https://1byte.io/articles/index.xml",
         "status": "active",
-        "added_date": "2026-08-31"
+        "added_date": "2026-08-31",
+        "lang": "zh"
     },
     {
         "name": "BMPI",
@@ -765,7 +860,8 @@
         "description": "终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）",
         "rss": "https://www.bmpi.dev/index.xml",
         "status": "active",
-        "added_date": "2026-08-31"
+        "added_date": "2026-08-31",
+        "lang": "zh"
     },
     {
         "name": "61’s life",
@@ -773,7 +869,8 @@
         "description": "Real artists ship.",
         "rss": "https://61.life/feed.xml",
         "status": "active",
-        "added_date": "2026-08-31"
+        "added_date": "2026-08-31",
+        "lang": "zh"
     },
     {
         "name": "Power's Wiki",
@@ -781,7 +878,8 @@
         "description": "博览万物，融会贯通。",
         "rss": "https://wiki-power.com/feed_rss_created.xml",
         "status": "active",
-        "added_date": "2026-08-31"
+        "added_date": "2026-08-31",
+        "lang": "zh"
     },
     {
         "name": "Tripper Press",
@@ -789,23 +887,26 @@
         "description": "Take Photo, Think Seriously",
         "rss": "https://tripper.press/atom.xml",
         "status": "active",
-        "added_date": "2026-08-31"
+        "added_date": "2026-08-31",
+        "lang": "zh"
     },
     {
         "name": "@Lenciel",
         "url": "https://lenciel.com/",
         "description": "lenciel's blog",
         "rss": "https://lenciel.com/feed.xml",
-        "status": "active",
-        "added_date": "2026-09-03"
+        "status": "no_rss",
+        "added_date": "2026-09-03",
+        "lang": "zh"
     },
     {
         "name": "M-x Chris-An-Emacser",
         "url": "https://chriszheng.science/",
         "description": "一个Emacs爱好者的个人网站.",
         "rss": "https://chriszheng.science/atom.xml",
-        "status": "active",
-        "added_date": "2026-09-04"
+        "status": "no_rss",
+        "added_date": "2026-09-04",
+        "lang": "zh"
     },
     {
         "name": "第七星尘的独立博客",
@@ -813,7 +914,8 @@
         "description": "第七星尘的独立博客",
         "rss": "https://blog.star7th.com/feed",
         "status": "active",
-        "added_date": "2026-09-04"
+        "added_date": "2026-09-04",
+        "lang": "zh"
     },
     {
         "name": "Random Thoughts",
@@ -821,7 +923,8 @@
         "description": "100% human native.",
         "rss": "https://blog.joway.io/index.xml",
         "status": "active",
-        "added_date": "2026-09-07"
+        "added_date": "2026-09-07",
+        "lang": "zh"
     },
     {
         "name": "Ground Oddity",
@@ -829,7 +932,8 @@
         "description": "",
         "rss": "http://idle.systems/atom.xml",
         "status": "active",
-        "added_date": "2026-09-09"
+        "added_date": "2026-09-09",
+        "lang": "zh"
     },
     {
         "name": "iPotato",
@@ -837,15 +941,17 @@
         "description": "",
         "rss": "https://ipotato.me/feed",
         "status": "active",
-        "added_date": "2026-09-15"
+        "added_date": "2026-09-15",
+        "lang": "zh"
     },
     {
         "name": "嵌入式工程猫的博客",
         "url": "https://blog.vvzero.com/",
         "description": "嵌入式物联网全栈系统工程师",
         "rss": "https://blog.vvzero.com/atom.xml",
-        "status": "active",
-        "added_date": "2026-09-15"
+        "status": "no_rss",
+        "added_date": "2026-09-15",
+        "lang": "zh"
     },
     {
         "name": "HCLonely Blog",
@@ -853,7 +959,8 @@
         "description": "懒，是社会发展的动力...",
         "rss": "https://blog.hclonely.com/rss2.xml",
         "status": "active",
-        "added_date": "2026-09-15"
+        "added_date": "2026-09-15",
+        "lang": "zh"
     },
     {
         "name": "Steve Sun",
@@ -861,7 +968,8 @@
         "description": "拆解复杂问题，聊聊软件设计品味，探索工程实践。AI Agent、Go 编程、软件工程。",
         "rss": "https://sund.site/index.xml",
         "status": "active",
-        "added_date": "2026-09-20"
+        "added_date": "2026-09-20",
+        "lang": "zh"
     },
     {
         "name": "SimonAKing",
@@ -869,7 +977,8 @@
         "description": "STDIN | Think >> /dev/Mind - SimonAKing",
         "rss": "https://simonaking.com/blog/atom.xml",
         "status": "active",
-        "added_date": "2026-09-20"
+        "added_date": "2026-09-20",
+        "lang": "zh"
     },
     {
         "name": "掘墓人的小铲子",
@@ -877,7 +986,8 @@
         "description": "掘墓人的小铲子，记录生活，分析技术~",
         "rss": "https://juemuren4449.com/feed",
         "status": "active",
-        "added_date": "2026-09-22"
+        "added_date": "2026-09-22",
+        "lang": "zh"
     },
     {
         "name": "Tinyfool的个人网站",
@@ -885,7 +995,8 @@
         "description": "最新更新 最新更新-> 关于Tinyfool Tinyfool，真名郝培强。1979年生人，自由职业（自 […]",
         "rss": "https://codechina.org/feed/",
         "status": "active",
-        "added_date": "2026-09-22"
+        "added_date": "2026-09-22",
+        "lang": "zh"
     },
     {
         "name": "Muyun99 的杂谈",
@@ -893,7 +1004,8 @@
         "description": "Muyun99 的杂谈",
         "rss": "https://muyun.work/feed/",
         "status": "active",
-        "added_date": "2026-09-22"
+        "added_date": "2026-09-22",
+        "lang": "zh"
     },
     {
         "name": "李宇Blog",
@@ -901,7 +1013,8 @@
         "description": "李宇的个人博客，记录产品、技术、摄影与生活的笔记与想法。",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-09-24"
+        "added_date": "2026-09-24",
+        "lang": "zh"
     },
     {
         "name": "不吐不快",
@@ -909,7 +1022,8 @@
         "description": "",
         "rss": "https://mianao.info/atom.xml",
         "status": "active",
-        "added_date": "2026-09-24"
+        "added_date": "2026-09-24",
+        "lang": "zh"
     },
     {
         "name": "西灵号 - 西灵沉船",
@@ -917,7 +1031,8 @@
         "description": "Digital Space",
         "rss": "https://blog.feimind.xyz/rss.xml",
         "status": "no_rss",
-        "added_date": "2026-09-28"
+        "added_date": "2026-09-28",
+        "lang": "zh"
     },
     {
         "name": "Ray's Blog",
@@ -925,15 +1040,17 @@
         "description": "Never say never.",
         "rss": "https://blog.mk1.io/rss.xml",
         "status": "active",
-        "added_date": "2026-09-28"
+        "added_date": "2026-09-28",
+        "lang": "zh"
     },
     {
         "name": "news | news view",
         "url": "https://zsqk.github.io/news/",
         "description": "每日新闻.",
         "rss": "https://zsqk.github.io/news/feed",
-        "status": "active",
-        "added_date": "2026-09-28"
+        "status": "archived",
+        "added_date": "2026-09-28",
+        "lang": "zh"
     },
     {
         "name": "伪斜杠青年",
@@ -941,7 +1058,8 @@
         "description": "当你拥有一样东西之后，你对这样东西的评价会高于你没有拥有它时。",
         "rss": "https://i.lckiss.com/?feed=rss2",
         "status": "active",
-        "added_date": "2026-09-28"
+        "added_date": "2026-09-28",
+        "lang": "zh"
     },
     {
         "name": "双绞麻痹",
@@ -949,7 +1067,8 @@
         "description": "应似飞鸿踏雪泥",
         "rss": "https://numb.tech/atom.xml",
         "status": "active",
-        "added_date": "2026-09-29"
+        "added_date": "2026-09-29",
+        "lang": "zh"
     },
     {
         "name": "ZedeX",
@@ -957,7 +1076,8 @@
         "description": "ZedeX - 分享技术、文化、生活与思考",
         "rss": "https://zedex.cn/index.xml",
         "status": "active",
-        "added_date": "2026-09-29"
+        "added_date": "2026-09-29",
+        "lang": "zh"
     },
     {
         "name": "Louis C Deng's Blog",
@@ -965,7 +1085,8 @@
         "description": "Essays and notes by Louis C Deng on computer science, machine learning, literature, art, and life, written in English and Traditional Chinese.",
         "rss": "https://blog.aeilot.top/index.xml",
         "status": "active",
-        "added_date": "2026-09-29"
+        "added_date": "2026-09-29",
+        "lang": "zh"
     },
     {
         "name": "云游君的小站",
@@ -973,7 +1094,8 @@
         "description": "希望能成为一个有趣的人",
         "rss": "https://www.yunyoujun.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-09-29"
+        "added_date": "2026-09-29",
+        "lang": "zh"
     },
     {
         "name": "WuSiYu Blog - IT相关各种折腾",
@@ -981,7 +1103,8 @@
         "description": "IT相关各种折腾",
         "rss": "https://wusiyu.me/feed/",
         "status": "active",
-        "added_date": "2026-09-29"
+        "added_date": "2026-09-29",
+        "lang": "zh"
     },
     {
         "name": "祝融说",
@@ -989,7 +1112,8 @@
         "description": "祝融说：法不净空，觉无性也。",
         "rss": "https://zhurongshuo.com/index.xml",
         "status": "active",
-        "added_date": "2026-10-08"
+        "added_date": "2026-10-08",
+        "lang": "zh"
     },
     {
         "name": "ABB00717's Blog",
@@ -997,23 +1121,26 @@
         "description": "小提示，展開和收起資料夾請按最左邊的箭頭，點字會直接進入 Index Page。 嗨！這裡是 ABB00717。 我這個人各方面來說都很宅，且很喜歡和電腦打交道。在這裡我會紀錄所見所聞，你看到任何東西都不要意外。不過主題大致上會是： 程式設計（競賽程式、資訊安全、後端等等） 作品（專輯、動漫、漫畫、遊戲等等）評論 閱讀（書籍、文章、貼文等等）筆記 生活感想 你可以去部落格聚集地裡頭看看我覺得很有趣的部落格。我也很愛聽音樂，你可以在音樂那裡偷窺我的品味。我之前每個禮拜都會寫週記，但現在休刊了。之前也會記錄做過的夢，朋友都誇我是下一個藤本樹 x)，但最近醒來都忘了，真不曉得之前怎麼都記得。 我如...",
         "rss": "https://blog.abb00717.com/index.xml",
         "status": "active",
-        "added_date": "2026-10-08"
+        "added_date": "2026-10-08",
+        "lang": "zh"
     },
     {
         "name": "Fei's Tours & Tales",
         "url": "https://www.feifun.cn/",
         "description": "一个关于亲子环球旅行、汽车文化、科技DIY的个人博客。记录在各大洲房车自驾、F1赛事朝圣、复古计算设备等独特经历。",
         "rss": "https://www.feifun.cn/feed.xml",
-        "status": "active",
-        "added_date": "2026-10-08"
+        "status": "archived",
+        "added_date": "2026-10-08",
+        "lang": "zh"
     },
     {
         "name": "xulihang's blog",
         "url": "https://blog.xulihang.me/",
         "description": "",
         "rss": "https://blog.xulihang.me/feed/",
-        "status": "archived",
-        "added_date": "2026-10-08"
+        "status": "no_rss",
+        "added_date": "2026-10-08",
+        "lang": "zh"
     },
     {
         "name": "est の 输入 输出和出入",
@@ -1021,7 +1148,8 @@
         "description": "This blog is rated 🔞, viewer discretion is advised",
         "rss": "https://feeds.feedburner.com/initiative",
         "status": "no_rss",
-        "added_date": "2026-10-08"
+        "added_date": "2026-10-08",
+        "lang": "zh"
     },
     {
         "name": "Lex Blog",
@@ -1029,7 +1157,8 @@
         "description": "A blog about technology, programming, and life.",
         "rss": "https://dreams.plus/rss.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "菲兹克斯喵",
@@ -1037,7 +1166,8 @@
         "description": "This is physnya's personal blog & notebook.",
         "rss": "https://physnya.top/atom.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "給安",
@@ -1045,7 +1175,8 @@
         "description": "給安 / JN 與安安Q 的個人入口，收集部落格、社群平台與聯絡方式。",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "愆伏 - 互联网杂谈",
@@ -1053,7 +1184,8 @@
         "description": "一个浸淫互联网行业多年的斜杠中年，通过博客表达自己的所思所想以及所经历的历史进程",
         "rss": "https://tortorse.com/atom.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "EdNovas的小站",
@@ -1061,7 +1193,8 @@
         "description": "",
         "rss": "https://ednovas.xyz/atom.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "LiesAuer's Blog",
@@ -1069,15 +1202,17 @@
         "description": "",
         "rss": "https://www.liesauer.net/blog/feed/",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "捻墨运营笔记",
         "url": "https://dyy.nianmo.top/",
         "description": "专注海外华人商家小红书代运营，5年实战，服务300+企业。分享小红书获客方法、企业号运营、避坑经验，覆盖移民、餐饮、租车、酒店、家政、旅行社等赛道。",
         "rss": "https://dyy.nianmo.top/rss.xml",
-        "status": "active",
-        "added_date": "2026-10-09"
+        "status": "archived",
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "Haku",
@@ -1085,7 +1220,8 @@
         "description": "Karlbaey's Cardboard Box",
         "rss": "https://re.karlbaey.top/rss.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "码农明明桑",
@@ -1093,7 +1229,8 @@
         "description": "一个程序员的生活和技术记录，热爱生活，心向远方。",
         "rss": "https://isming.me/index.xml",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "安志合的学习博客",
@@ -1101,7 +1238,8 @@
         "description": "linux运维,系统架构，自动化运维，云计算虚拟化，数据库，编程开发，IT技术博客，经验分享，国学以及传统文化",
         "rss": "https://chegva.com/feed",
         "status": "active",
-        "added_date": "2026-10-09"
+        "added_date": "2026-10-09",
+        "lang": "zh"
     },
     {
         "name": "SuperGrey 的筆記本",
@@ -1109,7 +1247,8 @@
         "description": "有感而發，忍不住想自己寫點東西——動漫感想、讀書心得，以及各種隨筆。",
         "rss": "https://supergrey.bearblog.dev/feed/",
         "status": "archived",
-        "added_date": "2026-10-10"
+        "added_date": "2026-10-10",
+        "lang": "zh"
     },
     {
         "name": "Sagasu",
@@ -1117,7 +1256,8 @@
         "description": "Practical notes, experiments, and field-tested methods for using AI to build income, make better decisions, and create durable independent work.",
         "rss": "https://www.sagasu.art/rss.xml",
         "status": "active",
-        "added_date": "2026-10-10"
+        "added_date": "2026-10-10",
+        "lang": "zh"
     },
     {
         "name": "Sunset 的重构博客",
@@ -1125,15 +1265,17 @@
         "description": "Sunset Edu. & Tech. Group 的首席程序员",
         "rss": "https://blog.sunmkt.uk/feed.xml",
         "status": "active",
-        "added_date": "2026-10-12"
+        "added_date": "2026-10-12",
+        "lang": "zh"
     },
     {
         "name": "Victor42",
         "url": "https://victor42.eth.limo/",
         "description": "科学、纪录片、博物馆爱好者；Excel狂魔；蹩脚开发者；UI/UX设计师；生活观察者",
         "rss": "https://victor42.eth.limo/index.xml",
-        "status": "active",
-        "added_date": "2026-10-12"
+        "status": "no_rss",
+        "added_date": "2026-10-12",
+        "lang": "zh"
     },
     {
         "name": "hsfzxjy (Jingyi Xie)",
@@ -1141,7 +1283,8 @@
         "description": "",
         "rss": "https://i.hsfzxjy.site/rss.xml",
         "status": "active",
-        "added_date": "2026-10-12"
+        "added_date": "2026-10-12",
+        "lang": "zh"
     },
     {
         "name": "尼普学种花",
@@ -1149,7 +1292,8 @@
         "description": "种花、旅行、写代码",
         "rss": "https://kneep.top/index.xml",
         "status": "active",
-        "added_date": "2026-10-12"
+        "added_date": "2026-10-12",
+        "lang": "zh"
     },
     {
         "name": "x7aNote",
@@ -1157,7 +1301,8 @@
         "description": "Yuri is life.",
         "rss": "https://xeonzilla.top/feed.xml",
         "status": "active",
-        "added_date": "2026-10-13"
+        "added_date": "2026-10-13",
+        "lang": "zh"
     },
     {
         "name": "王圆圆",
@@ -1165,7 +1310,8 @@
         "description": "记录稍纵即逝的观点、灵感与想法。",
         "rss": "https://www.iconpik.com/rss/",
         "status": "active",
-        "added_date": "2026-10-13"
+        "added_date": "2026-10-13",
+        "lang": "zh"
     },
     {
         "name": "酥米的小站",
@@ -1173,7 +1319,8 @@
         "description": "酥米的技术和生活分享地，这里分享前沿技术文章、开发实践心得，以及科技与日常交织的思考。从代码实现到生活洞察，用简洁的文字记录成长轨迹，搭建起技术与人文之间的桥梁。",
         "rss": "https://www.sumi233.top/rss.xml",
         "status": "active",
-        "added_date": "2026-10-16"
+        "added_date": "2026-10-16",
+        "lang": "zh"
     },
     {
         "name": "孟坤博客",
@@ -1181,15 +1328,17 @@
         "description": "互联网+分享+科技+吐槽=孟坤博客",
         "rss": "https://mkblog.cn/feed/",
         "status": "active",
-        "added_date": "2026-10-16"
+        "added_date": "2026-10-16",
+        "lang": "zh"
     },
     {
         "name": "KEKKJ BLOG",
         "url": "https://kekkj123.github.io/",
         "description": "KEKKJ 的个人博客，分享各种技术教程和生活碎碎念。",
         "rss": "https://kekkj123.github.io/RSS_atom.xml",
-        "status": "archived",
-        "added_date": "2026-10-16"
+        "status": "active",
+        "added_date": "2026-10-16",
+        "lang": "zh"
     },
     {
         "name": "阁子",
@@ -1197,7 +1346,8 @@
         "description": "dfine 的个人博客。写技术笔记与折腾记录——Linux、GStreamer、三维重建、Agent 与 LLM，也写随笔与旧体诗。共 108 篇文章、41 条闲言。",
         "rss": "https://dfine.tech/atom.xml",
         "status": "active",
-        "added_date": "2026-10-16"
+        "added_date": "2026-10-16",
+        "lang": "zh"
     },
     {
         "name": "太隐",
@@ -1205,7 +1355,8 @@
         "description": "一个人的思想发育史就是他的阅读史",
         "rss": "https://wangyurui.com/feed.xml",
         "status": "active",
-        "added_date": "2026-10-16"
+        "added_date": "2026-10-16",
+        "lang": "zh"
     },
     {
         "name": "GISerLab",
@@ -1213,7 +1364,8 @@
         "description": "探索地理信息空间",
         "rss": "https://blog.giserlab.cn/rss.xml",
         "status": "active",
-        "added_date": "2026-10-19"
+        "added_date": "2026-10-19",
+        "lang": "zh"
     },
     {
         "name": "云海札记",
@@ -1221,7 +1373,8 @@
         "description": "云海札记是一个基于 Astro 与 Firefly 搭建的个人博客，用来记录故事随笔、阅读札记与日常思考。",
         "rss": "https://auvetu.com/rss.xml",
         "status": "active",
-        "added_date": "2026-10-19"
+        "added_date": "2026-10-19",
+        "lang": "zh"
     },
     {
         "name": "TimochanのBlog",
@@ -1229,7 +1382,8 @@
         "description": "Let's start learning",
         "rss": "https://www.timochan.cn/feed",
         "status": "active",
-        "added_date": "2026-10-21"
+        "added_date": "2026-10-21",
+        "lang": "zh"
     },
     {
         "name": "Time Friend",
@@ -1237,7 +1391,8 @@
         "description": "做时间的朋友，长期主义，记录成长与思考",
         "rss": "https://time-friend.com/zh/index.xml",
         "status": "active",
-        "added_date": "2026-10-21"
+        "added_date": "2026-10-21",
+        "lang": "zh"
     },
     {
         "name": "宗宗酱",
@@ -1245,7 +1400,8 @@
         "description": "用文字和图片记录工作和学习生活，主要用来写点零零碎碎的东西，记录我学习和工作生活当中的一些琐事。",
         "rss": "https://ygz.ink/feed",
         "status": "active",
-        "added_date": "2026-10-21"
+        "added_date": "2026-10-21",
+        "lang": "zh"
     },
     {
         "name": "Mingnify",
@@ -1253,7 +1409,8 @@
         "description": "",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-10-21"
+        "added_date": "2026-10-21",
+        "lang": "zh"
     },
     {
         "name": "柴郡猫",
@@ -1261,7 +1418,8 @@
         "description": "",
         "rss": "https://www.cheshirex.com/feed",
         "status": "active",
-        "added_date": "2026-10-22"
+        "added_date": "2026-10-22",
+        "lang": "zh"
     },
     {
         "name": "子舒的博客",
@@ -1269,7 +1427,8 @@
         "description": "想留下点什么，证明我来过。",
         "rss": "https://zishu.me/index.xml",
         "status": "active",
-        "added_date": "2026-10-22"
+        "added_date": "2026-10-22",
+        "lang": "zh"
     },
     {
         "name": "CatCoding",
@@ -1277,7 +1436,8 @@
         "description": "All about coding and writing",
         "rss": "https://catcoding.me/atom.xml",
         "status": "active",
-        "added_date": "2026-10-26"
+        "added_date": "2026-10-26",
+        "lang": "zh"
     },
     {
         "name": "晚晴幽草轩",
@@ -1285,7 +1445,8 @@
         "description": "晚晴幽草轩；名字取自：“天意怜幽草，人间重晚晴”。专注互联网开发（Web 大前端、快应用、小程序），以及分享优质网站、AI 应用、效率工具、心得感悟等内容。",
         "rss": "https://www.jeffjade.com/atom.xml",
         "status": "active",
-        "added_date": "2026-10-28"
+        "added_date": "2026-10-28",
+        "lang": "zh"
     },
     {
         "name": "橙树志 ｜ citydatum - 过已过，来未来，唯当下",
@@ -1293,7 +1454,8 @@
         "description": "是个人视角的观察记录，是藏在世界尽头的喃喃私语。城市、数据是专业领域，媒体、科技、视觉是兴趣爱好，相遇、相伴、相别是匆匆一生。",
         "rss": "https://citydatum.cn/feed",
         "status": "active",
-        "added_date": "2026-10-28"
+        "added_date": "2026-10-28",
+        "lang": "zh"
     },
     {
         "name": "Jake Tao",
@@ -1301,7 +1463,8 @@
         "description": "Jake Tao, Engineering leader with a Master’s degree in Computer Science and over 20 years of experience, including 15 years of hands-on software development and 7 years in leadership roles. Experienced in leading globally distributed teams across startups and enterprises, driving core technical and business strategy. Former Lead for Forecasting Technology at Amazon, Member of the senior leadership team at Shopify (Global Payments) and at Capital One (Anti-Money Laundering Systems), with additional experience at Grab and Oracle. Areas of expertise include AdTech, FinTech, Cloud Services, Data Platforms, and Generative AI.",
         "rss": "https://jaketao.com/feed",
         "status": "active",
-        "added_date": "2026-10-30"
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "任霏博",
@@ -1309,7 +1472,8 @@
         "description": "任霏的个人博客，记录技术思考与生活感悟。",
         "rss": "https://blog.renfei.net/rss.xml",
         "status": "active",
-        "added_date": "2026-10-30"
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "知行",
@@ -1317,7 +1481,8 @@
         "description": "记录编程、AI 与工程实践",
         "rss": "https://blog.gis2all.top/rss.xml",
         "status": "active",
-        "added_date": "2026-10-30"
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "雪的数字花园 ❄️",
@@ -1325,23 +1490,26 @@
         "description": "AI工具、Agent玩法、Hermes奇技淫巧、NAS折腾实录、云服务羊毛——用最简单的话讲最硬核的科技",
         "rss": "https://blog.rnm.gv.uy/atom.xml",
         "status": "active",
-        "added_date": "2026-10-30"
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "逸思杂陈",
         "url": "https://blog.ponder.work/",
         "description": "学习 思考 行动 Python",
         "rss": "https://blog.ponder.work/atom.xml",
-        "status": "active",
-        "added_date": "2026-10-30"
+        "status": "no_rss",
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "Wayne的博客",
         "url": "https://blog.michealwayne.cn/",
         "description": "Wayne 的个人博客，记录前端、工程实践与技术思考。",
         "rss": "https://blog.michealwayne.cn/atom.xml",
-        "status": "active",
-        "added_date": "2026-10-30"
+        "status": "no_rss",
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "黑羽的个人博客",
@@ -1349,7 +1517,8 @@
         "description": "黑羽的个人博客，日常分享记录",
         "rss": "https://blog.thetbw.xyz/feed",
         "status": "active",
-        "added_date": "2026-10-30"
+        "added_date": "2026-10-30",
+        "lang": "zh"
     },
     {
         "name": "luozhiyun`s Blog",
@@ -1357,7 +1526,8 @@
         "description": "我的技术分享",
         "rss": "https://www.luozhiyun.com/feed",
         "status": "active",
-        "added_date": "2026-11-02"
+        "added_date": "2026-11-02",
+        "lang": "zh"
     },
     {
         "name": "LoRexxar's Blog",
@@ -1365,7 +1535,8 @@
         "description": "",
         "rss": "https://lorexxar.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-11-02"
+        "added_date": "2026-11-02",
+        "lang": "zh"
     },
     {
         "name": "泠泫凝的异次元空间",
@@ -1373,7 +1544,8 @@
         "description": "科技、Linux、运维、云与虚拟化；研究有趣的新技术，分享运维操作，记录我的运维实战经验、问题和解决方案；敢于探索，勤于记录。",
         "rss": "https://lxnchan.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "土豆不好吃",
@@ -1381,7 +1553,8 @@
         "description": "Hope is a waking dream.",
         "rss": "https://dmesg.app/feed",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "Mox的笔记库",
@@ -1389,7 +1562,8 @@
         "description": "",
         "rss": "https://mocusez.site/zh-CN/atom.xml",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "刘果",
@@ -1397,7 +1571,8 @@
         "description": "看星星，食烟火。",
         "rss": "https://www.liu-guo.com/rss.xml",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "kn007的个人博客",
@@ -1405,7 +1580,8 @@
         "description": "kn007的个人博客，抒发心情，折腾wordpress，偶尔的遐想，音乐骚人，喜欢小动物，爱护自然，西片迷，帮忙折腾",
         "rss": "https://kn007.net/feed/",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "离别歌",
@@ -1413,7 +1589,8 @@
         "description": "phith0n的小站，长期存在与分享关于网络安全与各种编程的原创文章。",
         "rss": "https://www.leavesongs.com/feed/",
         "status": "active",
-        "added_date": "2026-11-03"
+        "added_date": "2026-11-03",
+        "lang": "zh"
     },
     {
         "name": "ChangYo's Blog",
@@ -1421,7 +1598,8 @@
         "description": "ChangYo's Blog",
         "rss": "https://changyo.me/index.xml",
         "status": "active",
-        "added_date": "2026-11-04"
+        "added_date": "2026-11-04",
+        "lang": "zh"
     },
     {
         "name": "月夜Moonlight",
@@ -1429,7 +1607,8 @@
         "description": "見字如面",
         "rss": "https://moonlites.org/index.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "ImCBC",
@@ -1437,7 +1616,8 @@
         "description": "个人技术博客",
         "rss": "https://imcbc.cn/index.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "猫涅的秘密结社",
@@ -1445,7 +1625,8 @@
         "description": "正在思考明天中",
         "rss": "https://www.maonie.top/atom.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "撕心砸念",
@@ -1453,7 +1634,8 @@
         "description": "撕心砸念的个人写作站点，收录文章、随笔与序文，记录阅读、生活与语言中的所见所思。",
         "rss": "https://www.zanian.vip/feed.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "瓜瓜的博客",
@@ -1461,15 +1643,17 @@
         "description": "“Talk is cheap, show me the Bug.\"",
         "rss": "https://blog.twomelon.com/feed.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "宝硕博客",
         "url": "https://blog.baoshuo.ren/",
         "description": "宝硕博客 —— Baoshuo (@renbaoshuo) 随便写东西的地方，以技术向博文为主，生活向博文为辅。",
         "rss": "https://blog.baoshuo.ren/atom.xml",
-        "status": "active",
-        "added_date": "2026-11-05"
+        "status": "no_rss",
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "夜法之书",
@@ -1477,7 +1661,8 @@
         "description": "~软件驱动世界~个人独立技术博客，关于Linux,开源，Nas，Docker，嵌入式，理财，健身等主题！",
         "rss": "https://blog.17lai.site/atom.xml",
         "status": "active",
-        "added_date": "2026-11-05"
+        "added_date": "2026-11-05",
+        "lang": "zh"
     },
     {
         "name": "Samadhi",
@@ -1485,7 +1670,8 @@
         "description": "關於「我」的領悟，與一路走來的筆記。",
         "rss": "https://samadhi.blog/feed.xml",
         "status": "active",
-        "added_date": "2026-11-06"
+        "added_date": "2026-11-06",
+        "lang": "zh"
     },
     {
         "name": "Moe Blog",
@@ -1493,15 +1679,17 @@
         "description": "Find anything you like here.",
         "rss": "https://1loli.link/feed/",
         "status": "active",
-        "added_date": "2026-11-06"
+        "added_date": "2026-11-06",
+        "lang": "zh"
     },
     {
         "name": "WKLKEN THINKING",
         "url": "https://wklken.me/",
         "description": "",
         "rss": "https://wklken.me/index.xml",
-        "status": "active",
-        "added_date": "2026-11-06"
+        "status": "no_rss",
+        "added_date": "2026-11-06",
+        "lang": "zh"
     },
     {
         "name": "扯氮集",
@@ -1509,15 +1697,17 @@
         "description": "",
         "rss": "http://weiwuhui.com/feed",
         "status": "active",
-        "added_date": "2026-11-09"
+        "added_date": "2026-11-09",
+        "lang": "zh"
     },
     {
         "name": "音视频开发进阶",
         "url": "https://glumes.com/",
         "description": "关注图形、图像、音视频、FFmpeg、Android、Python、C++等技术。",
         "rss": "https://glumes.com/index.xml",
-        "status": "active",
-        "added_date": "2026-11-09"
+        "status": "no_rss",
+        "added_date": "2026-11-09",
+        "lang": "zh"
     },
     {
         "name": "LiuShen's Blog",
@@ -1525,7 +1715,8 @@
         "description": "提供建站教程、编程实战笔记、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。",
         "rss": "https://blog.liushen.fun/atom.xml",
         "status": "active",
-        "added_date": "2026-11-10"
+        "added_date": "2026-11-10",
+        "lang": "zh"
     },
     {
         "name": "龙爪槐守望者",
@@ -1533,15 +1724,17 @@
         "description": "一个帮助交互设计师成长的互联网传说。做任何事情都只是因为兴趣罢了",
         "rss": "https://www.ftium4.com/rss.xml",
         "status": "active",
-        "added_date": "2026-11-10"
+        "added_date": "2026-11-10",
+        "lang": "zh"
     },
     {
         "name": "杜老师说",
         "url": "https://dusays.com/",
         "description": "云计算运维讲师杜老师私人技术博客，主要分享一些运维技术、经验；本博客每六天更新，欢迎订阅。",
         "rss": "https://dusays.com/atom.xml",
-        "status": "active",
-        "added_date": "2026-11-10"
+        "status": "no_rss",
+        "added_date": "2026-11-10",
+        "lang": "zh"
     },
     {
         "name": "潮流周刊",
@@ -1549,15 +1742,17 @@
         "description": "记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注",
         "rss": "https://weekly.tw93.fun/rss.xml",
         "status": "active",
-        "added_date": "2026-11-11"
+        "added_date": "2026-11-11",
+        "lang": "zh"
     },
     {
         "name": "犀利豆的博客",
         "url": "https://xilidou.com/",
         "description": "犀利豆的博客——专注 Java 后端、Redis、Spring、Dubbo、分布式系统源码分析、高可用架构实践，以及 AI Agent Harness、Claude Code、Loop Engineering、Obsidian 作为 LLM IDE 等 AI 编程工程化探索。",
         "rss": "https://xilidou.com/atom.xml",
-        "status": "active",
-        "added_date": "2026-11-11"
+        "status": "no_rss",
+        "added_date": "2026-11-11",
+        "lang": "zh"
     },
     {
         "name": "拾月的博客",
@@ -1565,7 +1760,8 @@
         "description": "PC互联网遗民",
         "rss": "https://www.skyue.com/feed/",
         "status": "active",
-        "added_date": "2026-11-11"
+        "added_date": "2026-11-11",
+        "lang": "zh"
     },
     {
         "name": "东东's Blog",
@@ -1573,7 +1769,8 @@
         "description": "",
         "rss": "https://blog.yasking.org/atom.xml",
         "status": "active",
-        "added_date": "2026-11-12"
+        "added_date": "2026-11-12",
+        "lang": "zh"
     },
     {
         "name": "阿尔的代码屋",
@@ -1581,7 +1778,8 @@
         "description": "欢迎来到阿尔的代码屋。本站长期系统记录大模型（LLM）微调、RAG 检索增强系统架构、Flutter 跨平台测试工程化、VS Code 效率调优与 Linux 底层避坑实战。坚持零营销、平等交流与深度工程复盘，为开发者提供经过完整实测验证的技术解决方案、排坑指南与开源代码示例。",
         "rss": "https://blog.algieba12.cn/atom.xml",
         "status": "active",
-        "added_date": "2026-11-16"
+        "added_date": "2026-11-16",
+        "lang": "zh"
     },
     {
         "name": "俟河清",
@@ -1589,15 +1787,17 @@
         "description": "水文与泥沙的学习笔记，计算机与生活的零散记录。",
         "rss": "https://naive514.top/atom.xml",
         "status": "active",
-        "added_date": "2026-11-16"
+        "added_date": "2026-11-16",
+        "lang": "zh"
     },
     {
         "name": "Yiran's Blog",
         "url": "https://blog.zhouyiran.link/",
         "description": "Yiran Zhou's personal website",
         "rss": "https://blog.zhouyiran.link/atom.xml",
-        "status": "active",
-        "added_date": "2026-11-16"
+        "status": "no_rss",
+        "added_date": "2026-11-16",
+        "lang": "zh"
     },
     {
         "name": "Indie Dev Weekly",
@@ -1605,14 +1805,25 @@
         "description": "Weekly insights for indie developers",
         "rss": "https://www.shudao.wang/feed.xml",
         "status": "active",
-        "added_date": "2026-11-16"
+        "added_date": "2026-11-16",
+        "lang": "zh"
     },
     {
         "name": "皓子的小站",
         "url": "https://howiehz.top/",
         "description": "互联网是一片海洋，网站犹如一座座孤岛漂浮在其上，唯有超链接将它们联系起来。而此处恰好就是一座小岛，欢迎访问皓子的小站。\n皓子的小站 - HowieHz's Website ~ An Island on the Internet.",
         "rss": "https://howiehz.top/rss.xml",
+        "status": "no_rss",
+        "added_date": "2026-11-17",
+        "lang": "zh"
+    },
+    {
+        "name": "Shuibaco",
+        "url": "https://shuiba.co/",
+        "description": "",
+        "rss": "https://shuiba.co/feed",
         "status": "active",
-        "added_date": "2026-11-17"
+        "added_date": "2026-11-17",
+        "lang": "zh"
     }
 ]

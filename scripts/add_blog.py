@@ -193,7 +193,7 @@ if __name__ == "__main__":
     print("🚀 个人自媒体博客信息收集工具 v3.0 (支持预检与智能更新)")
     print("💡 提示: 自动基于一级域名去重，支持比对差异并更新现有记录。\n")
     
-    filename = "tech-blog-lists-cn.json"
+    filename = "./data/blogs.json"
     data_list = load_json_data(filename)
     
     while True:

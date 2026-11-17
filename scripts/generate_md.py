@@ -1,8 +1,15 @@
+import os
 import json
 from datetime import datetime
 
 def generate_readme():
-    with open('tech-blog-lists-cn.json', 'r', encoding='utf-8') as f:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    project_root = os.path.dirname(script_dir)
+
+    json_path = os.path.join(project_root, 'data', 'blogs.json')
+
+    with open(json_path, 'r', encoding='utf-8') as f:
         blogs = json.load(f)
     
     # 统计

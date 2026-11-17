@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # 每天北京时间凌晨 2:00
+    - cron: '0 0 * * *'  # 每天北京时间 8:00
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
         run: pip install feedparser requests beautifulsoup4
 
       - name: Generate Markdown files
-        run: python generate_markdown.py  # 新生成的脚本
+        run: python scripts/generate_md.py  # 新生成的脚本
 
       - name: Commit and push
         run: |
