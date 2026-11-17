@@ -226,9 +226,8 @@ This repository is used to discover and collect blogs that continuous original a
 ## 如何提交你的博客
 
 如果你也在坚持写独立博客，欢迎通过以下方式提交：
-1. 在 GitHub 提交 Issue
-2. 直接修改 tech-blog-lists-cn.json 并提交 PR
-3. 访问 popsite.cn 填写表单
+1. Fork 本仓库，在 data/blogs.json 中按格式添加您的博客
+2. 在 GitHub 提交PR
 
 ## 希望能在您的站点上添加友情链接
 
