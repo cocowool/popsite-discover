@@ -1825,5 +1825,13 @@
         "status": "active",
         "added_date": "2026-11-17",
         "lang": "zh"
+    },
+    {
+        "name": "闲人LIFE",
+        "url": "https://www.xianrenlife.com/",
+        "description": "我是孙李，一名「野生网络作家」。「闲人LIFE」是我的个人文学博客，主要内容为小说、随笔和文艺评论。",
+        "rss": "https://www.xianrenlife.com/feeds/posts/default",
+        "status": "active",
+        "added_date": "2026-11-17"
     }
 ]
