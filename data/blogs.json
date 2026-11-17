@@ -1044,7 +1044,7 @@
         "lang": "zh"
     },
     {
-        "name": "news | news view",
+        "name": "news view",
         "url": "https://zsqk.github.io/news/",
         "description": "每日新闻.",
         "rss": "https://zsqk.github.io/news/feed",
