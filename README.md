@@ -10,8 +10,8 @@ This repository is used to discover and collect blogs that continuous original a
 
 ## 统计信息 / Statistics
 - 收录博客数量：**205** 个
-- 活跃博客：**159** 个
-- 最后更新：**2026-11-17 08:38:28**
+- 活跃博客：**160** 个
+- 最后更新：**2026-11-18 06:06:23**
 
 ## 收录的博客列表 / Blog 
 
@@ -99,7 +99,7 @@ This repository is used to discover and collect blogs that continuous original a
 | Yihui Xie | [🔗](https://yihui.org/) | 2026-06-17 | ✅ 活跃 |
 | Yiran's Blog | [🔗](https://blog.zhouyiran.link/) | 2026-11-16 | ⚠️ 无RSS |
 | ZedeX | [🔗](https://zedex.cn/) | 2026-09-29 | ✅ 活跃 |
-| bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ⚠️ 无RSS |
+| bang's blog | [🔗](https://blog.cnbang.net/) | 2026-06-12 | ✅ 活跃 |
 | est の 输入 输出和出入 | [🔗](https://blog.est.im/) | 2026-10-08 | ✅ 活跃 |
 | forecho's Blog | [🔗](https://blog.forecho.com/) | 2026-06-09 | ✅ 活跃 |
 | hsfzxjy (Jingyi Xie) | [🔗](https://i.hsfzxjy.site/) | 2026-10-12 | ✅ 活跃 |
@@ -226,8 +226,9 @@ This repository is used to discover and collect blogs that continuous original a
 ## 如何提交你的博客
 
 如果你也在坚持写独立博客，欢迎通过以下方式提交：
-1. Fork 本仓库，在 data/blogs.json 中按格式添加您的博客
-2. 在 GitHub 提交PR
+1. 在 GitHub 提交 Issue
+2. 直接修改 tech-blog-lists-cn.json 并提交 PR
+3. 访问 popsite.cn 填写表单
 
 ## 希望能在您的站点上添加友情链接
 
