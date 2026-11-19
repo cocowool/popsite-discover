@@ -1843,5 +1843,21 @@
         "status": "active",
         "added_date": "2026-11-17",
         "lang": "zh"
+    },
+    {
+        "name": "JaSpirit的万事",
+        "url": "https://blog.jaspirit.cc/",
+        "description": "It's DEFICIENCY OF KNOWLEDGE that limits your freedom!",
+        "rss": "https://blog.jaspirit.cc/atom.xml",
+        "status": "active",
+        "added_date": "2026-11-17"
+    },
+    {
+        "name": "SIMON BLOG",
+        "url": "https://zhuzihan.com/",
+        "description": "同是天涯沦落人，相逢何必曾相识",
+        "rss": "",
+        "status": "no_rss",
+        "added_date": "2026-11-18"
     }
 ]
