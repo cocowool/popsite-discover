@@ -310,7 +310,7 @@
         "url": "https://blog.cnbang.net/",
         "description": "",
         "rss": "https://blog.cnbang.net/feed/",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-06-12",
         "lang": "zh"
     },
@@ -490,7 +490,7 @@
         "url": "https://leovan.me/",
         "description": "范叶亮的个人网站 | Leo Van's Personal Website",
         "rss": "https://leovan.me/feed",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-07-07",
         "lang": "zh"
     },
@@ -625,7 +625,7 @@
         "url": "https://www.codewoody.com/",
         "description": "晚来天雨雪，能饮一杯无？",
         "rss": "https://www.codewoody.com/atom.xml",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-08-21",
         "lang": "zh"
     },
@@ -661,7 +661,7 @@
         "url": "https://blog.vadxq.com/",
         "description": "清竹志,清竹茶馆-博客,vadxq,技术分享,前端开发,生活杂谈",
         "rss": "https://blog.vadxq.com/atom.xml",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-08-21",
         "lang": "zh"
     },
@@ -1309,7 +1309,7 @@
         "url": "https://www.iconpik.com/",
         "description": "记录稍纵即逝的观点、灵感与想法。",
         "rss": "https://www.iconpik.com/rss/",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-10-13",
         "lang": "zh"
     },
@@ -1327,7 +1327,7 @@
         "url": "https://mkblog.cn/",
         "description": "互联网+分享+科技+吐槽=孟坤博客",
         "rss": "https://mkblog.cn/feed/",
-        "status": "no_rss",
+        "status": "active",
         "added_date": "2026-10-16",
         "lang": "zh"
     },
