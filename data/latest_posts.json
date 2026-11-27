@@ -8,19 +8,155 @@
         "lang": "zh"
     },
     {
-        "blog_name": "forecho's Blog",
-        "blog_url": "https://blog.forecho.com/",
-        "title": "Al Brooks 交易室笔记：Mike Precog 的多周期逻辑、资金管理与学习方法",
-        "link": "https://blog.forecho.com/mike-precog-trading-room-notes.html",
-        "pub_date": "2026-11-23",
+        "blog_name": "阮一峰的网络日志",
+        "blog_url": "https://www.ruanyifeng.com/blog/",
+        "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+        "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+        "pub_date": "2026-11-27",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "不吐不快",
+        "blog_url": "https://mianao.info/",
+        "title": "如何做一个混蛋",
+        "link": "https://mianao.info/diy-mix-egg/",
+        "pub_date": "2026-11-27",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "东东's Blog",
+        "blog_url": "https://blog.yasking.org/",
+        "title": "Memos: 已严肃订阅日区哈基米",
+        "link": "https://blog.yasking.org/a/1795751127",
+        "pub_date": "2026-11-27",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "人工智障研究所",
+        "blog_url": "https://aizhiz.com/",
+        "title": "If My Company Sent FDEs to Change How I Work Tomorrow",
+        "link": "https://aizhiz.com/posts/2026-11-27-fde-earning-the-right-to-change-work/",
+        "pub_date": "2026-11-27",
         "lang": "zh"
     },
     {
         "blog_name": "Jun Xie",
         "blog_url": "https://www.seis-jun.xyz/",
-        "title": "随笔",
-        "link": "https://www.seis-jun.xyz/blog/2026-11-23-Random-thoughts.html",
-        "pub_date": "2026-11-23",
+        "title": "我楼上的邻居",
+        "link": "https://www.seis-jun.xyz/blog/2026-11-27-my-neighbour-upstairs.html",
+        "pub_date": "2026-11-26",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "双绞麻痹",
+        "blog_url": "https://numb.tech/",
+        "title": "就像十年前那样",
+        "link": "https://numb.tech/2026/11/26/like10yearsago/",
+        "pub_date": "2026-11-26",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "Sagasu",
+        "blog_url": "https://www.sagasu.art/",
+        "title": "Let your agent do the background check: how I designed PA Handshake",
+        "link": "https://www.sagasu.art/posts/pa-handshake-agent-due-diligence",
+        "pub_date": "2026-11-26",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "柴郡猫",
+        "blog_url": "https://www.cheshirex.com/",
+        "title": "2026黑色星期五-ColoCrossing物理服务器每月20美元起",
+        "link": "https://www.cheshirex.com/11771.html",
+        "pub_date": "2026-11-26",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "Shuibaco",
+        "blog_url": "https://shuiba.co/",
+        "title": "大头贴",
+        "link": "https://shuiba.co/purikura",
+        "pub_date": "2026-11-26",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "Tinyfool的个人网站",
+        "blog_url": "https://codechina.org/",
+        "title": "净募资 1170 亿、7 位创始人套现近 20 亿：Anthropic 史诗级上市是财富神话，还是超级豪赌？",
+        "link": "https://codechina.org/2026/11/1170-7-20-anthropic",
+        "pub_date": "2026-11-25",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "伪斜杠青年",
+        "blog_url": "https://i.lckiss.com/",
+        "title": "喜欢爬山路上的下坡路吗？轻松且快。",
+        "link": "https://i.lckiss.com/?p=10071",
+        "pub_date": "2026-11-25",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "est の 输入 输出和出入",
+        "blog_url": "https://blog.est.im/",
+        "title": "说点什么",
+        "link": "https://blog.est.im/2026/stdin-22",
+        "pub_date": "2026-11-25",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "扯氮集",
+        "blog_url": "http://weiwuhui.com/",
+        "title": "微信公号的加热 有没有用",
+        "link": "http://weiwuhui.com/11140.html",
+        "pub_date": "2026-11-25",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "forecho's Blog",
+        "blog_url": "https://blog.forecho.com/",
+        "title": "连赢 12 天后一把亏光：Al Brooks 交易室社区的一场真实复盘",
+        "link": "https://blog.forecho.com/why-winning-streaks-lead-to-blowups.html",
+        "pub_date": "2026-11-24",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "土木坛子",
+        "blog_url": "https://tumutanzi.com/",
+        "title": "学生逃课和我去爬山",
+        "link": "https://tumutanzi.com/archives/17660/",
+        "pub_date": "2026-11-24",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "BMPI",
+        "blog_url": "https://www.bmpi.dev/",
+        "title": "策引 2026 年度盘点：当市场冲高回落，规则守住了什么？",
+        "link": "https://www.bmpi.dev/money/myinvestpilot/2026_review/",
+        "pub_date": "2026-11-24",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "菲兹克斯喵",
+        "blog_url": "https://physnya.top/",
+        "title": "致密天体",
+        "link": "https://physnya.top/astro-physics/lesson-9-compact-objects/",
+        "pub_date": "2026-11-24",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "愆伏 - 互联网杂谈",
+        "blog_url": "https://tortorse.com/",
+        "title": "当漫画可以动起来，谁还会看漫画？",
+        "link": "https://www.tortorse.com/archives/when-comics-can-move/",
+        "pub_date": "2026-11-24",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "土豆不好吃",
+        "blog_url": "https://dmesg.app/",
+        "title": "离开了陪伴我11年的她",
+        "link": "https://dmesg.app/wp-emdash.html",
+        "pub_date": "2026-11-24",
         "lang": "zh"
     },
     {
@@ -40,10 +176,34 @@
         "lang": "zh"
     },
     {
+        "blog_name": "Jake Tao",
+        "blog_url": "https://jaketao.com/",
+        "title": "为什么要学会“回头看” ? – AI 注意力机制的由来",
+        "link": "https://jaketao.com/why-ai-look-back",
+        "pub_date": "2026-11-23",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "龙爪槐守望者",
+        "blog_url": "https://www.ftium4.com/",
+        "title": "体验碎周报第298期(2026.11.23)",
+        "link": "https://www.ftium4.com/ux-weekly-298.html",
+        "pub_date": "2026-11-23",
+        "lang": "zh"
+    },
+    {
         "blog_name": "潮流周刊",
         "blog_url": "https://weekly.tw93.fun/",
         "title": "第291期 - 晚秋良渚",
         "link": "https://weekly.tw93.fun/posts/291/",
+        "pub_date": "2026-11-23",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "拾月的博客",
+        "blog_url": "https://www.skyue.com/",
+        "title": "两次售后，几番折腾",
+        "link": "https://www.skyue.com/26112323.html",
         "pub_date": "2026-11-23",
         "lang": "zh"
     },
@@ -56,18 +216,18 @@
         "lang": "zh"
     },
     {
-        "blog_name": "Tinyfool的个人网站",
-        "blog_url": "https://codechina.org/",
-        "title": "黄仁勋会回来吗？英伟达仍需要有远见的领导者",
-        "link": "https://codechina.org/2026/11/jensen-huang-nvidia-leadership",
-        "pub_date": "2026-11-22",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Louis C Deng's Blog",
         "blog_url": "https://blog.aeilot.top/",
         "title": "Sam Gilliam：變化、抽象藝術與自由",
         "link": "https://blog.aeilot.top/2026/11/22/sam-gilliam-art/",
+        "pub_date": "2026-11-22",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "云游君的小站",
+        "blog_url": "https://www.yunyoujun.cn/",
+        "title": "四年前的「隔离食用手册」，我把它做成了原生 iOS App｜云食册",
+        "link": "https://www.yunyoujun.cn/posts/cook-app",
         "pub_date": "2026-11-22",
         "lang": "zh"
     },
@@ -88,6 +248,14 @@
         "lang": "zh"
     },
     {
+        "blog_name": "Indie Dev Weekly",
+        "blog_url": "https://www.shudao.wang/",
+        "title": "独立开发周记 197：利器在手，先把规矩立住",
+        "link": "https://shudao.wang/blog/weekly/weekly-197",
+        "pub_date": "2026-11-22",
+        "lang": "zh"
+    },
+    {
         "blog_name": "KAIX.IN",
         "blog_url": "https://kaix.in/",
         "title": "图书的插画",
@@ -96,75 +264,11 @@
         "lang": "zh"
     },
     {
-        "blog_name": "愆伏 - 互联网杂谈",
-        "blog_url": "https://tortorse.com/",
-        "title": "2010，瓢虫工作室",
-        "link": "https://www.tortorse.com/archives/ladybird-studio-2010/",
-        "pub_date": "2026-11-21",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "阮一峰的网络日志",
-        "blog_url": "https://www.ruanyifeng.com/blog/",
-        "title": "科技爱好者周刊（第 420 期）：最分心的一年",
-        "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "云游君的小站",
-        "blog_url": "https://www.yunyoujun.cn/",
-        "title": "用 Valaxy 从零搭建一个属于自己的网站",
-        "link": "https://www.yunyoujun.cn/posts/build-your-site-with-valaxy",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "est の 输入 输出和出入",
-        "blog_url": "https://blog.est.im/",
-        "title": "Lean 证明意味着什么——黎曼猜想证明闲谈",
-        "link": "https://blog.est.im/2026/stdin-21",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "Sagasu",
-        "blog_url": "https://www.sagasu.art/",
-        "title": "#6 它记错了你，怎么办",
-        "link": "https://www.sagasu.art/posts/ai-agent-memory-errors",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "王圆圆",
-        "blog_url": "https://www.iconpik.com/",
-        "title": "NAS Docker 升级 Ghost 6：MariaDB 迁移到 MySQL 的排错实录",
-        "link": "https://www.iconpik.com/ghost-6-upgrade-mariadb-to-mysql-blog/",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
         "blog_name": "阁子",
         "blog_url": "https://dfine.tech/",
         "title": "UnifyTerm: 跨平台统一终端",
         "link": "https://dfine.tech/posts/8a12e862/",
         "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "扯氮集",
-        "blog_url": "http://weiwuhui.com/",
-        "title": "可能会被清洗的黄仁勋部下",
-        "link": "http://weiwuhui.com/11136.html",
-        "pub_date": "2026-11-20",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "土木坛子",
-        "blog_url": "https://tumutanzi.com/",
-        "title": "全世界都在下雨",
-        "link": "https://tumutanzi.com/archives/17659/",
-        "pub_date": "2026-11-19",
         "lang": "zh"
     },
     {
@@ -192,42 +296,10 @@
         "lang": "zh"
     },
     {
-        "blog_name": "不吐不快",
-        "blog_url": "https://mianao.info/",
-        "title": "我最想要复刻的手机-Palm Pre",
-        "link": "https://mianao.info/phone-palm-pre-recreate/",
-        "pub_date": "2026-11-18",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "伪斜杠青年",
-        "blog_url": "https://i.lckiss.com/",
-        "title": "为何已到冬季，依旧寒蝉喋喋不休",
-        "link": "https://i.lckiss.com/?p=10055",
-        "pub_date": "2026-11-18",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Lex Blog",
         "blog_url": "https://dreams.plus/",
         "title": "图上的 Ricci 曲率：Ollivier 与 Forman",
         "link": "https://dreams.plus/blog/2026/0017-the-ricci-curvature",
-        "pub_date": "2026-11-18",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "东东's Blog",
-        "blog_url": "https://blog.yasking.org/",
-        "title": "Memos: 周大福 EOF 电商专属商品款号",
-        "link": "https://blog.yasking.org/a/1794966132",
-        "pub_date": "2026-11-18",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "Shuibaco",
-        "blog_url": "https://shuiba.co/",
-        "title": "水一篇",
-        "link": "https://shuiba.co/nothing-but-chatting",
         "pub_date": "2026-11-18",
         "lang": "zh"
     },
@@ -237,14 +309,6 @@
         "title": "Mac登录密码输入无反应",
         "link": "https://chegva.com/6832.html",
         "pub_date": "2026-11-17",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "菲兹克斯喵",
-        "blog_url": "https://physnya.top/",
-        "title": "恒星末期演化",
-        "link": "https://physnya.top/astro-physics/lesson-7-star-dying/",
-        "pub_date": "2026-11-16",
         "lang": "zh"
     },
     {
@@ -264,14 +328,6 @@
         "lang": "zh"
     },
     {
-        "blog_name": "BMPI",
-        "blog_url": "https://www.bmpi.dev/",
-        "title": "AI Agent 走进三维世界之后",
-        "link": "https://www.bmpi.dev/dev/agent-3d-world-building/",
-        "pub_date": "2026-11-15",
-        "lang": "zh"
-    },
-    {
         "blog_name": "luozhiyun`s Blog",
         "blog_url": "https://www.luozhiyun.com",
         "title": "2026年我是如何开发一个app",
@@ -280,26 +336,10 @@
         "lang": "zh"
     },
     {
-        "blog_name": "拾月的博客",
-        "blog_url": "https://www.skyue.com/",
-        "title": "玉鸟集溜娃",
-        "link": "https://www.skyue.com/26111523.html",
-        "pub_date": "2026-11-15",
-        "lang": "zh"
-    },
-    {
         "blog_name": "俟河清",
         "blog_url": "https://naive514.top/",
         "title": "有请重量级嘉宾：司辰",
         "link": "https://www.naive514.top/posts/8f0c0dc4a53d/",
-        "pub_date": "2026-11-15",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "Indie Dev Weekly",
-        "blog_url": "https://www.shudao.wang/",
-        "title": "独立开发周记 196：疯狂依赖 AI，做着没人下载的 App",
-        "link": "https://shudao.wang/blog/weekly/weekly-196",
         "pub_date": "2026-11-15",
         "lang": "zh"
     },
@@ -336,11 +376,11 @@
         "lang": "zh"
     },
     {
-        "blog_name": "柴郡猫",
-        "blog_url": "https://www.cheshirex.com/",
-        "title": "muse注册-无需绑卡即可注册",
-        "link": "https://www.cheshirex.com/11674.html",
-        "pub_date": "2026-11-12",
+        "blog_name": "刘果",
+        "blog_url": "https://www.liu-guo.com/",
+        "title": "The strange case of the internet publisher",
+        "link": "https://www.liu-guo.com/en/writing/the-strange-case-of-the-internet-publisher/index.html?utm_source=rss&utm_medium=feed",
+        "pub_date": "2026-11-13",
         "lang": "zh"
     },
     {
@@ -392,14 +432,6 @@
         "lang": "zh"
     },
     {
-        "blog_name": "龙爪槐守望者",
-        "blog_url": "https://www.ftium4.com/",
-        "title": "体验碎周报第297期(2026.11.9)",
-        "link": "https://www.ftium4.com/ux-weekly-297.html",
-        "pub_date": "2026-11-09",
-        "lang": "zh"
-    },
-    {
         "blog_name": "kn007的个人博客",
         "blog_url": "https://kn007.net/",
         "title": "博客服务器迁移至V.PS",
@@ -424,14 +456,6 @@
         "lang": "zh"
     },
     {
-        "blog_name": "人工智障研究所",
-        "blog_url": "https://aizhiz.com/",
-        "title": "My AI Agents Were All Running. Which Task Needed My Attention?",
-        "link": "https://aizhiz.com/posts/2026-11-08-agent-orchestration/",
-        "pub_date": "2026-11-08",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Seven's blog",
         "blog_url": "https://blog.diqigan.cn/",
         "title": "PARA 方法论完全解读:按可行动性组织你的第二大脑",
@@ -448,18 +472,18 @@
         "lang": "zh"
     },
     {
-        "blog_name": "闲人LIFE",
-        "blog_url": "https://www.xianrenlife.com/",
-        "title": "芬兰与爱沙尼亚之旅（四）坦佩雷与湖滨木屋",
-        "link": "https://www.xianrenlife.com/2026/11/blog-post.html",
-        "pub_date": "2026-11-07",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Jiajun的技术笔记",
         "blog_url": "https://jiajunhuang.com/",
         "title": "OpenWrt 扩容实战：NVMe 分区已经扩大，但 df 显示空间不变",
         "link": "https://jiajunhuang.com/articles/2026_11_06-upgrade_openwrt.md.html",
+        "pub_date": "2026-11-06",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "Bluemangoo's Blog",
+        "blog_url": "https://blog.bluemangoo.net/",
+        "title": "AI 式中文，zh_llm，或者更灾难的东西",
+        "link": "https://blog.bluemangoo.net/blogs/zh_llm/",
         "pub_date": "2026-11-06",
         "lang": "zh"
     },
@@ -476,14 +500,6 @@
         "blog_url": "https://macshuo.com/",
         "title": "今天去把我的牙装上了",
         "link": "https://macshuo.com/?p=2087",
-        "pub_date": "2026-11-01",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "LiesAuer's Blog",
-        "blog_url": "https://www.liesauer.net/",
-        "title": "分享一下近期爆火的AI人脸、姿势、服装素材库",
-        "link": "https://www.liesauer.net/blog/post/1047.html",
         "pub_date": "2026-11-01",
         "lang": "zh"
     },
@@ -600,14 +616,6 @@
         "lang": "zh"
     },
     {
-        "blog_name": "双绞麻痹",
-        "blog_url": "https://numb.tech/",
-        "title": "算法之外——我的墨水屏RSS方案",
-        "link": "https://numb.tech/2026/10/14/algorithm-inkRss/",
-        "pub_date": "2026-10-14",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Just lepture",
         "blog_url": "https://lepture.com/",
         "title": "Building Prosefly",
@@ -672,14 +680,6 @@
         "lang": "zh"
     },
     {
-        "blog_name": "孟坤博客",
-        "blog_url": "https://mkblog.cn/",
-        "title": "AI 时代的焦虑程序员",
-        "link": "https://mkblog.cn/2601/",
-        "pub_date": "2026-09-28",
-        "lang": "zh"
-    },
-    {
         "blog_name": "Steve Sun",
         "blog_url": "https://sund.site/",
         "title": "【译文】当 AI 什么都能生成，如何建立品味",
@@ -732,14 +732,6 @@
         "blog_url": "https://oldj.net/",
         "title": "从网文看独立开发",
         "link": "https://oldj.net/posts/what-web-fiction-can-teach-us-about-indie-development",
-        "pub_date": "2026-09-21",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "Jake Tao",
-        "blog_url": "https://jaketao.com/",
-        "title": "首token延迟-大模型多久才开始回答",
-        "link": "https://jaketao.com/time-to-first-token-ai-models",
         "pub_date": "2026-09-21",
         "lang": "zh"
     },
@@ -797,22 +789,6 @@
         "title": "HTB - SpeedNet",
         "link": "https://blog.abb00717.com/%E7%B4%80%E9%8C%84/Hack-The-Box/Challenges/SpeedNet",
         "pub_date": "2026-09-16",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "土豆不好吃",
-        "blog_url": "https://dmesg.app/",
-        "title": "我只是想复制个门禁卡👿",
-        "link": "https://dmesg.app/nfc-clone.html",
-        "pub_date": "2026-09-16",
-        "lang": "zh"
-    },
-    {
-        "blog_name": "刘果",
-        "blog_url": "https://www.liu-guo.com/",
-        "title": "DWeb Camp，下次见",
-        "link": "https://www.liu-guo.com/writings/distributed-web/dweb-camp-2026/index.html?utm_source=rss&utm_medium=feed",
-        "pub_date": "2026-09-15",
         "lang": "zh"
     },
     {
@@ -1016,6 +992,14 @@
         "lang": "zh"
     },
     {
+        "blog_name": "Amiya的书桌",
+        "blog_url": "https://blog.sayori.org/",
+        "title": "又来做一次自我介绍了（2026 年 11 月）",
+        "link": "https://blog.sayori.org/posts/ziwojieshao/self-introduction/",
+        "pub_date": "2026-07-13",
+        "lang": "zh"
+    },
+    {
         "blog_name": "Origin - Singee's Blog",
         "blog_url": "https://blog.singee.me/",
         "title": "Agent 安全：环境变量泄露",
@@ -1141,6 +1125,14 @@
         "title": "我在 2025 年看完的书",
         "link": "https://1byte.io/articles/2025-books/",
         "pub_date": "2026-01-14",
+        "lang": "zh"
+    },
+    {
+        "blog_name": "bang's blog",
+        "blog_url": "https://blog.cnbang.net/",
+        "title": "Agent 模型的思维链是什么",
+        "link": "https://blog.cnbang.net/uncategorized/4279/",
+        "pub_date": "2026-01-12",
         "lang": "zh"
     },
     {

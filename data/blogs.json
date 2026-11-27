@@ -67,7 +67,7 @@
         "url": "https://www.xiabingbao.com/",
         "description": "分享前端技术、生活和思考。",
         "rss": "",
-        "status": "no_rss",
+        "status": "archived",
         "added_date": "2026-06-05",
         "lang": "zh"
     },
@@ -310,7 +310,7 @@
         "url": "https://blog.cnbang.net/",
         "description": "",
         "rss": "https://blog.cnbang.net/feed/",
-        "status": "archived",
+        "status": "active",
         "added_date": "2026-06-12",
         "lang": "zh"
     },
@@ -661,7 +661,7 @@
         "url": "https://blog.vadxq.com/",
         "description": "清竹志,清竹茶馆-博客,vadxq,技术分享,前端开发,生活杂谈",
         "rss": "https://blog.vadxq.com/atom.xml",
-        "status": "no_rss",
+        "status": "archived",
         "added_date": "2026-08-21",
         "lang": "zh"
     },
@@ -832,7 +832,7 @@
         "url": "https://www.liesauer.net/",
         "description": "",
         "rss": "https://www.liesauer.net/blog/feed/",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-08-28",
         "lang": "zh"
     },
@@ -1309,7 +1309,7 @@
         "url": "https://www.iconpik.com/",
         "description": "记录稍纵即逝的观点、灵感与想法。",
         "rss": "https://www.iconpik.com/rss/",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-10-13",
         "lang": "zh"
     },
@@ -1327,7 +1327,7 @@
         "url": "https://mkblog.cn/",
         "description": "互联网+分享+科技+吐槽=孟坤博客",
         "rss": "https://mkblog.cn/feed/",
-        "status": "active",
+        "status": "no_rss",
         "added_date": "2026-10-16",
         "lang": "zh"
     },
@@ -1813,7 +1813,7 @@
         "url": "https://howiehz.top/",
         "description": "互联网是一片海洋，网站犹如一座座孤岛漂浮在其上，唯有超链接将它们联系起来。而此处恰好就是一座小岛，欢迎访问皓子的小站。\n皓子的小站 - HowieHz's Website ~ An Island on the Internet.",
         "rss": "https://howiehz.top/rss.xml",
-        "status": "no_rss",
+        "status": "archived",
         "added_date": "2026-11-17",
         "lang": "zh"
     },
@@ -1831,7 +1831,7 @@
         "url": "https://www.xianrenlife.com/",
         "description": "我是孙李，一名「野生网络作家」。「闲人LIFE」是我的个人文学博客，主要内容为小说、随笔和文艺评论。",
         "rss": "https://www.xianrenlife.com/feeds/posts/default",
-        "status": "active",
+        "status": "archived",
         "added_date": "2026-11-17",
         "lang": "zh"
     },
@@ -1849,8 +1849,9 @@
         "url": "https://blog.jaspirit.cc/",
         "description": "It's DEFICIENCY OF KNOWLEDGE that limits your freedom!",
         "rss": "https://blog.jaspirit.cc/atom.xml",
-        "status": "active",
-        "added_date": "2026-11-17"
+        "status": "no_rss",
+        "added_date": "2026-11-17",
+        "lang": "zh"
     },
     {
         "name": "SIMON BLOG",
@@ -1858,7 +1859,8 @@
         "description": "同是天涯沦落人，相逢何必曾相识",
         "rss": "",
         "status": "no_rss",
-        "added_date": "2026-11-18"
+        "added_date": "2026-11-18",
+        "lang": "zh"
     },
     {
         "name": "Amiya的书桌",
@@ -1866,7 +1868,8 @@
         "description": "Amiya的书桌，记录游戏开发、网站、工具与学习途中的小事。",
         "rss": "https://blog.sayori.org/rss.xml",
         "status": "active",
-        "added_date": "2026-11-19"
+        "added_date": "2026-11-19",
+        "lang": "zh"
     },
     {
         "name": "Bluemangoo's Blog",
@@ -1874,6 +1877,7 @@
         "description": "Bluemangoo的博客",
         "rss": "https://blog.bluemangoo.net/rss.xml",
         "status": "active",
-        "added_date": "2026-11-20"
+        "added_date": "2026-11-20",
+        "lang": "zh"
     }
 ]
