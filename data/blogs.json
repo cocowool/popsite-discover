@@ -1859,5 +1859,21 @@
         "rss": "",
         "status": "no_rss",
         "added_date": "2026-11-18"
+    },
+    {
+        "name": "Amiya的书桌",
+        "url": "https://blog.sayori.org/",
+        "description": "Amiya的书桌，记录游戏开发、网站、工具与学习途中的小事。",
+        "rss": "https://blog.sayori.org/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-19"
+    },
+    {
+        "name": "Bluemangoo's Blog",
+        "url": "https://blog.bluemangoo.net/",
+        "description": "Bluemangoo的博客",
+        "rss": "https://blog.bluemangoo.net/rss.xml",
+        "status": "active",
+        "added_date": "2026-11-20"
     }
 ]
